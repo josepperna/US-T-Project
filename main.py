@@ -36,6 +36,7 @@ def write_to_csv(frame_id, bike_data):
         write = csv.writer(csv_file)
         journey_data = gen_data(frame_id, bike_data)
         data = []
+        write.writerow(["start_lat", "start_long", "time_since_last_journey", "end_lat", "end_long", "time_at_current_location"])
         for journey in journey_data:
             row = []
             row.append(journey[0][0][0])
