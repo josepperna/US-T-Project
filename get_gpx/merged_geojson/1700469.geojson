@@ -1,0 +1,5333 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.272687,
+        53.3324,
+        -6.265703,
+        53.34887
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 2596.1,
+            "duration": 414.8,
+            "steps": [
+              {
+                "distance": 14.4,
+                "duration": 3.5,
+                "type": 11,
+                "instruction": "Head north on Synge Street",
+                "name": "Synge Street",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 94.1,
+                "duration": 8.5,
+                "type": 0,
+                "instruction": "Turn left onto Harrington Street, R811",
+                "name": "Harrington Street, R811",
+                "way_points": [
+                  2,
+                  4
+                ]
+              },
+              {
+                "distance": 635.6,
+                "duration": 93.6,
+                "type": 1,
+                "instruction": "Turn right onto Heytesbury Street",
+                "name": "Heytesbury Street",
+                "way_points": [
+                  4,
+                  22
+                ]
+              },
+              {
+                "distance": 244.2,
+                "duration": 43.6,
+                "type": 0,
+                "instruction": "Turn left onto Kevin Street Upper, R110",
+                "name": "Kevin Street Upper, R110",
+                "way_points": [
+                  22,
+                  31
+                ]
+              },
+              {
+                "distance": 416.3,
+                "duration": 70.1,
+                "type": 1,
+                "instruction": "Turn right onto Patrick Street, R137",
+                "name": "Patrick Street, R137",
+                "way_points": [
+                  31,
+                  49
+                ]
+              },
+              {
+                "distance": 33.9,
+                "duration": 8.1,
+                "type": 6,
+                "instruction": "Continue straight onto Nicholas Street, R137",
+                "name": "Nicholas Street, R137",
+                "way_points": [
+                  49,
+                  52
+                ]
+              },
+              {
+                "distance": 300,
+                "duration": 57.5,
+                "type": 4,
+                "instruction": "Turn slight left onto Christchurch Square, R137",
+                "name": "Christchurch Square, R137",
+                "way_points": [
+                  52,
+                  69
+                ]
+              },
+              {
+                "distance": 439.7,
+                "duration": 52.6,
+                "type": 1,
+                "instruction": "Turn right onto Inns Quay, R148",
+                "name": "Inns Quay, R148",
+                "way_points": [
+                  69,
+                  76
+                ]
+              },
+              {
+                "distance": 147.2,
+                "duration": 29.3,
+                "type": 0,
+                "instruction": "Turn left onto Swift's Row",
+                "name": "Swift's Row",
+                "way_points": [
+                  76,
+                  81
+                ]
+              },
+              {
+                "distance": 95.7,
+                "duration": 23,
+                "type": 0,
+                "instruction": "Turn left onto Upper Abbey Street",
+                "name": "Upper Abbey Street",
+                "way_points": [
+                  81,
+                  84
+                ]
+              },
+              {
+                "distance": 175,
+                "duration": 25.2,
+                "type": 1,
+                "instruction": "Turn right onto Jervis Lane Lower",
+                "name": "Jervis Lane Lower",
+                "way_points": [
+                  84,
+                  89
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Jervis Lane Lower, on the right",
+                "name": "-",
+                "way_points": [
+                  89,
+                  89
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          89
+        ],
+        "summary": {
+          "distance": 2596.1,
+          "duration": 414.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.266895,
+            53.3324
+          ],
+          [
+            -6.266899,
+            53.332453
+          ],
+          [
+            -6.266902,
+            53.332529
+          ],
+          [
+            -6.268224,
+            53.332469
+          ],
+          [
+            -6.268315,
+            53.332465
+          ],
+          [
+            -6.268335,
+            53.332554
+          ],
+          [
+            -6.2684,
+            53.333019
+          ],
+          [
+            -6.268442,
+            53.333319
+          ],
+          [
+            -6.268538,
+            53.333872
+          ],
+          [
+            -6.26856,
+            53.333988
+          ],
+          [
+            -6.268628,
+            53.334463
+          ],
+          [
+            -6.268724,
+            53.335044
+          ],
+          [
+            -6.268748,
+            53.335175
+          ],
+          [
+            -6.268809,
+            53.335558
+          ],
+          [
+            -6.268837,
+            53.335724
+          ],
+          [
+            -6.268903,
+            53.336065
+          ],
+          [
+            -6.268927,
+            53.336196
+          ],
+          [
+            -6.269008,
+            53.336722
+          ],
+          [
+            -6.269099,
+            53.337249
+          ],
+          [
+            -6.269122,
+            53.337368
+          ],
+          [
+            -6.269177,
+            53.337647
+          ],
+          [
+            -6.269233,
+            53.33788
+          ],
+          [
+            -6.269298,
+            53.33815
+          ],
+          [
+            -6.269495,
+            53.338207
+          ],
+          [
+            -6.270192,
+            53.338254
+          ],
+          [
+            -6.270664,
+            53.33833
+          ],
+          [
+            -6.271197,
+            53.338447
+          ],
+          [
+            -6.271989,
+            53.338686
+          ],
+          [
+            -6.272188,
+            53.338751
+          ],
+          [
+            -6.272292,
+            53.338788
+          ],
+          [
+            -6.272506,
+            53.338853
+          ],
+          [
+            -6.272687,
+            53.338933
+          ],
+          [
+            -6.27259,
+            53.339299
+          ],
+          [
+            -6.272581,
+            53.339347
+          ],
+          [
+            -6.272512,
+            53.339573
+          ],
+          [
+            -6.272332,
+            53.339897
+          ],
+          [
+            -6.272264,
+            53.340103
+          ],
+          [
+            -6.272256,
+            53.340196
+          ],
+          [
+            -6.272272,
+            53.340288
+          ],
+          [
+            -6.272284,
+            53.340352
+          ],
+          [
+            -6.272298,
+            53.340424
+          ],
+          [
+            -6.272354,
+            53.340631
+          ],
+          [
+            -6.272382,
+            53.34095
+          ],
+          [
+            -6.272335,
+            53.341487
+          ],
+          [
+            -6.272333,
+            53.341613
+          ],
+          [
+            -6.272332,
+            53.341691
+          ],
+          [
+            -6.272328,
+            53.341818
+          ],
+          [
+            -6.272315,
+            53.342221
+          ],
+          [
+            -6.272217,
+            53.342379
+          ],
+          [
+            -6.272036,
+            53.342606
+          ],
+          [
+            -6.271947,
+            53.342704
+          ],
+          [
+            -6.271886,
+            53.342779
+          ],
+          [
+            -6.271782,
+            53.34287
+          ],
+          [
+            -6.271764,
+            53.342954
+          ],
+          [
+            -6.271763,
+            53.343034
+          ],
+          [
+            -6.271769,
+            53.343104
+          ],
+          [
+            -6.271795,
+            53.343223
+          ],
+          [
+            -6.271798,
+            53.343269
+          ],
+          [
+            -6.271806,
+            53.343356
+          ],
+          [
+            -6.271837,
+            53.34354
+          ],
+          [
+            -6.271836,
+            53.343579
+          ],
+          [
+            -6.27181,
+            53.343922
+          ],
+          [
+            -6.271848,
+            53.34417
+          ],
+          [
+            -6.271859,
+            53.344204
+          ],
+          [
+            -6.271923,
+            53.344363
+          ],
+          [
+            -6.272119,
+            53.344973
+          ],
+          [
+            -6.272119,
+            53.345046
+          ],
+          [
+            -6.272156,
+            53.345272
+          ],
+          [
+            -6.272196,
+            53.345503
+          ],
+          [
+            -6.272213,
+            53.345543
+          ],
+          [
+            -6.271696,
+            53.345572
+          ],
+          [
+            -6.271229,
+            53.345624
+          ],
+          [
+            -6.270177,
+            53.345765
+          ],
+          [
+            -6.269824,
+            53.345812
+          ],
+          [
+            -6.267868,
+            53.346065
+          ],
+          [
+            -6.266856,
+            53.346145
+          ],
+          [
+            -6.265703,
+            53.346256
+          ],
+          [
+            -6.265915,
+            53.346805
+          ],
+          [
+            -6.266045,
+            53.347146
+          ],
+          [
+            -6.266084,
+            53.347249
+          ],
+          [
+            -6.266195,
+            53.347538
+          ],
+          [
+            -6.266197,
+            53.347546
+          ],
+          [
+            -6.266957,
+            53.347431
+          ],
+          [
+            -6.267363,
+            53.347366
+          ],
+          [
+            -6.267595,
+            53.347336
+          ],
+          [
+            -6.267602,
+            53.347352
+          ],
+          [
+            -6.267826,
+            53.347962
+          ],
+          [
+            -6.268066,
+            53.348565
+          ],
+          [
+            -6.268069,
+            53.348605
+          ],
+          [
+            -6.268167,
+            53.34887
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.270074,
+        53.348565,
+        -6.266296,
+        53.352028
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1053.4,
+            "duration": 188.3,
+            "steps": [
+              {
+                "distance": 105.4,
+                "duration": 15.2,
+                "type": 11,
+                "instruction": "Head north on Jervis Lane Upper",
+                "name": "Jervis Lane Upper",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 46,
+                "duration": 9.6,
+                "type": 0,
+                "instruction": "Turn left onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  3,
+                  6
+                ]
+              },
+              {
+                "distance": 172.7,
+                "duration": 30,
+                "type": 1,
+                "instruction": "Turn right onto Capel Street",
+                "name": "Capel Street",
+                "way_points": [
+                  6,
+                  16
+                ]
+              },
+              {
+                "distance": 123.2,
+                "duration": 21.3,
+                "type": 1,
+                "instruction": "Turn right onto Bolton Street, R804",
+                "name": "Bolton Street, R804",
+                "way_points": [
+                  16,
+                  21
+                ]
+              },
+              {
+                "distance": 262.7,
+                "duration": 37.8,
+                "type": 1,
+                "instruction": "Turn right onto King's Inn's Street",
+                "name": "King's Inn's Street",
+                "way_points": [
+                  21,
+                  28
+                ]
+              },
+              {
+                "distance": 22.4,
+                "duration": 8.1,
+                "type": 1,
+                "instruction": "Turn right onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  28,
+                  30
+                ]
+              },
+              {
+                "distance": 104.4,
+                "duration": 16.9,
+                "type": 5,
+                "instruction": "Turn slight right onto Parnell Street, R803",
+                "name": "Parnell Street, R803",
+                "way_points": [
+                  30,
+                  34
+                ]
+              },
+              {
+                "distance": 147,
+                "duration": 35.3,
+                "type": 0,
+                "instruction": "Turn left onto Wolfe Tone Street",
+                "name": "Wolfe Tone Street",
+                "way_points": [
+                  34,
+                  37
+                ]
+              },
+              {
+                "distance": 44.5,
+                "duration": 10.7,
+                "type": 1,
+                "instruction": "Turn right onto Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  37,
+                  38
+                ]
+              },
+              {
+                "distance": 25.1,
+                "duration": 3.6,
+                "type": 1,
+                "instruction": "Turn right onto Jervis Lane Upper",
+                "name": "Jervis Lane Upper",
+                "way_points": [
+                  38,
+                  40
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Jervis Lane Upper, on the right",
+                "name": "-",
+                "way_points": [
+                  40,
+                  40
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          40
+        ],
+        "summary": {
+          "distance": 1053.4,
+          "duration": 188.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.268167,
+            53.34887
+          ],
+          [
+            -6.268224,
+            53.349027
+          ],
+          [
+            -6.268429,
+            53.349439
+          ],
+          [
+            -6.268578,
+            53.349786
+          ],
+          [
+            -6.269031,
+            53.349678
+          ],
+          [
+            -6.269134,
+            53.349653
+          ],
+          [
+            -6.269222,
+            53.349633
+          ],
+          [
+            -6.269438,
+            53.350135
+          ],
+          [
+            -6.26946,
+            53.350206
+          ],
+          [
+            -6.269459,
+            53.350241
+          ],
+          [
+            -6.269483,
+            53.350286
+          ],
+          [
+            -6.269724,
+            53.350531
+          ],
+          [
+            -6.26983,
+            53.350748
+          ],
+          [
+            -6.269857,
+            53.350904
+          ],
+          [
+            -6.269878,
+            53.350937
+          ],
+          [
+            -6.269988,
+            53.351015
+          ],
+          [
+            -6.270074,
+            53.351069
+          ],
+          [
+            -6.269957,
+            53.351172
+          ],
+          [
+            -6.269846,
+            53.35127
+          ],
+          [
+            -6.269813,
+            53.351312
+          ],
+          [
+            -6.269784,
+            53.351349
+          ],
+          [
+            -6.269147,
+            53.352028
+          ],
+          [
+            -6.268955,
+            53.351971
+          ],
+          [
+            -6.267851,
+            53.351612
+          ],
+          [
+            -6.267235,
+            53.351349
+          ],
+          [
+            -6.267171,
+            53.351303
+          ],
+          [
+            -6.266952,
+            53.351102
+          ],
+          [
+            -6.266339,
+            53.350534
+          ],
+          [
+            -6.266296,
+            53.350484
+          ],
+          [
+            -6.266374,
+            53.350394
+          ],
+          [
+            -6.266453,
+            53.350305
+          ],
+          [
+            -6.266919,
+            53.350177
+          ],
+          [
+            -6.267185,
+            53.350139
+          ],
+          [
+            -6.267879,
+            53.349963
+          ],
+          [
+            -6.267908,
+            53.349955
+          ],
+          [
+            -6.267728,
+            53.349482
+          ],
+          [
+            -6.267532,
+            53.348966
+          ],
+          [
+            -6.267417,
+            53.348666
+          ],
+          [
+            -6.268066,
+            53.348565
+          ],
+          [
+            -6.268069,
+            53.348605
+          ],
+          [
+            -6.268136,
+            53.348786
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.270074,
+        53.348597,
+        -6.266296,
+        53.352028
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1023.7,
+            "duration": 182.7,
+            "steps": [
+              {
+                "distance": 115,
+                "duration": 16.6,
+                "type": 11,
+                "instruction": "Head north on Jervis Lane Upper",
+                "name": "Jervis Lane Upper",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 46,
+                "duration": 9.6,
+                "type": 0,
+                "instruction": "Turn left onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  3,
+                  6
+                ]
+              },
+              {
+                "distance": 172.7,
+                "duration": 30,
+                "type": 1,
+                "instruction": "Turn right onto Capel Street",
+                "name": "Capel Street",
+                "way_points": [
+                  6,
+                  16
+                ]
+              },
+              {
+                "distance": 123.2,
+                "duration": 21.3,
+                "type": 1,
+                "instruction": "Turn right onto Bolton Street, R804",
+                "name": "Bolton Street, R804",
+                "way_points": [
+                  16,
+                  21
+                ]
+              },
+              {
+                "distance": 262.7,
+                "duration": 37.8,
+                "type": 1,
+                "instruction": "Turn right onto King's Inn's Street",
+                "name": "King's Inn's Street",
+                "way_points": [
+                  21,
+                  28
+                ]
+              },
+              {
+                "distance": 22.4,
+                "duration": 8.1,
+                "type": 1,
+                "instruction": "Turn right onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  28,
+                  30
+                ]
+              },
+              {
+                "distance": 104.4,
+                "duration": 16.9,
+                "type": 5,
+                "instruction": "Turn slight right onto Parnell Street, R803",
+                "name": "Parnell Street, R803",
+                "way_points": [
+                  30,
+                  34
+                ]
+              },
+              {
+                "distance": 147,
+                "duration": 35.3,
+                "type": 0,
+                "instruction": "Turn left onto Wolfe Tone Street",
+                "name": "Wolfe Tone Street",
+                "way_points": [
+                  34,
+                  37
+                ]
+              },
+              {
+                "distance": 30.3,
+                "duration": 7.3,
+                "type": 1,
+                "instruction": "Turn right onto Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  37,
+                  38
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Mary Street, straight ahead",
+                "name": "-",
+                "way_points": [
+                  38,
+                  38
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          38
+        ],
+        "summary": {
+          "distance": 1023.7,
+          "duration": 182.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.268136,
+            53.348786
+          ],
+          [
+            -6.268224,
+            53.349027
+          ],
+          [
+            -6.268429,
+            53.349439
+          ],
+          [
+            -6.268578,
+            53.349786
+          ],
+          [
+            -6.269031,
+            53.349678
+          ],
+          [
+            -6.269134,
+            53.349653
+          ],
+          [
+            -6.269222,
+            53.349633
+          ],
+          [
+            -6.269438,
+            53.350135
+          ],
+          [
+            -6.26946,
+            53.350206
+          ],
+          [
+            -6.269459,
+            53.350241
+          ],
+          [
+            -6.269483,
+            53.350286
+          ],
+          [
+            -6.269724,
+            53.350531
+          ],
+          [
+            -6.26983,
+            53.350748
+          ],
+          [
+            -6.269857,
+            53.350904
+          ],
+          [
+            -6.269878,
+            53.350937
+          ],
+          [
+            -6.269988,
+            53.351015
+          ],
+          [
+            -6.270074,
+            53.351069
+          ],
+          [
+            -6.269957,
+            53.351172
+          ],
+          [
+            -6.269846,
+            53.35127
+          ],
+          [
+            -6.269813,
+            53.351312
+          ],
+          [
+            -6.269784,
+            53.351349
+          ],
+          [
+            -6.269147,
+            53.352028
+          ],
+          [
+            -6.268955,
+            53.351971
+          ],
+          [
+            -6.267851,
+            53.351612
+          ],
+          [
+            -6.267235,
+            53.351349
+          ],
+          [
+            -6.267171,
+            53.351303
+          ],
+          [
+            -6.266952,
+            53.351102
+          ],
+          [
+            -6.266339,
+            53.350534
+          ],
+          [
+            -6.266296,
+            53.350484
+          ],
+          [
+            -6.266374,
+            53.350394
+          ],
+          [
+            -6.266453,
+            53.350305
+          ],
+          [
+            -6.266919,
+            53.350177
+          ],
+          [
+            -6.267185,
+            53.350139
+          ],
+          [
+            -6.267879,
+            53.349963
+          ],
+          [
+            -6.267908,
+            53.349955
+          ],
+          [
+            -6.267728,
+            53.349482
+          ],
+          [
+            -6.267532,
+            53.348966
+          ],
+          [
+            -6.267417,
+            53.348666
+          ],
+          [
+            -6.267859,
+            53.348597
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.267962,
+        53.348581,
+        -6.267859,
+        53.348597
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 7.1,
+            "duration": 1.7,
+            "steps": [
+              {
+                "distance": 7.1,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head west on Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Mary Street, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 7.1,
+          "duration": 1.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.267859,
+            53.348597
+          ],
+          [
+            -6.267962,
+            53.348581
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.270074,
+        53.348565,
+        -6.266296,
+        53.352028
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1061.1,
+            "duration": 189.3,
+            "steps": [
+              {
+                "distance": 7.3,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head west on Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 140,
+                "duration": 20.2,
+                "type": 1,
+                "instruction": "Turn right onto Jervis Lane Upper",
+                "name": "Jervis Lane Upper",
+                "way_points": [
+                  1,
+                  5
+                ]
+              },
+              {
+                "distance": 46,
+                "duration": 9.6,
+                "type": 0,
+                "instruction": "Turn left onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  5,
+                  8
+                ]
+              },
+              {
+                "distance": 172.7,
+                "duration": 30,
+                "type": 1,
+                "instruction": "Turn right onto Capel Street",
+                "name": "Capel Street",
+                "way_points": [
+                  8,
+                  18
+                ]
+              },
+              {
+                "distance": 123.2,
+                "duration": 21.3,
+                "type": 1,
+                "instruction": "Turn right onto Bolton Street, R804",
+                "name": "Bolton Street, R804",
+                "way_points": [
+                  18,
+                  23
+                ]
+              },
+              {
+                "distance": 262.7,
+                "duration": 37.8,
+                "type": 1,
+                "instruction": "Turn right onto King's Inn's Street",
+                "name": "King's Inn's Street",
+                "way_points": [
+                  23,
+                  30
+                ]
+              },
+              {
+                "distance": 22.4,
+                "duration": 8.1,
+                "type": 1,
+                "instruction": "Turn right onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  30,
+                  32
+                ]
+              },
+              {
+                "distance": 104.4,
+                "duration": 16.9,
+                "type": 5,
+                "instruction": "Turn slight right onto Parnell Street, R803",
+                "name": "Parnell Street, R803",
+                "way_points": [
+                  32,
+                  36
+                ]
+              },
+              {
+                "distance": 147,
+                "duration": 35.3,
+                "type": 0,
+                "instruction": "Turn left onto Wolfe Tone Street",
+                "name": "Wolfe Tone Street",
+                "way_points": [
+                  36,
+                  39
+                ]
+              },
+              {
+                "distance": 35.5,
+                "duration": 8.5,
+                "type": 1,
+                "instruction": "Turn right onto Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  39,
+                  40
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Mary Street, on the right",
+                "name": "-",
+                "way_points": [
+                  40,
+                  40
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          40
+        ],
+        "summary": {
+          "distance": 1061.1,
+          "duration": 189.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.267962,
+            53.348581
+          ],
+          [
+            -6.268066,
+            53.348565
+          ],
+          [
+            -6.268069,
+            53.348605
+          ],
+          [
+            -6.268224,
+            53.349027
+          ],
+          [
+            -6.268429,
+            53.349439
+          ],
+          [
+            -6.268578,
+            53.349786
+          ],
+          [
+            -6.269031,
+            53.349678
+          ],
+          [
+            -6.269134,
+            53.349653
+          ],
+          [
+            -6.269222,
+            53.349633
+          ],
+          [
+            -6.269438,
+            53.350135
+          ],
+          [
+            -6.26946,
+            53.350206
+          ],
+          [
+            -6.269459,
+            53.350241
+          ],
+          [
+            -6.269483,
+            53.350286
+          ],
+          [
+            -6.269724,
+            53.350531
+          ],
+          [
+            -6.26983,
+            53.350748
+          ],
+          [
+            -6.269857,
+            53.350904
+          ],
+          [
+            -6.269878,
+            53.350937
+          ],
+          [
+            -6.269988,
+            53.351015
+          ],
+          [
+            -6.270074,
+            53.351069
+          ],
+          [
+            -6.269957,
+            53.351172
+          ],
+          [
+            -6.269846,
+            53.35127
+          ],
+          [
+            -6.269813,
+            53.351312
+          ],
+          [
+            -6.269784,
+            53.351349
+          ],
+          [
+            -6.269147,
+            53.352028
+          ],
+          [
+            -6.268955,
+            53.351971
+          ],
+          [
+            -6.267851,
+            53.351612
+          ],
+          [
+            -6.267235,
+            53.351349
+          ],
+          [
+            -6.267171,
+            53.351303
+          ],
+          [
+            -6.266952,
+            53.351102
+          ],
+          [
+            -6.266339,
+            53.350534
+          ],
+          [
+            -6.266296,
+            53.350484
+          ],
+          [
+            -6.266374,
+            53.350394
+          ],
+          [
+            -6.266453,
+            53.350305
+          ],
+          [
+            -6.266919,
+            53.350177
+          ],
+          [
+            -6.267185,
+            53.350139
+          ],
+          [
+            -6.267879,
+            53.349963
+          ],
+          [
+            -6.267908,
+            53.349955
+          ],
+          [
+            -6.267728,
+            53.349482
+          ],
+          [
+            -6.267532,
+            53.348966
+          ],
+          [
+            -6.267417,
+            53.348666
+          ],
+          [
+            -6.267934,
+            53.348586
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.268066,
+        53.34848,
+        -6.267934,
+        53.348586
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 18.9,
+            "duration": 3.6,
+            "steps": [
+              {
+                "distance": 9.2,
+                "duration": 2.2,
+                "type": 11,
+                "instruction": "Head west on Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 9.8,
+                "duration": 1.4,
+                "type": 0,
+                "instruction": "Turn left onto Jervis Lane Lower",
+                "name": "Jervis Lane Lower",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Jervis Lane Lower, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 18.9,
+          "duration": 3.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.267934,
+            53.348586
+          ],
+          [
+            -6.268066,
+            53.348565
+          ],
+          [
+            -6.268032,
+            53.34848
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.270074,
+        53.34848,
+        -6.266296,
+        53.352028
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1059.8,
+            "duration": 188,
+            "steps": [
+              {
+                "distance": 149.8,
+                "duration": 21.6,
+                "type": 11,
+                "instruction": "Head north on Jervis Lane Lower",
+                "name": "Jervis Lane Lower",
+                "way_points": [
+                  0,
+                  5
+                ]
+              },
+              {
+                "distance": 46,
+                "duration": 9.6,
+                "type": 0,
+                "instruction": "Turn left onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  5,
+                  8
+                ]
+              },
+              {
+                "distance": 172.7,
+                "duration": 30,
+                "type": 1,
+                "instruction": "Turn right onto Capel Street",
+                "name": "Capel Street",
+                "way_points": [
+                  8,
+                  18
+                ]
+              },
+              {
+                "distance": 123.2,
+                "duration": 21.3,
+                "type": 1,
+                "instruction": "Turn right onto Bolton Street, R804",
+                "name": "Bolton Street, R804",
+                "way_points": [
+                  18,
+                  23
+                ]
+              },
+              {
+                "distance": 262.7,
+                "duration": 37.8,
+                "type": 1,
+                "instruction": "Turn right onto King's Inn's Street",
+                "name": "King's Inn's Street",
+                "way_points": [
+                  23,
+                  30
+                ]
+              },
+              {
+                "distance": 22.4,
+                "duration": 8.1,
+                "type": 1,
+                "instruction": "Turn right onto Parnell Street",
+                "name": "Parnell Street",
+                "way_points": [
+                  30,
+                  32
+                ]
+              },
+              {
+                "distance": 104.4,
+                "duration": 16.9,
+                "type": 5,
+                "instruction": "Turn slight right onto Parnell Street, R803",
+                "name": "Parnell Street, R803",
+                "way_points": [
+                  32,
+                  36
+                ]
+              },
+              {
+                "distance": 147,
+                "duration": 35.3,
+                "type": 0,
+                "instruction": "Turn left onto Wolfe Tone Street",
+                "name": "Wolfe Tone Street",
+                "way_points": [
+                  36,
+                  39
+                ]
+              },
+              {
+                "distance": 31.6,
+                "duration": 7.6,
+                "type": 1,
+                "instruction": "Turn right onto Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  39,
+                  40
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Mary Street, straight ahead",
+                "name": "-",
+                "way_points": [
+                  40,
+                  40
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          40
+        ],
+        "summary": {
+          "distance": 1059.8,
+          "duration": 188
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.268032,
+            53.34848
+          ],
+          [
+            -6.268066,
+            53.348565
+          ],
+          [
+            -6.268069,
+            53.348605
+          ],
+          [
+            -6.268224,
+            53.349027
+          ],
+          [
+            -6.268429,
+            53.349439
+          ],
+          [
+            -6.268578,
+            53.349786
+          ],
+          [
+            -6.269031,
+            53.349678
+          ],
+          [
+            -6.269134,
+            53.349653
+          ],
+          [
+            -6.269222,
+            53.349633
+          ],
+          [
+            -6.269438,
+            53.350135
+          ],
+          [
+            -6.26946,
+            53.350206
+          ],
+          [
+            -6.269459,
+            53.350241
+          ],
+          [
+            -6.269483,
+            53.350286
+          ],
+          [
+            -6.269724,
+            53.350531
+          ],
+          [
+            -6.26983,
+            53.350748
+          ],
+          [
+            -6.269857,
+            53.350904
+          ],
+          [
+            -6.269878,
+            53.350937
+          ],
+          [
+            -6.269988,
+            53.351015
+          ],
+          [
+            -6.270074,
+            53.351069
+          ],
+          [
+            -6.269957,
+            53.351172
+          ],
+          [
+            -6.269846,
+            53.35127
+          ],
+          [
+            -6.269813,
+            53.351312
+          ],
+          [
+            -6.269784,
+            53.351349
+          ],
+          [
+            -6.269147,
+            53.352028
+          ],
+          [
+            -6.268955,
+            53.351971
+          ],
+          [
+            -6.267851,
+            53.351612
+          ],
+          [
+            -6.267235,
+            53.351349
+          ],
+          [
+            -6.267171,
+            53.351303
+          ],
+          [
+            -6.266952,
+            53.351102
+          ],
+          [
+            -6.266339,
+            53.350534
+          ],
+          [
+            -6.266296,
+            53.350484
+          ],
+          [
+            -6.266374,
+            53.350394
+          ],
+          [
+            -6.266453,
+            53.350305
+          ],
+          [
+            -6.266919,
+            53.350177
+          ],
+          [
+            -6.267185,
+            53.350139
+          ],
+          [
+            -6.267879,
+            53.349963
+          ],
+          [
+            -6.267908,
+            53.349955
+          ],
+          [
+            -6.267728,
+            53.349482
+          ],
+          [
+            -6.267532,
+            53.348966
+          ],
+          [
+            -6.267417,
+            53.348666
+          ],
+          [
+            -6.267878,
+            53.348594
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.290447,
+        53.334123,
+        -6.267595,
+        53.348594
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 2812.7,
+            "duration": 387.7,
+            "steps": [
+              {
+                "distance": 13,
+                "duration": 3.1,
+                "type": 11,
+                "instruction": "Head west on Mary Street",
+                "name": "Mary Street",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 140.3,
+                "duration": 20.2,
+                "type": 0,
+                "instruction": "Turn left onto Jervis Lane Lower",
+                "name": "Jervis Lane Lower",
+                "way_points": [
+                  1,
+                  4
+                ]
+              },
+              {
+                "distance": 50.8,
+                "duration": 12.2,
+                "type": 1,
+                "instruction": "Turn right onto Upper Abbey Street",
+                "name": "Upper Abbey Street",
+                "way_points": [
+                  4,
+                  7
+                ]
+              },
+              {
+                "distance": 217.4,
+                "duration": 45.4,
+                "type": 0,
+                "instruction": "Turn left onto Capel Street",
+                "name": "Capel Street",
+                "way_points": [
+                  7,
+                  13
+                ]
+              },
+              {
+                "distance": 158.2,
+                "duration": 22.8,
+                "type": 1,
+                "instruction": "Turn right onto Essex Quay, R148",
+                "name": "Essex Quay, R148",
+                "way_points": [
+                  13,
+                  15
+                ]
+              },
+              {
+                "distance": 184.6,
+                "duration": 32.9,
+                "type": 0,
+                "instruction": "Turn left onto Fishamble Street",
+                "name": "Fishamble Street",
+                "way_points": [
+                  15,
+                  29
+                ]
+              },
+              {
+                "distance": 149.5,
+                "duration": 30,
+                "type": 1,
+                "instruction": "Turn right onto Christchurch Place, R137",
+                "name": "Christchurch Place, R137",
+                "way_points": [
+                  29,
+                  40
+                ]
+              },
+              {
+                "distance": 456.3,
+                "duration": 63.2,
+                "type": 0,
+                "instruction": "Turn left onto Nicholas Street, R137",
+                "name": "Nicholas Street, R137",
+                "way_points": [
+                  40,
+                  61
+                ]
+              },
+              {
+                "distance": 160.1,
+                "duration": 39.4,
+                "type": 3,
+                "instruction": "Turn sharp right onto Kevin Street Upper, R110",
+                "name": "Kevin Street Upper, R110",
+                "way_points": [
+                  61,
+                  70
+                ]
+              },
+              {
+                "distance": 1282.6,
+                "duration": 118.6,
+                "type": 0,
+                "instruction": "Turn left onto St Luke's Avenue, R110",
+                "name": "St Luke's Avenue, R110",
+                "way_points": [
+                  70,
+                  121
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at St Luke's Avenue, R110, on the right",
+                "name": "-",
+                "way_points": [
+                  121,
+                  121
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          121
+        ],
+        "summary": {
+          "distance": 2812.7,
+          "duration": 387.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.267878,
+            53.348594
+          ],
+          [
+            -6.268066,
+            53.348565
+          ],
+          [
+            -6.267826,
+            53.347962
+          ],
+          [
+            -6.267602,
+            53.347352
+          ],
+          [
+            -6.267595,
+            53.347336
+          ],
+          [
+            -6.267763,
+            53.347318
+          ],
+          [
+            -6.268261,
+            53.34725
+          ],
+          [
+            -6.268343,
+            53.347239
+          ],
+          [
+            -6.268057,
+            53.346483
+          ],
+          [
+            -6.267868,
+            53.346065
+          ],
+          [
+            -6.267847,
+            53.346001
+          ],
+          [
+            -6.267748,
+            53.345702
+          ],
+          [
+            -6.267646,
+            53.345381
+          ],
+          [
+            -6.26763,
+            53.345332
+          ],
+          [
+            -6.268948,
+            53.345227
+          ],
+          [
+            -6.269989,
+            53.34513
+          ],
+          [
+            -6.269972,
+            53.345064
+          ],
+          [
+            -6.26994,
+            53.344948
+          ],
+          [
+            -6.269824,
+            53.344533
+          ],
+          [
+            -6.269814,
+            53.344503
+          ],
+          [
+            -6.269777,
+            53.344414
+          ],
+          [
+            -6.269757,
+            53.344294
+          ],
+          [
+            -6.26983,
+            53.344191
+          ],
+          [
+            -6.269931,
+            53.3441
+          ],
+          [
+            -6.270144,
+            53.343901
+          ],
+          [
+            -6.270174,
+            53.343821
+          ],
+          [
+            -6.270183,
+            53.343752
+          ],
+          [
+            -6.270151,
+            53.343653
+          ],
+          [
+            -6.270093,
+            53.343592
+          ],
+          [
+            -6.270052,
+            53.343572
+          ],
+          [
+            -6.270095,
+            53.34352
+          ],
+          [
+            -6.270204,
+            53.343337
+          ],
+          [
+            -6.270264,
+            53.343259
+          ],
+          [
+            -6.270365,
+            53.343202
+          ],
+          [
+            -6.270431,
+            53.343167
+          ],
+          [
+            -6.2707,
+            53.34308
+          ],
+          [
+            -6.270747,
+            53.343074
+          ],
+          [
+            -6.270988,
+            53.34299
+          ],
+          [
+            -6.271466,
+            53.342893
+          ],
+          [
+            -6.271636,
+            53.342874
+          ],
+          [
+            -6.271782,
+            53.34287
+          ],
+          [
+            -6.271757,
+            53.342758
+          ],
+          [
+            -6.271801,
+            53.342676
+          ],
+          [
+            -6.2721,
+            53.342317
+          ],
+          [
+            -6.272146,
+            53.342242
+          ],
+          [
+            -6.272207,
+            53.3421
+          ],
+          [
+            -6.272209,
+            53.341903
+          ],
+          [
+            -6.272219,
+            53.341487
+          ],
+          [
+            -6.27224,
+            53.341034
+          ],
+          [
+            -6.272244,
+            53.340635
+          ],
+          [
+            -6.272244,
+            53.340597
+          ],
+          [
+            -6.272233,
+            53.340479
+          ],
+          [
+            -6.272232,
+            53.340349
+          ],
+          [
+            -6.272256,
+            53.340196
+          ],
+          [
+            -6.272264,
+            53.340103
+          ],
+          [
+            -6.272332,
+            53.339897
+          ],
+          [
+            -6.272512,
+            53.339573
+          ],
+          [
+            -6.272581,
+            53.339347
+          ],
+          [
+            -6.27259,
+            53.339299
+          ],
+          [
+            -6.272555,
+            53.339109
+          ],
+          [
+            -6.272515,
+            53.3389
+          ],
+          [
+            -6.272506,
+            53.338853
+          ],
+          [
+            -6.272687,
+            53.338933
+          ],
+          [
+            -6.272774,
+            53.338963
+          ],
+          [
+            -6.272828,
+            53.338977
+          ],
+          [
+            -6.273221,
+            53.339076
+          ],
+          [
+            -6.27347,
+            53.339135
+          ],
+          [
+            -6.273629,
+            53.339167
+          ],
+          [
+            -6.274491,
+            53.339333
+          ],
+          [
+            -6.274514,
+            53.339338
+          ],
+          [
+            -6.274737,
+            53.339381
+          ],
+          [
+            -6.274827,
+            53.339288
+          ],
+          [
+            -6.274971,
+            53.339139
+          ],
+          [
+            -6.275118,
+            53.339049
+          ],
+          [
+            -6.275317,
+            53.338976
+          ],
+          [
+            -6.275499,
+            53.33893
+          ],
+          [
+            -6.275716,
+            53.338914
+          ],
+          [
+            -6.276044,
+            53.338903
+          ],
+          [
+            -6.276587,
+            53.33889
+          ],
+          [
+            -6.277297,
+            53.338855
+          ],
+          [
+            -6.277836,
+            53.33881
+          ],
+          [
+            -6.278049,
+            53.338802
+          ],
+          [
+            -6.2787,
+            53.338794
+          ],
+          [
+            -6.279222,
+            53.338734
+          ],
+          [
+            -6.279484,
+            53.338656
+          ],
+          [
+            -6.279666,
+            53.3386
+          ],
+          [
+            -6.280109,
+            53.338462
+          ],
+          [
+            -6.280639,
+            53.338344
+          ],
+          [
+            -6.281286,
+            53.338257
+          ],
+          [
+            -6.281459,
+            53.338236
+          ],
+          [
+            -6.28182,
+            53.338193
+          ],
+          [
+            -6.281844,
+            53.33819
+          ],
+          [
+            -6.282208,
+            53.338151
+          ],
+          [
+            -6.282713,
+            53.338095
+          ],
+          [
+            -6.283502,
+            53.337972
+          ],
+          [
+            -6.283898,
+            53.337912
+          ],
+          [
+            -6.284291,
+            53.337838
+          ],
+          [
+            -6.28449,
+            53.337789
+          ],
+          [
+            -6.284716,
+            53.337733
+          ],
+          [
+            -6.284793,
+            53.337714
+          ],
+          [
+            -6.285255,
+            53.3376
+          ],
+          [
+            -6.285535,
+            53.337513
+          ],
+          [
+            -6.285748,
+            53.33745
+          ],
+          [
+            -6.286249,
+            53.337271
+          ],
+          [
+            -6.286463,
+            53.337183
+          ],
+          [
+            -6.287252,
+            53.336853
+          ],
+          [
+            -6.287788,
+            53.336614
+          ],
+          [
+            -6.288564,
+            53.336207
+          ],
+          [
+            -6.288832,
+            53.336051
+          ],
+          [
+            -6.28901,
+            53.33592
+          ],
+          [
+            -6.289053,
+            53.335888
+          ],
+          [
+            -6.289303,
+            53.335669
+          ],
+          [
+            -6.289467,
+            53.335469
+          ],
+          [
+            -6.289561,
+            53.335329
+          ],
+          [
+            -6.289667,
+            53.335102
+          ],
+          [
+            -6.28992,
+            53.334604
+          ],
+          [
+            -6.289928,
+            53.334588
+          ],
+          [
+            -6.290007,
+            53.334435
+          ],
+          [
+            -6.290058,
+            53.334389
+          ],
+          [
+            -6.290179,
+            53.33428
+          ],
+          [
+            -6.290379,
+            53.334161
+          ],
+          [
+            -6.290447,
+            53.334123
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.290452,
+        53.33412,
+        -6.290447,
+        53.334123
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.5,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0.5,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head southwest on Dolphin's Barn Street, R110",
+                "name": "Dolphin's Barn Street, R110",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Dolphin's Barn Street, R110, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.290447,
+            53.334123
+          ],
+          [
+            -6.290452,
+            53.33412
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.290882,
+        53.334047,
+        -6.290452,
+        53.334259
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 43.9,
+            "duration": 8.8,
+            "steps": [
+              {
+                "distance": 11.7,
+                "duration": 1.1,
+                "type": 11,
+                "instruction": "Head southwest on Dolphin's Barn Street, R110",
+                "name": "Dolphin's Barn Street, R110",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 32.2,
+                "duration": 7.7,
+                "type": 1,
+                "instruction": "Turn right onto Reuben Street",
+                "name": "Reuben Street",
+                "way_points": [
+                  1,
+                  5
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Reuben Street, on the right",
+                "name": "-",
+                "way_points": [
+                  5,
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          5
+        ],
+        "summary": {
+          "distance": 43.9,
+          "duration": 8.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.290452,
+            53.33412
+          ],
+          [
+            -6.29058,
+            53.334047
+          ],
+          [
+            -6.290642,
+            53.334062
+          ],
+          [
+            -6.290778,
+            53.334129
+          ],
+          [
+            -6.290871,
+            53.334236
+          ],
+          [
+            -6.290882,
+            53.334259
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.290882,
+        53.334254,
+        -6.29088,
+        53.334259
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head south on Reuben Street",
+                "name": "Reuben Street",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Reuben Street, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.290882,
+            53.334259
+          ],
+          [
+            -6.29088,
+            53.334254
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.29088,
+        53.334047,
+        -6.260612,
+        53.343055
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3131.6,
+            "duration": 410,
+            "steps": [
+              {
+                "distance": 31.6,
+                "duration": 7.6,
+                "type": 11,
+                "instruction": "Head south on Reuben Street",
+                "name": "Reuben Street",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 1294.8,
+                "duration": 119.7,
+                "type": 0,
+                "instruction": "Turn left onto Dolphin's Barn Street, R110",
+                "name": "Dolphin's Barn Street, R110",
+                "way_points": [
+                  4,
+                  55
+                ]
+              },
+              {
+                "distance": 88.4,
+                "duration": 15.1,
+                "type": 1,
+                "instruction": "Turn right onto The Coombe, R110",
+                "name": "The Coombe, R110",
+                "way_points": [
+                  55,
+                  59
+                ]
+              },
+              {
+                "distance": 71.3,
+                "duration": 12.8,
+                "type": 12,
+                "instruction": "Keep left",
+                "name": "-",
+                "way_points": [
+                  59,
+                  65
+                ]
+              },
+              {
+                "distance": 49.9,
+                "duration": 9,
+                "type": 3,
+                "instruction": "Turn sharp right onto Patrick Street, R137",
+                "name": "Patrick Street, R137",
+                "way_points": [
+                  65,
+                  68
+                ]
+              },
+              {
+                "distance": 229.3,
+                "duration": 38.2,
+                "type": 0,
+                "instruction": "Turn left onto Kevin Street Upper, R110",
+                "name": "Kevin Street Upper, R110",
+                "way_points": [
+                  68,
+                  76
+                ]
+              },
+              {
+                "distance": 119.8,
+                "duration": 22.9,
+                "type": 2,
+                "instruction": "Turn sharp left onto Bride Street",
+                "name": "Bride Street",
+                "way_points": [
+                  76,
+                  79
+                ]
+              },
+              {
+                "distance": 155.8,
+                "duration": 22.4,
+                "type": 1,
+                "instruction": "Turn right onto Peter Street",
+                "name": "Peter Street",
+                "way_points": [
+                  79,
+                  82
+                ]
+              },
+              {
+                "distance": 38.1,
+                "duration": 9.1,
+                "type": 2,
+                "instruction": "Turn sharp left onto Whitefriar Street",
+                "name": "Whitefriar Street",
+                "way_points": [
+                  82,
+                  85
+                ]
+              },
+              {
+                "distance": 92.1,
+                "duration": 13.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Whitefriar Place",
+                "name": "Whitefriar Place",
+                "way_points": [
+                  85,
+                  87
+                ]
+              },
+              {
+                "distance": 210.9,
+                "duration": 30.4,
+                "type": 0,
+                "instruction": "Turn left onto Aungier Street, R114",
+                "name": "Aungier Street, R114",
+                "way_points": [
+                  87,
+                  93
+                ]
+              },
+              {
+                "distance": 93.3,
+                "duration": 13.4,
+                "type": 1,
+                "instruction": "Turn right onto Stephen Street Lower",
+                "name": "Stephen Street Lower",
+                "way_points": [
+                  93,
+                  96
+                ]
+              },
+              {
+                "distance": 218.7,
+                "duration": 31.5,
+                "type": 0,
+                "instruction": "Turn left onto Drury Street",
+                "name": "Drury Street",
+                "way_points": [
+                  96,
+                  101
+                ]
+              },
+              {
+                "distance": 437.6,
+                "duration": 64.5,
+                "type": 1,
+                "instruction": "Turn right onto Exchequer Street",
+                "name": "Exchequer Street",
+                "way_points": [
+                  101,
+                  112
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Exchequer Street, on the left",
+                "name": "-",
+                "way_points": [
+                  112,
+                  112
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          112
+        ],
+        "summary": {
+          "distance": 3131.6,
+          "duration": 410
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.29088,
+            53.334254
+          ],
+          [
+            -6.290871,
+            53.334236
+          ],
+          [
+            -6.290778,
+            53.334129
+          ],
+          [
+            -6.290642,
+            53.334062
+          ],
+          [
+            -6.29058,
+            53.334047
+          ],
+          [
+            -6.290379,
+            53.334161
+          ],
+          [
+            -6.290179,
+            53.33428
+          ],
+          [
+            -6.290058,
+            53.334389
+          ],
+          [
+            -6.290007,
+            53.334435
+          ],
+          [
+            -6.289928,
+            53.334588
+          ],
+          [
+            -6.28992,
+            53.334604
+          ],
+          [
+            -6.289667,
+            53.335102
+          ],
+          [
+            -6.289561,
+            53.335329
+          ],
+          [
+            -6.289467,
+            53.335469
+          ],
+          [
+            -6.289303,
+            53.335669
+          ],
+          [
+            -6.289053,
+            53.335888
+          ],
+          [
+            -6.28901,
+            53.33592
+          ],
+          [
+            -6.288832,
+            53.336051
+          ],
+          [
+            -6.288564,
+            53.336207
+          ],
+          [
+            -6.287788,
+            53.336614
+          ],
+          [
+            -6.287252,
+            53.336853
+          ],
+          [
+            -6.286463,
+            53.337183
+          ],
+          [
+            -6.286249,
+            53.337271
+          ],
+          [
+            -6.285748,
+            53.33745
+          ],
+          [
+            -6.285535,
+            53.337513
+          ],
+          [
+            -6.285255,
+            53.3376
+          ],
+          [
+            -6.284793,
+            53.337714
+          ],
+          [
+            -6.284716,
+            53.337733
+          ],
+          [
+            -6.28449,
+            53.337789
+          ],
+          [
+            -6.284291,
+            53.337838
+          ],
+          [
+            -6.283898,
+            53.337912
+          ],
+          [
+            -6.283502,
+            53.337972
+          ],
+          [
+            -6.282713,
+            53.338095
+          ],
+          [
+            -6.282208,
+            53.338151
+          ],
+          [
+            -6.281844,
+            53.33819
+          ],
+          [
+            -6.28182,
+            53.338193
+          ],
+          [
+            -6.281459,
+            53.338236
+          ],
+          [
+            -6.281286,
+            53.338257
+          ],
+          [
+            -6.280639,
+            53.338344
+          ],
+          [
+            -6.280109,
+            53.338462
+          ],
+          [
+            -6.279666,
+            53.3386
+          ],
+          [
+            -6.279484,
+            53.338656
+          ],
+          [
+            -6.279222,
+            53.338734
+          ],
+          [
+            -6.2787,
+            53.338794
+          ],
+          [
+            -6.278049,
+            53.338802
+          ],
+          [
+            -6.277836,
+            53.33881
+          ],
+          [
+            -6.277297,
+            53.338855
+          ],
+          [
+            -6.276587,
+            53.33889
+          ],
+          [
+            -6.276044,
+            53.338903
+          ],
+          [
+            -6.275716,
+            53.338914
+          ],
+          [
+            -6.275499,
+            53.33893
+          ],
+          [
+            -6.275317,
+            53.338976
+          ],
+          [
+            -6.275118,
+            53.339049
+          ],
+          [
+            -6.274971,
+            53.339139
+          ],
+          [
+            -6.274827,
+            53.339288
+          ],
+          [
+            -6.274737,
+            53.339381
+          ],
+          [
+            -6.274514,
+            53.339338
+          ],
+          [
+            -6.274491,
+            53.339333
+          ],
+          [
+            -6.273629,
+            53.339167
+          ],
+          [
+            -6.27347,
+            53.339135
+          ],
+          [
+            -6.273374,
+            53.339125
+          ],
+          [
+            -6.272975,
+            53.339103
+          ],
+          [
+            -6.272821,
+            53.339109
+          ],
+          [
+            -6.272691,
+            53.339152
+          ],
+          [
+            -6.27263,
+            53.339222
+          ],
+          [
+            -6.27259,
+            53.339299
+          ],
+          [
+            -6.272555,
+            53.339109
+          ],
+          [
+            -6.272515,
+            53.3389
+          ],
+          [
+            -6.272506,
+            53.338853
+          ],
+          [
+            -6.272292,
+            53.338788
+          ],
+          [
+            -6.272188,
+            53.338751
+          ],
+          [
+            -6.271989,
+            53.338686
+          ],
+          [
+            -6.271197,
+            53.338447
+          ],
+          [
+            -6.270664,
+            53.33833
+          ],
+          [
+            -6.270192,
+            53.338254
+          ],
+          [
+            -6.269495,
+            53.338207
+          ],
+          [
+            -6.269298,
+            53.33815
+          ],
+          [
+            -6.269295,
+            53.338384
+          ],
+          [
+            -6.269285,
+            53.338964
+          ],
+          [
+            -6.26932,
+            53.339226
+          ],
+          [
+            -6.268147,
+            53.339307
+          ],
+          [
+            -6.267897,
+            53.339323
+          ],
+          [
+            -6.266988,
+            53.339383
+          ],
+          [
+            -6.267036,
+            53.339439
+          ],
+          [
+            -6.267174,
+            53.3396
+          ],
+          [
+            -6.267238,
+            53.339692
+          ],
+          [
+            -6.267084,
+            53.339698
+          ],
+          [
+            -6.265864,
+            53.339589
+          ],
+          [
+            -6.265832,
+            53.339736
+          ],
+          [
+            -6.2658,
+            53.339874
+          ],
+          [
+            -6.265742,
+            53.340145
+          ],
+          [
+            -6.265675,
+            53.340461
+          ],
+          [
+            -6.265614,
+            53.340671
+          ],
+          [
+            -6.265404,
+            53.341466
+          ],
+          [
+            -6.264925,
+            53.341359
+          ],
+          [
+            -6.264145,
+            53.34123
+          ],
+          [
+            -6.264066,
+            53.341212
+          ],
+          [
+            -6.26382,
+            53.341571
+          ],
+          [
+            -6.26363,
+            53.341847
+          ],
+          [
+            -6.263266,
+            53.342429
+          ],
+          [
+            -6.262876,
+            53.343004
+          ],
+          [
+            -6.26287,
+            53.343043
+          ],
+          [
+            -6.26274,
+            53.343045
+          ],
+          [
+            -6.262034,
+            53.343055
+          ],
+          [
+            -6.261156,
+            53.343002
+          ],
+          [
+            -6.261073,
+            53.342985
+          ],
+          [
+            -6.260612,
+            53.342838
+          ],
+          [
+            -6.260984,
+            53.342407
+          ],
+          [
+            -6.2613,
+            53.342041
+          ],
+          [
+            -6.262298,
+            53.341016
+          ],
+          [
+            -6.262395,
+            53.340957
+          ],
+          [
+            -6.262546,
+            53.340761
+          ],
+          [
+            -6.262671,
+            53.340619
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.253579,
+        53.341966,
+        -6.253527,
+        53.341977
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3.7,
+            "duration": 0.5,
+            "steps": [
+              {
+                "distance": 3.7,
+                "duration": 0.5,
+                "type": 11,
+                "instruction": "Head east on Leinster Street South, R118",
+                "name": "Leinster Street South, R118",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Leinster Street South, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 3.7,
+          "duration": 0.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.253579,
+            53.341977
+          ],
+          [
+            -6.253527,
+            53.341966
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.253527,
+        53.341964,
+        -6.253518,
+        53.341966
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head east on Leinster Street South, R118",
+                "name": "Leinster Street South, R118",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Leinster Street South, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.253527,
+            53.341966
+          ],
+          [
+            -6.253518,
+            53.341964
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.259471,
+        53.341765,
+        -6.249419,
+        53.347487
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 2262.4,
+            "duration": 358.4,
+            "steps": [
+              {
+                "distance": 66.2,
+                "duration": 9.5,
+                "type": 11,
+                "instruction": "Head east on Leinster Street South, R118",
+                "name": "Leinster Street South, R118",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 136.2,
+                "duration": 21.6,
+                "type": 0,
+                "instruction": "Turn left onto Lincoln Place, R118",
+                "name": "Lincoln Place, R118",
+                "way_points": [
+                  2,
+                  10
+                ]
+              },
+              {
+                "distance": 264.1,
+                "duration": 48.1,
+                "type": 12,
+                "instruction": "Keep left onto Westland Row, R118",
+                "name": "Westland Row, R118",
+                "way_points": [
+                  10,
+                  21
+                ]
+              },
+              {
+                "distance": 379,
+                "duration": 34.1,
+                "type": 0,
+                "instruction": "Turn left onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  21,
+                  32
+                ]
+              },
+              {
+                "distance": 179.5,
+                "duration": 32.3,
+                "type": 13,
+                "instruction": "Keep right onto Tara Street, R802",
+                "name": "Tara Street, R802",
+                "way_points": [
+                  32,
+                  39
+                ]
+              },
+              {
+                "distance": 55.9,
+                "duration": 8.1,
+                "type": 0,
+                "instruction": "Turn left onto Poolbeg Street",
+                "name": "Poolbeg Street",
+                "way_points": [
+                  39,
+                  41
+                ]
+              },
+              {
+                "distance": 73.1,
+                "duration": 10.5,
+                "type": 1,
+                "instruction": "Turn right onto Corn Exchange Place",
+                "name": "Corn Exchange Place",
+                "way_points": [
+                  41,
+                  43
+                ]
+              },
+              {
+                "distance": 136.9,
+                "duration": 28.2,
+                "type": 0,
+                "instruction": "Turn left onto Burgh Quay, R105",
+                "name": "Burgh Quay, R105",
+                "way_points": [
+                  43,
+                  49
+                ]
+              },
+              {
+                "distance": 198.6,
+                "duration": 35.2,
+                "type": 12,
+                "instruction": "Keep left",
+                "name": "-",
+                "way_points": [
+                  49,
+                  62
+                ]
+              },
+              {
+                "distance": 111.3,
+                "duration": 19.9,
+                "type": 13,
+                "instruction": "Keep right onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  62,
+                  70
+                ]
+              },
+              {
+                "distance": 661.4,
+                "duration": 110.9,
+                "type": 12,
+                "instruction": "Keep left onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  70,
+                  102
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at College Street, R138, on the left",
+                "name": "-",
+                "way_points": [
+                  102,
+                  102
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          102
+        ],
+        "summary": {
+          "distance": 2262.4,
+          "duration": 358.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.253518,
+            53.341964
+          ],
+          [
+            -6.252771,
+            53.341806
+          ],
+          [
+            -6.252578,
+            53.341765
+          ],
+          [
+            -6.252512,
+            53.341826
+          ],
+          [
+            -6.252325,
+            53.341889
+          ],
+          [
+            -6.251935,
+            53.342026
+          ],
+          [
+            -6.251759,
+            53.342105
+          ],
+          [
+            -6.25156,
+            53.342171
+          ],
+          [
+            -6.251481,
+            53.342181
+          ],
+          [
+            -6.25112,
+            53.342114
+          ],
+          [
+            -6.250787,
+            53.34204
+          ],
+          [
+            -6.250662,
+            53.342046
+          ],
+          [
+            -6.250618,
+            53.342058
+          ],
+          [
+            -6.2505,
+            53.342151
+          ],
+          [
+            -6.249727,
+            53.343416
+          ],
+          [
+            -6.249697,
+            53.343466
+          ],
+          [
+            -6.249628,
+            53.343576
+          ],
+          [
+            -6.249614,
+            53.343595
+          ],
+          [
+            -6.249419,
+            53.343928
+          ],
+          [
+            -6.249464,
+            53.343991
+          ],
+          [
+            -6.249492,
+            53.344036
+          ],
+          [
+            -6.249587,
+            53.344172
+          ],
+          [
+            -6.250242,
+            53.344301
+          ],
+          [
+            -6.250476,
+            53.344347
+          ],
+          [
+            -6.251515,
+            53.344551
+          ],
+          [
+            -6.252301,
+            53.344704
+          ],
+          [
+            -6.252609,
+            53.344766
+          ],
+          [
+            -6.253123,
+            53.34486
+          ],
+          [
+            -6.253206,
+            53.344876
+          ],
+          [
+            -6.253363,
+            53.344905
+          ],
+          [
+            -6.254448,
+            53.345106
+          ],
+          [
+            -6.254622,
+            53.34514
+          ],
+          [
+            -6.255021,
+            53.345218
+          ],
+          [
+            -6.255105,
+            53.345266
+          ],
+          [
+            -6.255137,
+            53.345341
+          ],
+          [
+            -6.255136,
+            53.345459
+          ],
+          [
+            -6.255133,
+            53.345881
+          ],
+          [
+            -6.255151,
+            53.346254
+          ],
+          [
+            -6.255145,
+            53.346416
+          ],
+          [
+            -6.255122,
+            53.346809
+          ],
+          [
+            -6.255698,
+            53.346823
+          ],
+          [
+            -6.255964,
+            53.346829
+          ],
+          [
+            -6.255962,
+            53.346985
+          ],
+          [
+            -6.255955,
+            53.347487
+          ],
+          [
+            -6.256367,
+            53.347461
+          ],
+          [
+            -6.257154,
+            53.347346
+          ],
+          [
+            -6.257223,
+            53.347335
+          ],
+          [
+            -6.257278,
+            53.347324
+          ],
+          [
+            -6.257329,
+            53.347313
+          ],
+          [
+            -6.257947,
+            53.347186
+          ],
+          [
+            -6.258413,
+            53.34702
+          ],
+          [
+            -6.258596,
+            53.346905
+          ],
+          [
+            -6.258645,
+            53.34682
+          ],
+          [
+            -6.258648,
+            53.346781
+          ],
+          [
+            -6.258533,
+            53.346703
+          ],
+          [
+            -6.258447,
+            53.346645
+          ],
+          [
+            -6.258335,
+            53.34657
+          ],
+          [
+            -6.258245,
+            53.346509
+          ],
+          [
+            -6.258029,
+            53.346363
+          ],
+          [
+            -6.257945,
+            53.346306
+          ],
+          [
+            -6.257817,
+            53.346219
+          ],
+          [
+            -6.257524,
+            53.346022
+          ],
+          [
+            -6.257346,
+            53.345901
+          ],
+          [
+            -6.257296,
+            53.345853
+          ],
+          [
+            -6.257272,
+            53.345791
+          ],
+          [
+            -6.257284,
+            53.345749
+          ],
+          [
+            -6.257376,
+            53.345659
+          ],
+          [
+            -6.257516,
+            53.345611
+          ],
+          [
+            -6.25775,
+            53.345559
+          ],
+          [
+            -6.2579,
+            53.345509
+          ],
+          [
+            -6.25846,
+            53.345322
+          ],
+          [
+            -6.25867,
+            53.345203
+          ],
+          [
+            -6.259098,
+            53.344965
+          ],
+          [
+            -6.259227,
+            53.344843
+          ],
+          [
+            -6.259291,
+            53.344771
+          ],
+          [
+            -6.259377,
+            53.344684
+          ],
+          [
+            -6.259467,
+            53.344477
+          ],
+          [
+            -6.259471,
+            53.344425
+          ],
+          [
+            -6.259462,
+            53.344371
+          ],
+          [
+            -6.25923,
+            53.344013
+          ],
+          [
+            -6.259209,
+            53.343953
+          ],
+          [
+            -6.259217,
+            53.343758
+          ],
+          [
+            -6.259251,
+            53.343607
+          ],
+          [
+            -6.2593,
+            53.343402
+          ],
+          [
+            -6.259284,
+            53.343347
+          ],
+          [
+            -6.259252,
+            53.343271
+          ],
+          [
+            -6.259159,
+            53.343205
+          ],
+          [
+            -6.259098,
+            53.343179
+          ],
+          [
+            -6.257919,
+            53.34294
+          ],
+          [
+            -6.257829,
+            53.342923
+          ],
+          [
+            -6.257691,
+            53.342928
+          ],
+          [
+            -6.25751,
+            53.342886
+          ],
+          [
+            -6.25721,
+            53.342777
+          ],
+          [
+            -6.256333,
+            53.342577
+          ],
+          [
+            -6.256163,
+            53.342537
+          ],
+          [
+            -6.255805,
+            53.342457
+          ],
+          [
+            -6.255645,
+            53.342421
+          ],
+          [
+            -6.255116,
+            53.34231
+          ],
+          [
+            -6.254642,
+            53.342208
+          ],
+          [
+            -6.254546,
+            53.342188
+          ],
+          [
+            -6.254411,
+            53.342158
+          ],
+          [
+            -6.253648,
+            53.341992
+          ],
+          [
+            -6.253589,
+            53.341979
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.253589,
+        53.34196,
+        -6.2535,
+        53.341979
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 6.3,
+            "duration": 0.9,
+            "steps": [
+              {
+                "distance": 6.3,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head east on Leinster Street South, R118",
+                "name": "Leinster Street South, R118",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Leinster Street South, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 6.3,
+          "duration": 0.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.253589,
+            53.341979
+          ],
+          [
+            -6.2535,
+            53.34196
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.259471,
+        53.341765,
+        -6.249419,
+        53.347487
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 2263.7,
+            "duration": 358.6,
+            "steps": [
+              {
+                "distance": 65,
+                "duration": 9.4,
+                "type": 11,
+                "instruction": "Head east on Leinster Street South, R118",
+                "name": "Leinster Street South, R118",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 136.2,
+                "duration": 21.6,
+                "type": 0,
+                "instruction": "Turn left onto Lincoln Place, R118",
+                "name": "Lincoln Place, R118",
+                "way_points": [
+                  2,
+                  10
+                ]
+              },
+              {
+                "distance": 264.1,
+                "duration": 48.1,
+                "type": 12,
+                "instruction": "Keep left onto Westland Row, R118",
+                "name": "Westland Row, R118",
+                "way_points": [
+                  10,
+                  21
+                ]
+              },
+              {
+                "distance": 379,
+                "duration": 34.1,
+                "type": 0,
+                "instruction": "Turn left onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  21,
+                  32
+                ]
+              },
+              {
+                "distance": 179.5,
+                "duration": 32.3,
+                "type": 13,
+                "instruction": "Keep right onto Tara Street, R802",
+                "name": "Tara Street, R802",
+                "way_points": [
+                  32,
+                  39
+                ]
+              },
+              {
+                "distance": 55.9,
+                "duration": 8.1,
+                "type": 0,
+                "instruction": "Turn left onto Poolbeg Street",
+                "name": "Poolbeg Street",
+                "way_points": [
+                  39,
+                  41
+                ]
+              },
+              {
+                "distance": 73.1,
+                "duration": 10.5,
+                "type": 1,
+                "instruction": "Turn right onto Corn Exchange Place",
+                "name": "Corn Exchange Place",
+                "way_points": [
+                  41,
+                  43
+                ]
+              },
+              {
+                "distance": 136.9,
+                "duration": 28.2,
+                "type": 0,
+                "instruction": "Turn left onto Burgh Quay, R105",
+                "name": "Burgh Quay, R105",
+                "way_points": [
+                  43,
+                  49
+                ]
+              },
+              {
+                "distance": 198.6,
+                "duration": 35.2,
+                "type": 12,
+                "instruction": "Keep left",
+                "name": "-",
+                "way_points": [
+                  49,
+                  62
+                ]
+              },
+              {
+                "distance": 111.3,
+                "duration": 19.9,
+                "type": 13,
+                "instruction": "Keep right onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  62,
+                  70
+                ]
+              },
+              {
+                "distance": 664,
+                "duration": 111.3,
+                "type": 12,
+                "instruction": "Keep left onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  70,
+                  102
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at College Street, R138, on the left",
+                "name": "-",
+                "way_points": [
+                  102,
+                  102
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          102
+        ],
+        "summary": {
+          "distance": 2263.7,
+          "duration": 358.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.2535,
+            53.34196
+          ],
+          [
+            -6.252771,
+            53.341806
+          ],
+          [
+            -6.252578,
+            53.341765
+          ],
+          [
+            -6.252512,
+            53.341826
+          ],
+          [
+            -6.252325,
+            53.341889
+          ],
+          [
+            -6.251935,
+            53.342026
+          ],
+          [
+            -6.251759,
+            53.342105
+          ],
+          [
+            -6.25156,
+            53.342171
+          ],
+          [
+            -6.251481,
+            53.342181
+          ],
+          [
+            -6.25112,
+            53.342114
+          ],
+          [
+            -6.250787,
+            53.34204
+          ],
+          [
+            -6.250662,
+            53.342046
+          ],
+          [
+            -6.250618,
+            53.342058
+          ],
+          [
+            -6.2505,
+            53.342151
+          ],
+          [
+            -6.249727,
+            53.343416
+          ],
+          [
+            -6.249697,
+            53.343466
+          ],
+          [
+            -6.249628,
+            53.343576
+          ],
+          [
+            -6.249614,
+            53.343595
+          ],
+          [
+            -6.249419,
+            53.343928
+          ],
+          [
+            -6.249464,
+            53.343991
+          ],
+          [
+            -6.249492,
+            53.344036
+          ],
+          [
+            -6.249587,
+            53.344172
+          ],
+          [
+            -6.250242,
+            53.344301
+          ],
+          [
+            -6.250476,
+            53.344347
+          ],
+          [
+            -6.251515,
+            53.344551
+          ],
+          [
+            -6.252301,
+            53.344704
+          ],
+          [
+            -6.252609,
+            53.344766
+          ],
+          [
+            -6.253123,
+            53.34486
+          ],
+          [
+            -6.253206,
+            53.344876
+          ],
+          [
+            -6.253363,
+            53.344905
+          ],
+          [
+            -6.254448,
+            53.345106
+          ],
+          [
+            -6.254622,
+            53.34514
+          ],
+          [
+            -6.255021,
+            53.345218
+          ],
+          [
+            -6.255105,
+            53.345266
+          ],
+          [
+            -6.255137,
+            53.345341
+          ],
+          [
+            -6.255136,
+            53.345459
+          ],
+          [
+            -6.255133,
+            53.345881
+          ],
+          [
+            -6.255151,
+            53.346254
+          ],
+          [
+            -6.255145,
+            53.346416
+          ],
+          [
+            -6.255122,
+            53.346809
+          ],
+          [
+            -6.255698,
+            53.346823
+          ],
+          [
+            -6.255964,
+            53.346829
+          ],
+          [
+            -6.255962,
+            53.346985
+          ],
+          [
+            -6.255955,
+            53.347487
+          ],
+          [
+            -6.256367,
+            53.347461
+          ],
+          [
+            -6.257154,
+            53.347346
+          ],
+          [
+            -6.257223,
+            53.347335
+          ],
+          [
+            -6.257278,
+            53.347324
+          ],
+          [
+            -6.257329,
+            53.347313
+          ],
+          [
+            -6.257947,
+            53.347186
+          ],
+          [
+            -6.258413,
+            53.34702
+          ],
+          [
+            -6.258596,
+            53.346905
+          ],
+          [
+            -6.258645,
+            53.34682
+          ],
+          [
+            -6.258648,
+            53.346781
+          ],
+          [
+            -6.258533,
+            53.346703
+          ],
+          [
+            -6.258447,
+            53.346645
+          ],
+          [
+            -6.258335,
+            53.34657
+          ],
+          [
+            -6.258245,
+            53.346509
+          ],
+          [
+            -6.258029,
+            53.346363
+          ],
+          [
+            -6.257945,
+            53.346306
+          ],
+          [
+            -6.257817,
+            53.346219
+          ],
+          [
+            -6.257524,
+            53.346022
+          ],
+          [
+            -6.257346,
+            53.345901
+          ],
+          [
+            -6.257296,
+            53.345853
+          ],
+          [
+            -6.257272,
+            53.345791
+          ],
+          [
+            -6.257284,
+            53.345749
+          ],
+          [
+            -6.257376,
+            53.345659
+          ],
+          [
+            -6.257516,
+            53.345611
+          ],
+          [
+            -6.25775,
+            53.345559
+          ],
+          [
+            -6.2579,
+            53.345509
+          ],
+          [
+            -6.25846,
+            53.345322
+          ],
+          [
+            -6.25867,
+            53.345203
+          ],
+          [
+            -6.259098,
+            53.344965
+          ],
+          [
+            -6.259227,
+            53.344843
+          ],
+          [
+            -6.259291,
+            53.344771
+          ],
+          [
+            -6.259377,
+            53.344684
+          ],
+          [
+            -6.259467,
+            53.344477
+          ],
+          [
+            -6.259471,
+            53.344425
+          ],
+          [
+            -6.259462,
+            53.344371
+          ],
+          [
+            -6.25923,
+            53.344013
+          ],
+          [
+            -6.259209,
+            53.343953
+          ],
+          [
+            -6.259217,
+            53.343758
+          ],
+          [
+            -6.259251,
+            53.343607
+          ],
+          [
+            -6.2593,
+            53.343402
+          ],
+          [
+            -6.259284,
+            53.343347
+          ],
+          [
+            -6.259252,
+            53.343271
+          ],
+          [
+            -6.259159,
+            53.343205
+          ],
+          [
+            -6.259098,
+            53.343179
+          ],
+          [
+            -6.257919,
+            53.34294
+          ],
+          [
+            -6.257829,
+            53.342923
+          ],
+          [
+            -6.257691,
+            53.342928
+          ],
+          [
+            -6.25751,
+            53.342886
+          ],
+          [
+            -6.25721,
+            53.342777
+          ],
+          [
+            -6.256333,
+            53.342577
+          ],
+          [
+            -6.256163,
+            53.342537
+          ],
+          [
+            -6.255805,
+            53.342457
+          ],
+          [
+            -6.255645,
+            53.342421
+          ],
+          [
+            -6.255116,
+            53.34231
+          ],
+          [
+            -6.254642,
+            53.342208
+          ],
+          [
+            -6.254546,
+            53.342188
+          ],
+          [
+            -6.254411,
+            53.342158
+          ],
+          [
+            -6.253648,
+            53.341992
+          ],
+          [
+            -6.253553,
+            53.341972
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.253553,
+        53.341765,
+        -6.251682,
+        53.342131
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 141.6,
+            "duration": 20.4,
+            "steps": [
+              {
+                "distance": 68.7,
+                "duration": 9.9,
+                "type": 11,
+                "instruction": "Head east on Leinster Street South, R118",
+                "name": "Leinster Street South, R118",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 72.9,
+                "duration": 10.5,
+                "type": 0,
+                "instruction": "Turn left onto Lincoln Place, R118",
+                "name": "Lincoln Place, R118",
+                "way_points": [
+                  2,
+                  7
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Lincoln Place, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  7,
+                  7
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          7
+        ],
+        "summary": {
+          "distance": 141.6,
+          "duration": 20.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.253553,
+            53.341972
+          ],
+          [
+            -6.252771,
+            53.341806
+          ],
+          [
+            -6.252578,
+            53.341765
+          ],
+          [
+            -6.252512,
+            53.341826
+          ],
+          [
+            -6.252325,
+            53.341889
+          ],
+          [
+            -6.251935,
+            53.342026
+          ],
+          [
+            -6.251759,
+            53.342105
+          ],
+          [
+            -6.251682,
+            53.342131
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.266902,
+        53.332113,
+        -6.246355,
+        53.342181
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 2400.8,
+            "duration": 292.8,
+            "steps": [
+              {
+                "distance": 63.3,
+                "duration": 11.1,
+                "type": 11,
+                "instruction": "Head northeast on Lincoln Place, R118",
+                "name": "Lincoln Place, R118",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 32.9,
+                "duration": 13.5,
+                "type": 13,
+                "instruction": "Keep right onto Lincoln Place, R118",
+                "name": "Lincoln Place, R118",
+                "way_points": [
+                  4,
+                  8
+                ]
+              },
+              {
+                "distance": 92.8,
+                "duration": 18.2,
+                "type": 13,
+                "instruction": "Keep right onto Merrion Street Lower, R815",
+                "name": "Merrion Street Lower, R815",
+                "way_points": [
+                  8,
+                  14
+                ]
+              },
+              {
+                "distance": 340,
+                "duration": 34.8,
+                "type": 0,
+                "instruction": "Turn left onto Merrion Square North, R118",
+                "name": "Merrion Square North, R118",
+                "way_points": [
+                  14,
+                  18
+                ]
+              },
+              {
+                "distance": 1580.2,
+                "duration": 171.8,
+                "type": 1,
+                "instruction": "Turn right onto Merrion Square East",
+                "name": "Merrion Square East",
+                "way_points": [
+                  18,
+                  62
+                ]
+              },
+              {
+                "distance": 266.3,
+                "duration": 37.5,
+                "type": 6,
+                "instruction": "Continue straight onto Harcourt Road, R114",
+                "name": "Harcourt Road, R114",
+                "way_points": [
+                  62,
+                  74
+                ]
+              },
+              {
+                "distance": 25.3,
+                "duration": 6.1,
+                "type": 0,
+                "instruction": "Turn left onto Synge Street",
+                "name": "Synge Street",
+                "way_points": [
+                  74,
+                  76
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Synge Street, on the right",
+                "name": "-",
+                "way_points": [
+                  76,
+                  76
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          76
+        ],
+        "summary": {
+          "distance": 2400.8,
+          "duration": 292.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.251682,
+            53.342131
+          ],
+          [
+            -6.25156,
+            53.342171
+          ],
+          [
+            -6.251481,
+            53.342181
+          ],
+          [
+            -6.25112,
+            53.342114
+          ],
+          [
+            -6.250787,
+            53.34204
+          ],
+          [
+            -6.250708,
+            53.341999
+          ],
+          [
+            -6.250473,
+            53.341943
+          ],
+          [
+            -6.250402,
+            53.341943
+          ],
+          [
+            -6.25034,
+            53.341927
+          ],
+          [
+            -6.250299,
+            53.341871
+          ],
+          [
+            -6.250258,
+            53.341783
+          ],
+          [
+            -6.250261,
+            53.341737
+          ],
+          [
+            -6.250363,
+            53.341618
+          ],
+          [
+            -6.250692,
+            53.341229
+          ],
+          [
+            -6.250741,
+            53.341171
+          ],
+          [
+            -6.250443,
+            53.341044
+          ],
+          [
+            -6.247404,
+            53.339972
+          ],
+          [
+            -6.24671,
+            53.339727
+          ],
+          [
+            -6.246355,
+            53.339594
+          ],
+          [
+            -6.246464,
+            53.33948
+          ],
+          [
+            -6.247621,
+            53.33831
+          ],
+          [
+            -6.247699,
+            53.338232
+          ],
+          [
+            -6.247795,
+            53.338139
+          ],
+          [
+            -6.248533,
+            53.33742
+          ],
+          [
+            -6.24902,
+            53.336915
+          ],
+          [
+            -6.249068,
+            53.336864
+          ],
+          [
+            -6.24915,
+            53.336781
+          ],
+          [
+            -6.24921,
+            53.33672
+          ],
+          [
+            -6.25053,
+            53.335387
+          ],
+          [
+            -6.251324,
+            53.334583
+          ],
+          [
+            -6.251922,
+            53.333987
+          ],
+          [
+            -6.252628,
+            53.333268
+          ],
+          [
+            -6.25319,
+            53.332694
+          ],
+          [
+            -6.253312,
+            53.332587
+          ],
+          [
+            -6.253387,
+            53.332497
+          ],
+          [
+            -6.253575,
+            53.332313
+          ],
+          [
+            -6.253625,
+            53.332256
+          ],
+          [
+            -6.253689,
+            53.332186
+          ],
+          [
+            -6.253939,
+            53.332135
+          ],
+          [
+            -6.254205,
+            53.332113
+          ],
+          [
+            -6.254304,
+            53.332115
+          ],
+          [
+            -6.254435,
+            53.332122
+          ],
+          [
+            -6.254797,
+            53.332179
+          ],
+          [
+            -6.255105,
+            53.332236
+          ],
+          [
+            -6.255133,
+            53.332242
+          ],
+          [
+            -6.255537,
+            53.332314
+          ],
+          [
+            -6.256467,
+            53.33248
+          ],
+          [
+            -6.257452,
+            53.332662
+          ],
+          [
+            -6.257602,
+            53.332681
+          ],
+          [
+            -6.257765,
+            53.332696
+          ],
+          [
+            -6.257983,
+            53.332703
+          ],
+          [
+            -6.258648,
+            53.332734
+          ],
+          [
+            -6.258874,
+            53.332745
+          ],
+          [
+            -6.259785,
+            53.332786
+          ],
+          [
+            -6.260618,
+            53.332787
+          ],
+          [
+            -6.260701,
+            53.332785
+          ],
+          [
+            -6.260762,
+            53.332783
+          ],
+          [
+            -6.261407,
+            53.332764
+          ],
+          [
+            -6.261793,
+            53.332756
+          ],
+          [
+            -6.262342,
+            53.332742
+          ],
+          [
+            -6.262532,
+            53.332737
+          ],
+          [
+            -6.262817,
+            53.33273
+          ],
+          [
+            -6.26291,
+            53.332727
+          ],
+          [
+            -6.263246,
+            53.332722
+          ],
+          [
+            -6.263493,
+            53.33271
+          ],
+          [
+            -6.263799,
+            53.332683
+          ],
+          [
+            -6.264093,
+            53.332649
+          ],
+          [
+            -6.264426,
+            53.332622
+          ],
+          [
+            -6.264731,
+            53.332601
+          ],
+          [
+            -6.264798,
+            53.332599
+          ],
+          [
+            -6.26486,
+            53.332597
+          ],
+          [
+            -6.265012,
+            53.332593
+          ],
+          [
+            -6.265612,
+            53.332576
+          ],
+          [
+            -6.265836,
+            53.332568
+          ],
+          [
+            -6.266902,
+            53.332529
+          ],
+          [
+            -6.266899,
+            53.332453
+          ],
+          [
+            -6.266887,
+            53.332302
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.266895,
+        53.332302,
+        -6.266887,
+        53.3324
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 10.9,
+            "duration": 2.6,
+            "steps": [
+              {
+                "distance": 10.9,
+                "duration": 2.6,
+                "type": 11,
+                "instruction": "Head north on Synge Street",
+                "name": "Synge Street",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Synge Street, straight ahead",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 10.9,
+          "duration": 2.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.266887,
+            53.332302
+          ],
+          [
+            -6.266895,
+            53.3324
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

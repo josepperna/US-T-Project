@@ -1,0 +1,3173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.243032,
+        53.361105,
+        -6.24301,
+        53.361126
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 2.7,
+            "duration": 0.5,
+            "steps": [
+              {
+                "distance": 2.7,
+                "duration": 0.5,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 2.7,
+          "duration": 0.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243032,
+            53.361105
+          ],
+          [
+            -6.243024,
+            53.361111
+          ],
+          [
+            -6.24301,
+            53.361126
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.24301,
+        53.361126,
+        -6.242966,
+        53.36117
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5.7,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 5.7,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 5.7,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.24301,
+            53.361126
+          ],
+          [
+            -6.242966,
+            53.36117
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243015,
+        53.36117,
+        -6.242766,
+        53.361378
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 42.6,
+            "duration": 6.2,
+            "steps": [
+              {
+                "distance": 26.1,
+                "duration": 4.7,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 16.6,
+                "duration": 1.5,
+                "type": 2,
+                "instruction": "Turn sharp left onto Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Clonliffe Road, R131, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 42.6,
+          "duration": 6.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.242966,
+            53.36117
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.243015,
+            53.361378
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243015,
+        53.361168,
+        -6.242766,
+        53.361378
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 43,
+            "duration": 6.2,
+            "steps": [
+              {
+                "distance": 16.6,
+                "duration": 1.5,
+                "type": 11,
+                "instruction": "Head east on Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 26.4,
+                "duration": 4.8,
+                "type": 3,
+                "instruction": "Turn sharp right onto Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 43,
+          "duration": 6.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243015,
+            53.361378
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.242969,
+            53.361168
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.24308,
+        53.361168,
+        -6.242766,
+        53.36138
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 47.3,
+            "duration": 6.6,
+            "steps": [
+              {
+                "distance": 26.4,
+                "duration": 4.8,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 20.9,
+                "duration": 1.9,
+                "type": 2,
+                "instruction": "Turn sharp left onto Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Clonliffe Road, R131, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 47.3,
+          "duration": 6.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.242969,
+            53.361168
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.243071,
+            53.361379
+          ],
+          [
+            -6.24308,
+            53.36138
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.24308,
+        53.361165,
+        -6.242766,
+        53.36138
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 47.6,
+            "duration": 6.7,
+            "steps": [
+              {
+                "distance": 20.9,
+                "duration": 1.9,
+                "type": 11,
+                "instruction": "Head east on Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 26.8,
+                "duration": 4.8,
+                "type": 3,
+                "instruction": "Turn sharp right onto Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 47.6,
+          "duration": 6.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.24308,
+            53.36138
+          ],
+          [
+            -6.243071,
+            53.361379
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.242971,
+            53.361165
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264306,
+        53.32993,
+        -6.240445,
+        53.361165
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5001.5,
+            "duration": 618.3,
+            "steps": [
+              {
+                "distance": 648.1,
+                "duration": 81.3,
+                "type": 11,
+                "instruction": "Head southwest on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  32
+                ]
+              },
+              {
+                "distance": 1842.5,
+                "duration": 230.4,
+                "type": 0,
+                "instruction": "Turn left onto Portland Row, R101",
+                "name": "Portland Row, R101",
+                "way_points": [
+                  32,
+                  92
+                ]
+              },
+              {
+                "distance": 231.3,
+                "duration": 20.8,
+                "type": 1,
+                "instruction": "Turn right onto Pearse Street, R802",
+                "name": "Pearse Street, R802",
+                "way_points": [
+                  92,
+                  101
+                ]
+              },
+              {
+                "distance": 411.9,
+                "duration": 64.7,
+                "type": 0,
+                "instruction": "Turn left onto Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  101,
+                  118
+                ]
+              },
+              {
+                "distance": 27.8,
+                "duration": 6.7,
+                "type": 0,
+                "instruction": "Turn left onto Merrion Square North, R118",
+                "name": "Merrion Square North, R118",
+                "way_points": [
+                  118,
+                  119
+                ]
+              },
+              {
+                "distance": 905.8,
+                "duration": 89.9,
+                "type": 1,
+                "instruction": "Turn right onto Merrion Square East",
+                "name": "Merrion Square East",
+                "way_points": [
+                  119,
+                  134
+                ]
+              },
+              {
+                "distance": 85.6,
+                "duration": 31.1,
+                "type": 0,
+                "instruction": "Turn left onto Leeson Street Lower, R138",
+                "name": "Leeson Street Lower, R138",
+                "way_points": [
+                  134,
+                  141
+                ]
+              },
+              {
+                "distance": 807.8,
+                "duration": 76.2,
+                "type": 3,
+                "instruction": "Turn sharp right onto Grand Parade, R111",
+                "name": "Grand Parade, R111",
+                "way_points": [
+                  141,
+                  160
+                ]
+              },
+              {
+                "distance": 40.6,
+                "duration": 17.2,
+                "type": 1,
+                "instruction": "Turn right onto La Touche Bridge, R114",
+                "name": "La Touche Bridge, R114",
+                "way_points": [
+                  160,
+                  167
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at La Touche Bridge, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  167,
+                  167
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          167
+        ],
+        "summary": {
+          "distance": 5001.5,
+          "duration": 618.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.242971,
+            53.361165
+          ],
+          [
+            -6.243024,
+            53.361111
+          ],
+          [
+            -6.243181,
+            53.360982
+          ],
+          [
+            -6.243308,
+            53.360878
+          ],
+          [
+            -6.243479,
+            53.360736
+          ],
+          [
+            -6.243549,
+            53.360678
+          ],
+          [
+            -6.24364,
+            53.360603
+          ],
+          [
+            -6.243674,
+            53.360575
+          ],
+          [
+            -6.243915,
+            53.360388
+          ],
+          [
+            -6.243998,
+            53.360329
+          ],
+          [
+            -6.244186,
+            53.360194
+          ],
+          [
+            -6.244502,
+            53.359995
+          ],
+          [
+            -6.244736,
+            53.359856
+          ],
+          [
+            -6.245055,
+            53.359665
+          ],
+          [
+            -6.245418,
+            53.359459
+          ],
+          [
+            -6.245796,
+            53.359224
+          ],
+          [
+            -6.246033,
+            53.359083
+          ],
+          [
+            -6.246225,
+            53.358968
+          ],
+          [
+            -6.246543,
+            53.358777
+          ],
+          [
+            -6.246625,
+            53.358726
+          ],
+          [
+            -6.24681,
+            53.35861
+          ],
+          [
+            -6.247158,
+            53.358369
+          ],
+          [
+            -6.24718,
+            53.358353
+          ],
+          [
+            -6.247283,
+            53.358287
+          ],
+          [
+            -6.247347,
+            53.358246
+          ],
+          [
+            -6.247526,
+            53.358133
+          ],
+          [
+            -6.247577,
+            53.358112
+          ],
+          [
+            -6.248365,
+            53.357701
+          ],
+          [
+            -6.248714,
+            53.357527
+          ],
+          [
+            -6.248968,
+            53.357401
+          ],
+          [
+            -6.249179,
+            53.357296
+          ],
+          [
+            -6.249721,
+            53.357034
+          ],
+          [
+            -6.249768,
+            53.35701
+          ],
+          [
+            -6.249037,
+            53.35646
+          ],
+          [
+            -6.248599,
+            53.356139
+          ],
+          [
+            -6.248427,
+            53.35601
+          ],
+          [
+            -6.248357,
+            53.355956
+          ],
+          [
+            -6.247997,
+            53.355691
+          ],
+          [
+            -6.247948,
+            53.355655
+          ],
+          [
+            -6.247262,
+            53.355138
+          ],
+          [
+            -6.246979,
+            53.354922
+          ],
+          [
+            -6.246777,
+            53.354777
+          ],
+          [
+            -6.246683,
+            53.354707
+          ],
+          [
+            -6.246412,
+            53.354525
+          ],
+          [
+            -6.245529,
+            53.353852
+          ],
+          [
+            -6.245506,
+            53.353834
+          ],
+          [
+            -6.245312,
+            53.35369
+          ],
+          [
+            -6.244886,
+            53.353371
+          ],
+          [
+            -6.24449,
+            53.353081
+          ],
+          [
+            -6.243543,
+            53.352374
+          ],
+          [
+            -6.243249,
+            53.35216
+          ],
+          [
+            -6.243179,
+            53.352107
+          ],
+          [
+            -6.242983,
+            53.351965
+          ],
+          [
+            -6.242885,
+            53.35189
+          ],
+          [
+            -6.242703,
+            53.35176
+          ],
+          [
+            -6.242402,
+            53.351545
+          ],
+          [
+            -6.242272,
+            53.351438
+          ],
+          [
+            -6.242032,
+            53.351254
+          ],
+          [
+            -6.241151,
+            53.350623
+          ],
+          [
+            -6.24104,
+            53.350542
+          ],
+          [
+            -6.240984,
+            53.350501
+          ],
+          [
+            -6.240818,
+            53.350357
+          ],
+          [
+            -6.240783,
+            53.350227
+          ],
+          [
+            -6.240945,
+            53.349209
+          ],
+          [
+            -6.24096,
+            53.349121
+          ],
+          [
+            -6.240964,
+            53.349094
+          ],
+          [
+            -6.240969,
+            53.349063
+          ],
+          [
+            -6.240982,
+            53.348941
+          ],
+          [
+            -6.240988,
+            53.348903
+          ],
+          [
+            -6.241056,
+            53.348476
+          ],
+          [
+            -6.241085,
+            53.348292
+          ],
+          [
+            -6.241104,
+            53.348168
+          ],
+          [
+            -6.24112,
+            53.348067
+          ],
+          [
+            -6.24116,
+            53.347798
+          ],
+          [
+            -6.24117,
+            53.347733
+          ],
+          [
+            -6.241187,
+            53.347621
+          ],
+          [
+            -6.241196,
+            53.347561
+          ],
+          [
+            -6.241154,
+            53.347461
+          ],
+          [
+            -6.241344,
+            53.34641
+          ],
+          [
+            -6.241341,
+            53.346379
+          ],
+          [
+            -6.241313,
+            53.346346
+          ],
+          [
+            -6.241235,
+            53.346285
+          ],
+          [
+            -6.24068,
+            53.346235
+          ],
+          [
+            -6.240606,
+            53.346219
+          ],
+          [
+            -6.240493,
+            53.346159
+          ],
+          [
+            -6.240475,
+            53.346132
+          ],
+          [
+            -6.240448,
+            53.346103
+          ],
+          [
+            -6.240445,
+            53.345992
+          ],
+          [
+            -6.240578,
+            53.345518
+          ],
+          [
+            -6.240792,
+            53.344487
+          ],
+          [
+            -6.240808,
+            53.344418
+          ],
+          [
+            -6.240848,
+            53.344155
+          ],
+          [
+            -6.241154,
+            53.342746
+          ],
+          [
+            -6.241864,
+            53.342828
+          ],
+          [
+            -6.242029,
+            53.342848
+          ],
+          [
+            -6.242483,
+            53.342904
+          ],
+          [
+            -6.242702,
+            53.342931
+          ],
+          [
+            -6.243087,
+            53.342979
+          ],
+          [
+            -6.243299,
+            53.343006
+          ],
+          [
+            -6.24381,
+            53.343073
+          ],
+          [
+            -6.243982,
+            53.343094
+          ],
+          [
+            -6.244566,
+            53.343168
+          ],
+          [
+            -6.244681,
+            53.342905
+          ],
+          [
+            -6.244722,
+            53.342811
+          ],
+          [
+            -6.244828,
+            53.342546
+          ],
+          [
+            -6.244836,
+            53.342527
+          ],
+          [
+            -6.244912,
+            53.342363
+          ],
+          [
+            -6.244963,
+            53.342239
+          ],
+          [
+            -6.245095,
+            53.341894
+          ],
+          [
+            -6.24514,
+            53.341751
+          ],
+          [
+            -6.245347,
+            53.341237
+          ],
+          [
+            -6.245399,
+            53.341151
+          ],
+          [
+            -6.245484,
+            53.341054
+          ],
+          [
+            -6.245764,
+            53.340764
+          ],
+          [
+            -6.24596,
+            53.340565
+          ],
+          [
+            -6.246268,
+            53.34022
+          ],
+          [
+            -6.246472,
+            53.340001
+          ],
+          [
+            -6.246645,
+            53.339802
+          ],
+          [
+            -6.24671,
+            53.339727
+          ],
+          [
+            -6.246355,
+            53.339594
+          ],
+          [
+            -6.246464,
+            53.33948
+          ],
+          [
+            -6.247621,
+            53.33831
+          ],
+          [
+            -6.247699,
+            53.338232
+          ],
+          [
+            -6.247795,
+            53.338139
+          ],
+          [
+            -6.248533,
+            53.33742
+          ],
+          [
+            -6.24902,
+            53.336915
+          ],
+          [
+            -6.249068,
+            53.336864
+          ],
+          [
+            -6.24915,
+            53.336781
+          ],
+          [
+            -6.24921,
+            53.33672
+          ],
+          [
+            -6.25053,
+            53.335387
+          ],
+          [
+            -6.251324,
+            53.334583
+          ],
+          [
+            -6.251922,
+            53.333987
+          ],
+          [
+            -6.252628,
+            53.333268
+          ],
+          [
+            -6.25319,
+            53.332694
+          ],
+          [
+            -6.253312,
+            53.332587
+          ],
+          [
+            -6.253003,
+            53.332285
+          ],
+          [
+            -6.25295,
+            53.332239
+          ],
+          [
+            -6.252916,
+            53.332204
+          ],
+          [
+            -6.252838,
+            53.332134
+          ],
+          [
+            -6.252787,
+            53.332066
+          ],
+          [
+            -6.25275,
+            53.332017
+          ],
+          [
+            -6.252673,
+            53.331919
+          ],
+          [
+            -6.252871,
+            53.331899
+          ],
+          [
+            -6.253664,
+            53.331757
+          ],
+          [
+            -6.257089,
+            53.330981
+          ],
+          [
+            -6.25764,
+            53.330861
+          ],
+          [
+            -6.257772,
+            53.330832
+          ],
+          [
+            -6.25816,
+            53.33075
+          ],
+          [
+            -6.258862,
+            53.330598
+          ],
+          [
+            -6.259903,
+            53.33036
+          ],
+          [
+            -6.260046,
+            53.330327
+          ],
+          [
+            -6.260183,
+            53.330299
+          ],
+          [
+            -6.260368,
+            53.330262
+          ],
+          [
+            -6.260505,
+            53.330238
+          ],
+          [
+            -6.260879,
+            53.330163
+          ],
+          [
+            -6.261009,
+            53.330149
+          ],
+          [
+            -6.261746,
+            53.330061
+          ],
+          [
+            -6.263396,
+            53.329948
+          ],
+          [
+            -6.263717,
+            53.32993
+          ],
+          [
+            -6.264156,
+            53.329933
+          ],
+          [
+            -6.264291,
+            53.329935
+          ],
+          [
+            -6.264275,
+            53.330018
+          ],
+          [
+            -6.264278,
+            53.330079
+          ],
+          [
+            -6.264281,
+            53.330157
+          ],
+          [
+            -6.264286,
+            53.33018
+          ],
+          [
+            -6.264293,
+            53.330216
+          ],
+          [
+            -6.264301,
+            53.330279
+          ],
+          [
+            -6.264306,
+            53.330299
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264488,
+        53.3302,
+        -6.264293,
+        53.330299
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 22.4,
+            "duration": 3,
+            "steps": [
+              {
+                "distance": 9.3,
+                "duration": 1.1,
+                "type": 11,
+                "instruction": "Head south on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 13.1,
+                "duration": 1.9,
+                "type": 1,
+                "instruction": "Turn right onto Portobello Harbour",
+                "name": "Portobello Harbour",
+                "way_points": [
+                  2,
+                  4
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Portobello Harbour, on the right",
+                "name": "-",
+                "way_points": [
+                  4,
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          4
+        ],
+        "summary": {
+          "distance": 22.4,
+          "duration": 3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264306,
+            53.330299
+          ],
+          [
+            -6.264301,
+            53.330279
+          ],
+          [
+            -6.264293,
+            53.330216
+          ],
+          [
+            -6.264387,
+            53.330205
+          ],
+          [
+            -6.264488,
+            53.3302
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.265128,
+        53.330185,
+        -6.264307,
+        53.331436
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 327.4,
+            "duration": 66.1,
+            "steps": [
+              {
+                "distance": 156,
+                "duration": 30.4,
+                "type": 11,
+                "instruction": "Head west on Portobello Harbour",
+                "name": "Portobello Harbour",
+                "way_points": [
+                  0,
+                  7
+                ]
+              },
+              {
+                "distance": 34.6,
+                "duration": 8.3,
+                "type": 1,
+                "instruction": "Turn right onto Lennox Street",
+                "name": "Lennox Street",
+                "way_points": [
+                  7,
+                  9
+                ]
+              },
+              {
+                "distance": 8.9,
+                "duration": 3.2,
+                "type": 0,
+                "instruction": "Turn left onto Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  9,
+                  10
+                ]
+              },
+              {
+                "distance": 127.9,
+                "duration": 24.2,
+                "type": 3,
+                "instruction": "Turn sharp right onto Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  10,
+                  17
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  17,
+                  17
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          17
+        ],
+        "summary": {
+          "distance": 327.4,
+          "duration": 66.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264488,
+            53.3302
+          ],
+          [
+            -6.264842,
+            53.330185
+          ],
+          [
+            -6.264967,
+            53.330245
+          ],
+          [
+            -6.265004,
+            53.330294
+          ],
+          [
+            -6.265031,
+            53.330592
+          ],
+          [
+            -6.265085,
+            53.331003
+          ],
+          [
+            -6.265121,
+            53.331275
+          ],
+          [
+            -6.265128,
+            53.331332
+          ],
+          [
+            -6.264688,
+            53.331352
+          ],
+          [
+            -6.264609,
+            53.331356
+          ],
+          [
+            -6.264604,
+            53.331436
+          ],
+          [
+            -6.26456,
+            53.331358
+          ],
+          [
+            -6.264533,
+            53.331265
+          ],
+          [
+            -6.264519,
+            53.331175
+          ],
+          [
+            -6.264525,
+            53.33111
+          ],
+          [
+            -6.264422,
+            53.330734
+          ],
+          [
+            -6.2644,
+            53.33066
+          ],
+          [
+            -6.264307,
+            53.330302
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264309,
+        53.330302,
+        -6.264307,
+        53.330309
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.8,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.8,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.8,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264307,
+            53.330302
+          ],
+          [
+            -6.264309,
+            53.330309
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264309,
+        53.330298,
+        -6.264306,
+        53.330309
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.3,
+            "duration": 0.2,
+            "steps": [
+              {
+                "distance": 1.3,
+                "duration": 0.2,
+                "type": 11,
+                "instruction": "Head south on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.3,
+          "duration": 0.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264309,
+            53.330309
+          ],
+          [
+            -6.264306,
+            53.330298
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264422,
+        53.330298,
+        -6.263774,
+        53.33078
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 92.6,
+            "duration": 13.7,
+            "steps": [
+              {
+                "distance": 49.2,
+                "duration": 5.9,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 43.4,
+                "duration": 7.8,
+                "type": 1,
+                "instruction": "Turn right onto Richmond Place South",
+                "name": "Richmond Place South",
+                "way_points": [
+                  2,
+                  5
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Place South, on the right",
+                "name": "-",
+                "way_points": [
+                  5,
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          5
+        ],
+        "summary": {
+          "distance": 92.6,
+          "duration": 13.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264306,
+            53.330298
+          ],
+          [
+            -6.2644,
+            53.33066
+          ],
+          [
+            -6.264422,
+            53.330734
+          ],
+          [
+            -6.264305,
+            53.330743
+          ],
+          [
+            -6.263889,
+            53.330774
+          ],
+          [
+            -6.263774,
+            53.33078
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264422,
+        53.330383,
+        -6.263774,
+        53.33078
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 83,
+            "duration": 12.6,
+            "steps": [
+              {
+                "distance": 43.4,
+                "duration": 7.8,
+                "type": 11,
+                "instruction": "Head west on Richmond Place South",
+                "name": "Richmond Place South",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 39.6,
+                "duration": 4.8,
+                "type": 0,
+                "instruction": "Turn left onto Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  3,
+                  5
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the left",
+                "name": "-",
+                "way_points": [
+                  5,
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          5
+        ],
+        "summary": {
+          "distance": 83,
+          "duration": 12.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.263774,
+            53.33078
+          ],
+          [
+            -6.263889,
+            53.330774
+          ],
+          [
+            -6.264305,
+            53.330743
+          ],
+          [
+            -6.264422,
+            53.330734
+          ],
+          [
+            -6.2644,
+            53.33066
+          ],
+          [
+            -6.264328,
+            53.330383
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.26433,
+        53.330383,
+        -6.264328,
+        53.330392
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 1,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264328,
+            53.330383
+          ],
+          [
+            -6.26433,
+            53.330392
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264422,
+        53.330392,
+        -6.263844,
+        53.330774
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 105.3,
+            "duration": 18.5,
+            "steps": [
+              {
+                "distance": 38.6,
+                "duration": 4.6,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 35.7,
+                "duration": 6.4,
+                "type": 1,
+                "instruction": "Turn right onto Richmond Place South",
+                "name": "Richmond Place South",
+                "way_points": [
+                  2,
+                  4
+                ]
+              },
+              {
+                "distance": 31,
+                "duration": 7.5,
+                "type": 1,
+                "instruction": "Turn right onto Richmond Place South",
+                "name": "Richmond Place South",
+                "way_points": [
+                  4,
+                  5
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Place South, on the right",
+                "name": "-",
+                "way_points": [
+                  5,
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          5
+        ],
+        "summary": {
+          "distance": 105.3,
+          "duration": 18.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.26433,
+            53.330392
+          ],
+          [
+            -6.2644,
+            53.33066
+          ],
+          [
+            -6.264422,
+            53.330734
+          ],
+          [
+            -6.264305,
+            53.330743
+          ],
+          [
+            -6.263889,
+            53.330774
+          ],
+          [
+            -6.263844,
+            53.330496
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264422,
+        53.330314,
+        -6.263844,
+        53.330774
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 114.1,
+            "duration": 19.6,
+            "steps": [
+              {
+                "distance": 31,
+                "duration": 7.5,
+                "type": 11,
+                "instruction": "Head north on Richmond Place South",
+                "name": "Richmond Place South",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 35.7,
+                "duration": 6.4,
+                "type": 0,
+                "instruction": "Turn left onto Richmond Place South",
+                "name": "Richmond Place South",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 47.4,
+                "duration": 5.7,
+                "type": 0,
+                "instruction": "Turn left onto Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  3,
+                  5
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  5,
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          5
+        ],
+        "summary": {
+          "distance": 114.1,
+          "duration": 19.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.263844,
+            53.330496
+          ],
+          [
+            -6.263889,
+            53.330774
+          ],
+          [
+            -6.264305,
+            53.330743
+          ],
+          [
+            -6.264422,
+            53.330734
+          ],
+          [
+            -6.2644,
+            53.33066
+          ],
+          [
+            -6.26431,
+            53.330314
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264331,
+        53.330314,
+        -6.26431,
+        53.330394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 9.1,
+            "duration": 1.1,
+            "steps": [
+              {
+                "distance": 9.1,
+                "duration": 1.1,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 9.1,
+          "duration": 1.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.26431,
+            53.330314
+          ],
+          [
+            -6.264331,
+            53.330394
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264331,
+        53.330295,
+        -6.264305,
+        53.330394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.2,
+            "duration": 1.3,
+            "steps": [
+              {
+                "distance": 11.2,
+                "duration": 1.3,
+                "type": 11,
+                "instruction": "Head south on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 11.2,
+          "duration": 1.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264331,
+            53.330394
+          ],
+          [
+            -6.264305,
+            53.330295
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264307,
+        53.330295,
+        -6.264305,
+        53.330302
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.8,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.8,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.8,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264305,
+            53.330295
+          ],
+          [
+            -6.264307,
+            53.330302
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.26431,
+        53.330302,
+        -6.264307,
+        53.330312
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.1,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 1.1,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.1,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264307,
+            53.330302
+          ],
+          [
+            -6.26431,
+            53.330312
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243193,
+        53.361168,
+        -6.242766,
+        53.36139
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 54.8,
+            "duration": 7.3,
+            "steps": [
+              {
+                "distance": 26.4,
+                "duration": 4.8,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 28.4,
+                "duration": 2.6,
+                "type": 2,
+                "instruction": "Turn sharp left onto Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Clonliffe Road, R131, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 54.8,
+          "duration": 7.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.242969,
+            53.361168
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.243071,
+            53.361379
+          ],
+          [
+            -6.243193,
+            53.36139
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264327,
+        53.330312,
+        -6.26431,
+        53.330381
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 7.7,
+            "duration": 0.9,
+            "steps": [
+              {
+                "distance": 7.7,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 7.7,
+          "duration": 0.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.26431,
+            53.330312
+          ],
+          [
+            -6.264327,
+            53.330381
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264329,
+        53.330381,
+        -6.264327,
+        53.330386
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264327,
+            53.330381
+          ],
+          [
+            -6.264329,
+            53.330386
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264329,
+        53.330303,
+        -6.264307,
+        53.330386
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 9.4,
+            "duration": 1.1,
+            "steps": [
+              {
+                "distance": 9.4,
+                "duration": 1.1,
+                "type": 11,
+                "instruction": "Head south on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 9.4,
+          "duration": 1.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264329,
+            53.330386
+          ],
+          [
+            -6.264307,
+            53.330303
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.264327,
+        53.330303,
+        -6.264307,
+        53.330379
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 8.5,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 8.5,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head north on Richmond Street South, R114",
+                "name": "Richmond Street South, R114",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Richmond Street South, R114, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 8.5,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.264307,
+            53.330303
+          ],
+          [
+            -6.264327,
+            53.330379
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243193,
+        53.361122,
+        -6.242766,
+        53.36139
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 60.7,
+            "duration": 8.4,
+            "steps": [
+              {
+                "distance": 28.4,
+                "duration": 2.6,
+                "type": 11,
+                "instruction": "Head east on Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 32.3,
+                "duration": 5.8,
+                "type": 3,
+                "instruction": "Turn sharp right onto Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 60.7,
+          "duration": 8.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243193,
+            53.36139
+          ],
+          [
+            -6.243071,
+            53.361379
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.243013,
+            53.361122
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243013,
+        53.361122,
+        -6.243002,
+        53.361134
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.5,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 1.5,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.5,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243013,
+            53.361122
+          ],
+          [
+            -6.243002,
+            53.361134
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243065,
+        53.361134,
+        -6.242766,
+        53.361379
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 50.7,
+            "duration": 7.3,
+            "steps": [
+              {
+                "distance": 30.8,
+                "duration": 5.5,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 19.9,
+                "duration": 1.8,
+                "type": 2,
+                "instruction": "Turn sharp left onto Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Clonliffe Road, R131, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 50.7,
+          "duration": 7.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243002,
+            53.361134
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.243065,
+            53.361379
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243065,
+        53.361151,
+        -6.242766,
+        53.361379
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 48.4,
+            "duration": 6.9,
+            "steps": [
+              {
+                "distance": 19.9,
+                "duration": 1.8,
+                "type": 11,
+                "instruction": "Head east on Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 28.6,
+                "duration": 5.1,
+                "type": 3,
+                "instruction": "Turn sharp right onto Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 48.4,
+          "duration": 6.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243065,
+            53.361379
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.242985,
+            53.361151
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243207,
+        53.361151,
+        -6.242766,
+        53.361391
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 58,
+            "duration": 7.8,
+            "steps": [
+              {
+                "distance": 28.6,
+                "duration": 5.1,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 29.4,
+                "duration": 2.6,
+                "type": 2,
+                "instruction": "Turn sharp left onto Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Clonliffe Road, R131, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 58,
+          "duration": 7.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.242985,
+            53.361151
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.243071,
+            53.361379
+          ],
+          [
+            -6.243207,
+            53.361391
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243207,
+        53.361071,
+        -6.242766,
+        53.361391
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 68.6,
+            "duration": 9.7,
+            "steps": [
+              {
+                "distance": 29.4,
+                "duration": 2.6,
+                "type": 11,
+                "instruction": "Head east on Clonliffe Road, R131",
+                "name": "Clonliffe Road, R131",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 39.2,
+                "duration": 7.1,
+                "type": 3,
+                "instruction": "Turn sharp right onto Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  2,
+                  4
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, on the right",
+                "name": "-",
+                "way_points": [
+                  4,
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          4
+        ],
+        "summary": {
+          "distance": 68.6,
+          "duration": 9.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243207,
+            53.361391
+          ],
+          [
+            -6.243071,
+            53.361379
+          ],
+          [
+            -6.242766,
+            53.361372
+          ],
+          [
+            -6.243024,
+            53.361111
+          ],
+          [
+            -6.243073,
+            53.361071
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.243073,
+        53.361071,
+        -6.243032,
+        53.361105
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4.7,
+            "duration": 0.8,
+            "steps": [
+              {
+                "distance": 4.7,
+                "duration": 0.8,
+                "type": 11,
+                "instruction": "Head northeast on Ballybough Road, R803",
+                "name": "Ballybough Road, R803",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ballybough Road, R803, straight ahead",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 4.7,
+          "duration": 0.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.243073,
+            53.361071
+          ],
+          [
+            -6.243032,
+            53.361105
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

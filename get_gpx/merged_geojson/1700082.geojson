@@ -1,0 +1,2470 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.245019,
+        53.342093,
+        -6.244973,
+        53.342214
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 13.8,
+            "duration": 2,
+            "steps": [
+              {
+                "distance": 13.8,
+                "duration": 2,
+                "type": 11,
+                "instruction": "Head north on Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Erne Street Upper, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 13.8,
+          "duration": 2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.245019,
+            53.342093
+          ],
+          [
+            -6.244973,
+            53.342214
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.245015,
+        53.342103,
+        -6.244973,
+        53.342214
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 12.6,
+            "duration": 1.8,
+            "steps": [
+              {
+                "distance": 12.6,
+                "duration": 1.8,
+                "type": 11,
+                "instruction": "Head south on Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Erne Street Upper, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 12.6,
+          "duration": 1.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.244973,
+            53.342214
+          ],
+          [
+            -6.245015,
+            53.342103
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.245015,
+        53.342103,
+        -6.244976,
+        53.342206
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.7,
+            "duration": 1.7,
+            "steps": [
+              {
+                "distance": 11.7,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head north on Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Erne Street Upper, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 11.7,
+          "duration": 1.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.245015,
+            53.342103
+          ],
+          [
+            -6.244976,
+            53.342206
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.245021,
+        53.342088,
+        -6.244976,
+        53.342206
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 13.5,
+            "duration": 1.9,
+            "steps": [
+              {
+                "distance": 13.5,
+                "duration": 1.9,
+                "type": 11,
+                "instruction": "Head south on Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Erne Street Upper, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 13.5,
+          "duration": 1.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.244976,
+            53.342206
+          ],
+          [
+            -6.245021,
+            53.342088
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.245954,
+        53.341151,
+        -6.245021,
+        53.342088
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 171.3,
+            "duration": 29.5,
+            "steps": [
+              {
+                "distance": 107.2,
+                "duration": 15.4,
+                "type": 11,
+                "instruction": "Head south on Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 41.5,
+                "duration": 6,
+                "type": 1,
+                "instruction": "Turn right onto Fenian Street, R815",
+                "name": "Fenian Street, R815",
+                "way_points": [
+                  4,
+                  6
+                ]
+              },
+              {
+                "distance": 22.6,
+                "duration": 8.1,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  6,
+                  10
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the right",
+                "name": "-",
+                "way_points": [
+                  10,
+                  10
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                8,
+                0
+              ],
+              [
+                8,
+                10,
+                32
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 161.4,
+                "amount": 94.22
+              },
+              {
+                "value": 32,
+                "distance": 9.9,
+                "amount": 5.78
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          10
+        ],
+        "summary": {
+          "distance": 171.3,
+          "duration": 29.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.245021,
+            53.342088
+          ],
+          [
+            -6.245095,
+            53.341894
+          ],
+          [
+            -6.24514,
+            53.341751
+          ],
+          [
+            -6.245347,
+            53.341237
+          ],
+          [
+            -6.245399,
+            53.341151
+          ],
+          [
+            -6.245541,
+            53.341195
+          ],
+          [
+            -6.245954,
+            53.341323
+          ],
+          [
+            -6.245913,
+            53.341395
+          ],
+          [
+            -6.245892,
+            53.341431
+          ],
+          [
+            -6.245862,
+            53.341483
+          ],
+          [
+            -6.245887,
+            53.341514
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.245954,
+        53.341151,
+        -6.244974,
+        53.342211
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 185.4,
+            "duration": 31.6,
+            "steps": [
+              {
+                "distance": 22.6,
+                "duration": 8.1,
+                "type": 11,
+                "instruction": "Head southeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 41.5,
+                "duration": 6,
+                "type": 0,
+                "instruction": "Turn left onto Fenian Street, R815",
+                "name": "Fenian Street, R815",
+                "way_points": [
+                  4,
+                  6
+                ]
+              },
+              {
+                "distance": 121.3,
+                "duration": 17.5,
+                "type": 0,
+                "instruction": "Turn left onto Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  6,
+                  10
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Erne Street Upper, on the right",
+                "name": "-",
+                "way_points": [
+                  10,
+                  10
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                2,
+                32
+              ],
+              [
+                2,
+                10,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 175.5,
+                "amount": 94.66
+              },
+              {
+                "value": 32,
+                "distance": 9.9,
+                "amount": 5.34
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          10
+        ],
+        "summary": {
+          "distance": 185.4,
+          "duration": 31.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.245887,
+            53.341514
+          ],
+          [
+            -6.245862,
+            53.341483
+          ],
+          [
+            -6.245892,
+            53.341431
+          ],
+          [
+            -6.245913,
+            53.341395
+          ],
+          [
+            -6.245954,
+            53.341323
+          ],
+          [
+            -6.245541,
+            53.341195
+          ],
+          [
+            -6.245399,
+            53.341151
+          ],
+          [
+            -6.245347,
+            53.341237
+          ],
+          [
+            -6.24514,
+            53.341751
+          ],
+          [
+            -6.245095,
+            53.341894
+          ],
+          [
+            -6.244974,
+            53.342211
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.256519,
+        53.34552,
+        -6.256324,
+        53.345565
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 13.9,
+            "duration": 10,
+            "steps": [
+              {
+                "distance": 13.9,
+                "duration": 10,
+                "type": 11,
+                "instruction": "Head northwest on Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Pearse Street, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                2,
+                4
+              ]
+            ],
+            "summary": [
+              {
+                "value": 4,
+                "distance": 13.9,
+                "amount": 100
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 13.9,
+          "duration": 10
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.256324,
+            53.34552
+          ],
+          [
+            -6.256463,
+            53.345556
+          ],
+          [
+            -6.256519,
+            53.345565
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.259147,
+        53.344876,
+        -6.25306,
+        53.345905
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 980.5,
+            "duration": 323.4,
+            "steps": [
+              {
+                "distance": 137.5,
+                "duration": 58.3,
+                "type": 11,
+                "instruction": "Head west on Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  0,
+                  10
+                ]
+              },
+              {
+                "distance": 45.8,
+                "duration": 11,
+                "type": 13,
+                "instruction": "Keep right onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  10,
+                  13
+                ]
+              },
+              {
+                "distance": 40.3,
+                "duration": 9.7,
+                "type": 1,
+                "instruction": "Turn right onto Westmoreland Street, R138",
+                "name": "Westmoreland Street, R138",
+                "way_points": [
+                  13,
+                  15
+                ]
+              },
+              {
+                "distance": 418,
+                "duration": 141,
+                "type": 13,
+                "instruction": "Keep right onto Westmoreland Street, R138",
+                "name": "Westmoreland Street, R138",
+                "way_points": [
+                  15,
+                  41
+                ]
+              },
+              {
+                "distance": 105.9,
+                "duration": 15.2,
+                "type": 1,
+                "instruction": "Turn right onto Spring Garden Lane",
+                "name": "Spring Garden Lane",
+                "way_points": [
+                  41,
+                  45
+                ]
+              },
+              {
+                "distance": 126.4,
+                "duration": 11.4,
+                "type": 1,
+                "instruction": "Turn right onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  45,
+                  49
+                ]
+              },
+              {
+                "distance": 106.6,
+                "duration": 76.8,
+                "type": 12,
+                "instruction": "Keep left onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  49,
+                  54
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Pearse Street, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  54,
+                  54
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                7,
+                4
+              ],
+              [
+                7,
+                17,
+                0
+              ],
+              [
+                17,
+                23,
+                4
+              ],
+              [
+                23,
+                49,
+                0
+              ],
+              [
+                49,
+                54,
+                4
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 692,
+                "amount": 70.58
+              },
+              {
+                "value": 4,
+                "distance": 288.5,
+                "amount": 29.42
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          54
+        ],
+        "summary": {
+          "distance": 980.5,
+          "duration": 323.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.256519,
+            53.345565
+          ],
+          [
+            -6.25661,
+            53.345578
+          ],
+          [
+            -6.256812,
+            53.345599
+          ],
+          [
+            -6.2569,
+            53.3456
+          ],
+          [
+            -6.256978,
+            53.345599
+          ],
+          [
+            -6.257283,
+            53.345583
+          ],
+          [
+            -6.257357,
+            53.345593
+          ],
+          [
+            -6.257516,
+            53.345611
+          ],
+          [
+            -6.25775,
+            53.345559
+          ],
+          [
+            -6.2579,
+            53.345509
+          ],
+          [
+            -6.25846,
+            53.345322
+          ],
+          [
+            -6.258601,
+            53.345309
+          ],
+          [
+            -6.25903,
+            53.345321
+          ],
+          [
+            -6.259147,
+            53.345325
+          ],
+          [
+            -6.259143,
+            53.34564
+          ],
+          [
+            -6.259142,
+            53.345688
+          ],
+          [
+            -6.259076,
+            53.345791
+          ],
+          [
+            -6.259075,
+            53.345844
+          ],
+          [
+            -6.259025,
+            53.345843
+          ],
+          [
+            -6.258971,
+            53.345846
+          ],
+          [
+            -6.258578,
+            53.345865
+          ],
+          [
+            -6.257632,
+            53.345905
+          ],
+          [
+            -6.257586,
+            53.345904
+          ],
+          [
+            -6.257346,
+            53.345901
+          ],
+          [
+            -6.257148,
+            53.34589
+          ],
+          [
+            -6.257025,
+            53.345897
+          ],
+          [
+            -6.256993,
+            53.345897
+          ],
+          [
+            -6.256812,
+            53.345903
+          ],
+          [
+            -6.256524,
+            53.345903
+          ],
+          [
+            -6.256457,
+            53.345903
+          ],
+          [
+            -6.25624,
+            53.345902
+          ],
+          [
+            -6.255996,
+            53.3459
+          ],
+          [
+            -6.255932,
+            53.3459
+          ],
+          [
+            -6.255133,
+            53.345881
+          ],
+          [
+            -6.254726,
+            53.34588
+          ],
+          [
+            -6.254663,
+            53.345879
+          ],
+          [
+            -6.254545,
+            53.345876
+          ],
+          [
+            -6.254301,
+            53.345871
+          ],
+          [
+            -6.254109,
+            53.345868
+          ],
+          [
+            -6.253811,
+            53.345856
+          ],
+          [
+            -6.253253,
+            53.345833
+          ],
+          [
+            -6.25306,
+            53.345823
+          ],
+          [
+            -6.253104,
+            53.345462
+          ],
+          [
+            -6.253117,
+            53.345363
+          ],
+          [
+            -6.253169,
+            53.344971
+          ],
+          [
+            -6.253206,
+            53.344876
+          ],
+          [
+            -6.253363,
+            53.344905
+          ],
+          [
+            -6.254448,
+            53.345106
+          ],
+          [
+            -6.254622,
+            53.34514
+          ],
+          [
+            -6.255021,
+            53.345218
+          ],
+          [
+            -6.25529,
+            53.345249
+          ],
+          [
+            -6.255676,
+            53.34535
+          ],
+          [
+            -6.255962,
+            53.345424
+          ],
+          [
+            -6.256463,
+            53.345556
+          ],
+          [
+            -6.256513,
+            53.345564
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.259147,
+        53.344876,
+        -6.25306,
+        53.345905
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 947.2,
+            "duration": 299.4,
+            "steps": [
+              {
+                "distance": 138,
+                "duration": 58.7,
+                "type": 11,
+                "instruction": "Head west on Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  0,
+                  10
+                ]
+              },
+              {
+                "distance": 45.8,
+                "duration": 11,
+                "type": 13,
+                "instruction": "Keep right onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  10,
+                  13
+                ]
+              },
+              {
+                "distance": 40.3,
+                "duration": 9.7,
+                "type": 1,
+                "instruction": "Turn right onto Westmoreland Street, R138",
+                "name": "Westmoreland Street, R138",
+                "way_points": [
+                  13,
+                  15
+                ]
+              },
+              {
+                "distance": 418,
+                "duration": 141,
+                "type": 13,
+                "instruction": "Keep right onto Westmoreland Street, R138",
+                "name": "Westmoreland Street, R138",
+                "way_points": [
+                  15,
+                  41
+                ]
+              },
+              {
+                "distance": 105.9,
+                "duration": 15.2,
+                "type": 1,
+                "instruction": "Turn right onto Spring Garden Lane",
+                "name": "Spring Garden Lane",
+                "way_points": [
+                  41,
+                  45
+                ]
+              },
+              {
+                "distance": 126.4,
+                "duration": 11.4,
+                "type": 1,
+                "instruction": "Turn right onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  45,
+                  49
+                ]
+              },
+              {
+                "distance": 66.8,
+                "duration": 48.1,
+                "type": 12,
+                "instruction": "Keep left onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  49,
+                  52
+                ]
+              },
+              {
+                "distance": 6,
+                "duration": 4.3,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  52,
+                  53
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the right",
+                "name": "-",
+                "way_points": [
+                  53,
+                  53
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                7,
+                4
+              ],
+              [
+                7,
+                17,
+                0
+              ],
+              [
+                17,
+                23,
+                4
+              ],
+              [
+                23,
+                49,
+                0
+              ],
+              [
+                49,
+                53,
+                4
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 692,
+                "amount": 73.06
+              },
+              {
+                "value": 4,
+                "distance": 255.2,
+                "amount": 26.94
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          53
+        ],
+        "summary": {
+          "distance": 947.2,
+          "duration": 299.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.256513,
+            53.345564
+          ],
+          [
+            -6.25661,
+            53.345578
+          ],
+          [
+            -6.256812,
+            53.345599
+          ],
+          [
+            -6.2569,
+            53.3456
+          ],
+          [
+            -6.256978,
+            53.345599
+          ],
+          [
+            -6.257283,
+            53.345583
+          ],
+          [
+            -6.257357,
+            53.345593
+          ],
+          [
+            -6.257516,
+            53.345611
+          ],
+          [
+            -6.25775,
+            53.345559
+          ],
+          [
+            -6.2579,
+            53.345509
+          ],
+          [
+            -6.25846,
+            53.345322
+          ],
+          [
+            -6.258601,
+            53.345309
+          ],
+          [
+            -6.25903,
+            53.345321
+          ],
+          [
+            -6.259147,
+            53.345325
+          ],
+          [
+            -6.259143,
+            53.34564
+          ],
+          [
+            -6.259142,
+            53.345688
+          ],
+          [
+            -6.259076,
+            53.345791
+          ],
+          [
+            -6.259075,
+            53.345844
+          ],
+          [
+            -6.259025,
+            53.345843
+          ],
+          [
+            -6.258971,
+            53.345846
+          ],
+          [
+            -6.258578,
+            53.345865
+          ],
+          [
+            -6.257632,
+            53.345905
+          ],
+          [
+            -6.257586,
+            53.345904
+          ],
+          [
+            -6.257346,
+            53.345901
+          ],
+          [
+            -6.257148,
+            53.34589
+          ],
+          [
+            -6.257025,
+            53.345897
+          ],
+          [
+            -6.256993,
+            53.345897
+          ],
+          [
+            -6.256812,
+            53.345903
+          ],
+          [
+            -6.256524,
+            53.345903
+          ],
+          [
+            -6.256457,
+            53.345903
+          ],
+          [
+            -6.25624,
+            53.345902
+          ],
+          [
+            -6.255996,
+            53.3459
+          ],
+          [
+            -6.255932,
+            53.3459
+          ],
+          [
+            -6.255133,
+            53.345881
+          ],
+          [
+            -6.254726,
+            53.34588
+          ],
+          [
+            -6.254663,
+            53.345879
+          ],
+          [
+            -6.254545,
+            53.345876
+          ],
+          [
+            -6.254301,
+            53.345871
+          ],
+          [
+            -6.254109,
+            53.345868
+          ],
+          [
+            -6.253811,
+            53.345856
+          ],
+          [
+            -6.253253,
+            53.345833
+          ],
+          [
+            -6.25306,
+            53.345823
+          ],
+          [
+            -6.253104,
+            53.345462
+          ],
+          [
+            -6.253117,
+            53.345363
+          ],
+          [
+            -6.253169,
+            53.344971
+          ],
+          [
+            -6.253206,
+            53.344876
+          ],
+          [
+            -6.253363,
+            53.344905
+          ],
+          [
+            -6.254448,
+            53.345106
+          ],
+          [
+            -6.254622,
+            53.34514
+          ],
+          [
+            -6.255021,
+            53.345218
+          ],
+          [
+            -6.25529,
+            53.345249
+          ],
+          [
+            -6.255676,
+            53.34535
+          ],
+          [
+            -6.255962,
+            53.345424
+          ],
+          [
+            -6.256,
+            53.345375
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.256322,
+        53.345375,
+        -6.255962,
+        53.345519
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 32.1,
+            "duration": 23.1,
+            "steps": [
+              {
+                "distance": 6,
+                "duration": 4.3,
+                "type": 11,
+                "instruction": "Head northeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 26.2,
+                "duration": 18.8,
+                "type": 0,
+                "instruction": "Turn left onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Pearse Street, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                2,
+                4
+              ]
+            ],
+            "summary": [
+              {
+                "value": 4,
+                "distance": 32.1,
+                "amount": 100
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 32.1,
+          "duration": 23.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.256,
+            53.345375
+          ],
+          [
+            -6.255962,
+            53.345424
+          ],
+          [
+            -6.256322,
+            53.345519
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.259147,
+        53.344876,
+        -6.25306,
+        53.345905
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 960.8,
+            "duration": 309.2,
+            "steps": [
+              {
+                "distance": 151.6,
+                "duration": 68.5,
+                "type": 11,
+                "instruction": "Head northwest on Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  0,
+                  11
+                ]
+              },
+              {
+                "distance": 45.8,
+                "duration": 11,
+                "type": 13,
+                "instruction": "Keep right onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  11,
+                  14
+                ]
+              },
+              {
+                "distance": 40.3,
+                "duration": 9.7,
+                "type": 1,
+                "instruction": "Turn right onto Westmoreland Street, R138",
+                "name": "Westmoreland Street, R138",
+                "way_points": [
+                  14,
+                  16
+                ]
+              },
+              {
+                "distance": 418,
+                "duration": 141,
+                "type": 13,
+                "instruction": "Keep right onto Westmoreland Street, R138",
+                "name": "Westmoreland Street, R138",
+                "way_points": [
+                  16,
+                  42
+                ]
+              },
+              {
+                "distance": 105.9,
+                "duration": 15.2,
+                "type": 1,
+                "instruction": "Turn right onto Spring Garden Lane",
+                "name": "Spring Garden Lane",
+                "way_points": [
+                  42,
+                  46
+                ]
+              },
+              {
+                "distance": 126.4,
+                "duration": 11.4,
+                "type": 1,
+                "instruction": "Turn right onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  46,
+                  50
+                ]
+              },
+              {
+                "distance": 66.8,
+                "duration": 48.1,
+                "type": 12,
+                "instruction": "Keep left onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  50,
+                  53
+                ]
+              },
+              {
+                "distance": 6,
+                "duration": 4.3,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  53,
+                  54
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  54,
+                  54
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                8,
+                4
+              ],
+              [
+                8,
+                18,
+                0
+              ],
+              [
+                18,
+                24,
+                4
+              ],
+              [
+                24,
+                50,
+                0
+              ],
+              [
+                50,
+                54,
+                4
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 692,
+                "amount": 72.02
+              },
+              {
+                "value": 4,
+                "distance": 268.8,
+                "amount": 27.98
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          54
+        ],
+        "summary": {
+          "distance": 960.8,
+          "duration": 309.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.256322,
+            53.345519
+          ],
+          [
+            -6.256463,
+            53.345556
+          ],
+          [
+            -6.25661,
+            53.345578
+          ],
+          [
+            -6.256812,
+            53.345599
+          ],
+          [
+            -6.2569,
+            53.3456
+          ],
+          [
+            -6.256978,
+            53.345599
+          ],
+          [
+            -6.257283,
+            53.345583
+          ],
+          [
+            -6.257357,
+            53.345593
+          ],
+          [
+            -6.257516,
+            53.345611
+          ],
+          [
+            -6.25775,
+            53.345559
+          ],
+          [
+            -6.2579,
+            53.345509
+          ],
+          [
+            -6.25846,
+            53.345322
+          ],
+          [
+            -6.258601,
+            53.345309
+          ],
+          [
+            -6.25903,
+            53.345321
+          ],
+          [
+            -6.259147,
+            53.345325
+          ],
+          [
+            -6.259143,
+            53.34564
+          ],
+          [
+            -6.259142,
+            53.345688
+          ],
+          [
+            -6.259076,
+            53.345791
+          ],
+          [
+            -6.259075,
+            53.345844
+          ],
+          [
+            -6.259025,
+            53.345843
+          ],
+          [
+            -6.258971,
+            53.345846
+          ],
+          [
+            -6.258578,
+            53.345865
+          ],
+          [
+            -6.257632,
+            53.345905
+          ],
+          [
+            -6.257586,
+            53.345904
+          ],
+          [
+            -6.257346,
+            53.345901
+          ],
+          [
+            -6.257148,
+            53.34589
+          ],
+          [
+            -6.257025,
+            53.345897
+          ],
+          [
+            -6.256993,
+            53.345897
+          ],
+          [
+            -6.256812,
+            53.345903
+          ],
+          [
+            -6.256524,
+            53.345903
+          ],
+          [
+            -6.256457,
+            53.345903
+          ],
+          [
+            -6.25624,
+            53.345902
+          ],
+          [
+            -6.255996,
+            53.3459
+          ],
+          [
+            -6.255932,
+            53.3459
+          ],
+          [
+            -6.255133,
+            53.345881
+          ],
+          [
+            -6.254726,
+            53.34588
+          ],
+          [
+            -6.254663,
+            53.345879
+          ],
+          [
+            -6.254545,
+            53.345876
+          ],
+          [
+            -6.254301,
+            53.345871
+          ],
+          [
+            -6.254109,
+            53.345868
+          ],
+          [
+            -6.253811,
+            53.345856
+          ],
+          [
+            -6.253253,
+            53.345833
+          ],
+          [
+            -6.25306,
+            53.345823
+          ],
+          [
+            -6.253104,
+            53.345462
+          ],
+          [
+            -6.253117,
+            53.345363
+          ],
+          [
+            -6.253169,
+            53.344971
+          ],
+          [
+            -6.253206,
+            53.344876
+          ],
+          [
+            -6.253363,
+            53.344905
+          ],
+          [
+            -6.254448,
+            53.345106
+          ],
+          [
+            -6.254622,
+            53.34514
+          ],
+          [
+            -6.255021,
+            53.345218
+          ],
+          [
+            -6.25529,
+            53.345249
+          ],
+          [
+            -6.255676,
+            53.34535
+          ],
+          [
+            -6.255962,
+            53.345424
+          ],
+          [
+            -6.256,
+            53.345375
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.256272,
+        53.345375,
+        -6.255962,
+        53.345506
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 28.5,
+            "duration": 20.5,
+            "steps": [
+              {
+                "distance": 6,
+                "duration": 4.3,
+                "type": 11,
+                "instruction": "Head northeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 22.5,
+                "duration": 16.2,
+                "type": 0,
+                "instruction": "Turn left onto Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Pearse Street, R118, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                2,
+                4
+              ]
+            ],
+            "summary": [
+              {
+                "value": 4,
+                "distance": 28.5,
+                "amount": 100
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 28.5,
+          "duration": 20.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.256,
+            53.345375
+          ],
+          [
+            -6.255962,
+            53.345424
+          ],
+          [
+            -6.256272,
+            53.345506
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.259471,
+        53.339727,
+        -6.245061,
+        53.345611
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1614.9,
+            "duration": 280.1,
+            "steps": [
+              {
+                "distance": 155.2,
+                "duration": 71.1,
+                "type": 11,
+                "instruction": "Head northwest on Pearse Street, R118",
+                "name": "Pearse Street, R118",
+                "way_points": [
+                  0,
+                  11
+                ]
+              },
+              {
+                "distance": 1183.6,
+                "duration": 169.2,
+                "type": 12,
+                "instruction": "Keep left onto College Street, R138",
+                "name": "College Street, R138",
+                "way_points": [
+                  11,
+                  53
+                ]
+              },
+              {
+                "distance": 276.1,
+                "duration": 39.8,
+                "type": 0,
+                "instruction": "Turn left onto Holles Street",
+                "name": "Holles Street",
+                "way_points": [
+                  53,
+                  64
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Holles Street, on the left",
+                "name": "-",
+                "way_points": [
+                  64,
+                  64
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                8,
+                4
+              ],
+              [
+                8,
+                64,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1530.3,
+                "amount": 94.76
+              },
+              {
+                "value": 4,
+                "distance": 84.6,
+                "amount": 5.24
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          64
+        ],
+        "summary": {
+          "distance": 1614.9,
+          "duration": 280.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.256272,
+            53.345506
+          ],
+          [
+            -6.256463,
+            53.345556
+          ],
+          [
+            -6.25661,
+            53.345578
+          ],
+          [
+            -6.256812,
+            53.345599
+          ],
+          [
+            -6.2569,
+            53.3456
+          ],
+          [
+            -6.256978,
+            53.345599
+          ],
+          [
+            -6.257283,
+            53.345583
+          ],
+          [
+            -6.257357,
+            53.345593
+          ],
+          [
+            -6.257516,
+            53.345611
+          ],
+          [
+            -6.25775,
+            53.345559
+          ],
+          [
+            -6.2579,
+            53.345509
+          ],
+          [
+            -6.25846,
+            53.345322
+          ],
+          [
+            -6.25867,
+            53.345203
+          ],
+          [
+            -6.259098,
+            53.344965
+          ],
+          [
+            -6.259227,
+            53.344843
+          ],
+          [
+            -6.259291,
+            53.344771
+          ],
+          [
+            -6.259377,
+            53.344684
+          ],
+          [
+            -6.259467,
+            53.344477
+          ],
+          [
+            -6.259471,
+            53.344425
+          ],
+          [
+            -6.259462,
+            53.344371
+          ],
+          [
+            -6.25923,
+            53.344013
+          ],
+          [
+            -6.259209,
+            53.343953
+          ],
+          [
+            -6.259217,
+            53.343758
+          ],
+          [
+            -6.259251,
+            53.343607
+          ],
+          [
+            -6.2593,
+            53.343402
+          ],
+          [
+            -6.259284,
+            53.343347
+          ],
+          [
+            -6.259252,
+            53.343271
+          ],
+          [
+            -6.259159,
+            53.343205
+          ],
+          [
+            -6.259098,
+            53.343179
+          ],
+          [
+            -6.257919,
+            53.34294
+          ],
+          [
+            -6.257829,
+            53.342923
+          ],
+          [
+            -6.257691,
+            53.342928
+          ],
+          [
+            -6.25751,
+            53.342886
+          ],
+          [
+            -6.25721,
+            53.342777
+          ],
+          [
+            -6.256333,
+            53.342577
+          ],
+          [
+            -6.256163,
+            53.342537
+          ],
+          [
+            -6.255805,
+            53.342457
+          ],
+          [
+            -6.255645,
+            53.342421
+          ],
+          [
+            -6.255116,
+            53.34231
+          ],
+          [
+            -6.254642,
+            53.342208
+          ],
+          [
+            -6.254546,
+            53.342188
+          ],
+          [
+            -6.254411,
+            53.342158
+          ],
+          [
+            -6.253648,
+            53.341992
+          ],
+          [
+            -6.252771,
+            53.341806
+          ],
+          [
+            -6.252578,
+            53.341765
+          ],
+          [
+            -6.252441,
+            53.341733
+          ],
+          [
+            -6.252438,
+            53.341732
+          ],
+          [
+            -6.252127,
+            53.341627
+          ],
+          [
+            -6.251543,
+            53.341435
+          ],
+          [
+            -6.250913,
+            53.341227
+          ],
+          [
+            -6.250741,
+            53.341171
+          ],
+          [
+            -6.250443,
+            53.341044
+          ],
+          [
+            -6.247404,
+            53.339972
+          ],
+          [
+            -6.24671,
+            53.339727
+          ],
+          [
+            -6.246645,
+            53.339802
+          ],
+          [
+            -6.246472,
+            53.340001
+          ],
+          [
+            -6.246268,
+            53.34022
+          ],
+          [
+            -6.24596,
+            53.340565
+          ],
+          [
+            -6.245764,
+            53.340764
+          ],
+          [
+            -6.245484,
+            53.341054
+          ],
+          [
+            -6.245399,
+            53.341151
+          ],
+          [
+            -6.245347,
+            53.341237
+          ],
+          [
+            -6.24514,
+            53.341751
+          ],
+          [
+            -6.245095,
+            53.341894
+          ],
+          [
+            -6.245061,
+            53.341984
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.245061,
+        53.341984,
+        -6.245019,
+        53.342093
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 12.5,
+            "duration": 1.8,
+            "steps": [
+              {
+                "distance": 12.5,
+                "duration": 1.8,
+                "type": 11,
+                "instruction": "Head north on Erne Street Upper",
+                "name": "Erne Street Upper",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Erne Street Upper, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 12.5,
+          "duration": 1.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.245061,
+            53.341984
+          ],
+          [
+            -6.245019,
+            53.342093
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

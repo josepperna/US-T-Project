@@ -1,0 +1,7109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.218788,
+        53.325985,
+        -6.218788,
+        53.325985
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          0
+        ],
+        "summary": {}
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218788,
+        53.325985,
+        -6.218788,
+        53.325985
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          0
+        ],
+        "summary": {}
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218794,
+        53.325985,
+        -6.218788,
+        53.325989
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.2,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.2,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218794,
+            53.325989
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.219131,
+        53.325803,
+        -6.218788,
+        53.325989
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 35.6,
+            "duration": 8.5,
+            "steps": [
+              {
+                "distance": 28.6,
+                "duration": 6.9,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 7,
+                "duration": 1.7,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  4,
+                  6
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  6,
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          6
+        ],
+        "summary": {
+          "distance": 35.6,
+          "duration": 8.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218794,
+            53.325989
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.219131,
+            53.325847
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.219131,
+        53.325803,
+        -6.218788,
+        53.325995
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 36.4,
+            "duration": 8.7,
+            "steps": [
+              {
+                "distance": 7,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head east on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 29.4,
+                "duration": 7.1,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  2,
+                  6
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, straight ahead",
+                "name": "-",
+                "way_points": [
+                  6,
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          6
+        ],
+        "summary": {
+          "distance": 36.4,
+          "duration": 8.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.219131,
+            53.325847
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218801,
+            53.325995
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218801,
+        53.325985,
+        -6.218788,
+        53.325995
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.4,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 1.4,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.4,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218801,
+            53.325995
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218788,
+        53.325985,
+        -6.218788,
+        53.325985
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          0
+        ],
+        "summary": {}
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218788,
+        53.325985,
+        -6.218788,
+        53.325985
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          0
+        ],
+        "summary": {}
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218839,
+        53.325985,
+        -6.218788,
+        53.326024
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5.5,
+            "duration": 1.3,
+            "steps": [
+              {
+                "distance": 5.5,
+                "duration": 1.3,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 5.5,
+          "duration": 1.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218839,
+            53.326024
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218839,
+        53.325985,
+        -6.218788,
+        53.326024
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5.5,
+            "duration": 1.3,
+            "steps": [
+              {
+                "distance": 5.5,
+                "duration": 1.3,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 5.5,
+          "duration": 1.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218839,
+            53.326024
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.21879,
+        53.325985,
+        -6.218788,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.2,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.2,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.2,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.21879,
+            53.325986
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.217824,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1316.9,
+            "duration": 253.1,
+            "steps": [
+              {
+                "distance": 28.2,
+                "duration": 6.8,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  4,
+                  8
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  8,
+                  11
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  11,
+                  13
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 1,
+                "instruction": "Turn right onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  13,
+                  30
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 1,
+                "instruction": "Turn right onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  30,
+                  55
+                ]
+              },
+              {
+                "distance": 268.4,
+                "duration": 64.4,
+                "type": 1,
+                "instruction": "Turn right onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  55,
+                  75
+                ]
+              },
+              {
+                "distance": 44.9,
+                "duration": 10.8,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  75,
+                  79
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  79,
+                  79
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                11,
+                0
+              ],
+              [
+                11,
+                13,
+                16
+              ],
+              [
+                13,
+                79,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1221.6,
+                "amount": 92.76
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.24
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          79
+        ],
+        "summary": {
+          "distance": 1316.9,
+          "duration": 253.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21879,
+            53.325986
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.218559,
+            53.326747
+          ],
+          [
+            -6.218426,
+            53.326639
+          ],
+          [
+            -6.218345,
+            53.326573
+          ],
+          [
+            -6.218296,
+            53.326533
+          ],
+          [
+            -6.218233,
+            53.326482
+          ],
+          [
+            -6.218162,
+            53.326425
+          ],
+          [
+            -6.217824,
+            53.326168
+          ],
+          [
+            -6.21826,
+            53.325971
+          ],
+          [
+            -6.218278,
+            53.325962
+          ],
+          [
+            -6.218328,
+            53.325977
+          ],
+          [
+            -6.218358,
+            53.326001
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.217824,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1316.9,
+            "duration": 253.1,
+            "steps": [
+              {
+                "distance": 44.9,
+                "duration": 10.8,
+                "type": 11,
+                "instruction": "Head southeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 268.4,
+                "duration": 64.4,
+                "type": 0,
+                "instruction": "Turn left onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  4,
+                  24
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 0,
+                "instruction": "Turn left onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  24,
+                  49
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 0,
+                "instruction": "Turn left onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  49,
+                  66
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  66,
+                  68
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  68,
+                  71
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  71,
+                  75
+                ]
+              },
+              {
+                "distance": 28.2,
+                "duration": 6.8,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  75,
+                  79
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  79,
+                  79
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                66,
+                0
+              ],
+              [
+                66,
+                68,
+                16
+              ],
+              [
+                68,
+                79,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1221.6,
+                "amount": 92.76
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.24
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          79
+        ],
+        "summary": {
+          "distance": 1316.9,
+          "duration": 253.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218358,
+            53.326001
+          ],
+          [
+            -6.218328,
+            53.325977
+          ],
+          [
+            -6.218278,
+            53.325962
+          ],
+          [
+            -6.21826,
+            53.325971
+          ],
+          [
+            -6.217824,
+            53.326168
+          ],
+          [
+            -6.218162,
+            53.326425
+          ],
+          [
+            -6.218233,
+            53.326482
+          ],
+          [
+            -6.218296,
+            53.326533
+          ],
+          [
+            -6.218345,
+            53.326573
+          ],
+          [
+            -6.218426,
+            53.326639
+          ],
+          [
+            -6.218559,
+            53.326747
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.21879,
+            53.325986
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218908,
+        53.32587,
+        -6.218788,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 15.8,
+            "duration": 3.8,
+            "steps": [
+              {
+                "distance": 15.8,
+                "duration": 3.8,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 15.8,
+          "duration": 3.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21879,
+            53.325986
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218908,
+            53.32587
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218908,
+        53.32587,
+        -6.218788,
+        53.326021
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 20.7,
+            "duration": 5,
+            "steps": [
+              {
+                "distance": 20.7,
+                "duration": 5,
+                "type": 11,
+                "instruction": "Head northeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 20.7,
+          "duration": 5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218908,
+            53.32587
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218835,
+            53.326021
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218835,
+        53.325986,
+        -6.21879,
+        53.326021
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4.9,
+            "duration": 1.2,
+            "steps": [
+              {
+                "distance": 4.9,
+                "duration": 1.2,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 4.9,
+          "duration": 1.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218835,
+            53.326021
+          ],
+          [
+            -6.21879,
+            53.325986
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.219057,
+        53.325491,
+        -6.218659,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 71.8,
+            "duration": 17.2,
+            "steps": [
+              {
+                "distance": 28.2,
+                "duration": 6.8,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 43.6,
+                "duration": 10.5,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  4,
+                  5
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  5,
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          5
+        ],
+        "summary": {
+          "distance": 71.8,
+          "duration": 17.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21879,
+            53.325986
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218659,
+            53.325491
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.219057,
+        53.325491,
+        -6.218659,
+        53.325992
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 72.6,
+            "duration": 17.4,
+            "steps": [
+              {
+                "distance": 43.6,
+                "duration": 10.5,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 29,
+                "duration": 7,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  1,
+                  5
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  5,
+                  5
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          5
+        ],
+        "summary": {
+          "distance": 72.6,
+          "duration": 17.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218659,
+            53.325491
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218797,
+            53.325992
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218797,
+        53.325985,
+        -6.218788,
+        53.325992
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 1,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218797,
+            53.325992
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218794,
+        53.325985,
+        -6.218788,
+        53.325989
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.2,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.2,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218794,
+            53.325989
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218852,
+        53.325985,
+        -6.218788,
+        53.326034
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 7,
+            "duration": 1.7,
+            "steps": [
+              {
+                "distance": 7,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 7,
+          "duration": 1.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218852,
+            53.326034
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218811,
+        53.325928,
+        -6.218788,
+        53.325989
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 7.1,
+            "duration": 1.7,
+            "steps": [
+              {
+                "distance": 7.1,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 7.1,
+          "duration": 1.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218794,
+            53.325989
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218812,
+        53.325928,
+        -6.218788,
+        53.326003
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 9.1,
+            "duration": 2.2,
+            "steps": [
+              {
+                "distance": 9.1,
+                "duration": 2.2,
+                "type": 11,
+                "instruction": "Head north on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, straight ahead",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 9.1,
+          "duration": 2.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218812,
+            53.326003
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218894,
+        53.326003,
+        -6.218812,
+        53.326066
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 8.8,
+            "duration": 2.1,
+            "steps": [
+              {
+                "distance": 8.8,
+                "duration": 2.1,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 8.8,
+          "duration": 2.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218812,
+            53.326003
+          ],
+          [
+            -6.218894,
+            53.326066
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.217824,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1328.1,
+            "duration": 255.8,
+            "steps": [
+              {
+                "distance": 39.4,
+                "duration": 9.5,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  4,
+                  8
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  8,
+                  11
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  11,
+                  13
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 1,
+                "instruction": "Turn right onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  13,
+                  30
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 1,
+                "instruction": "Turn right onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  30,
+                  55
+                ]
+              },
+              {
+                "distance": 268.4,
+                "duration": 64.4,
+                "type": 1,
+                "instruction": "Turn right onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  55,
+                  75
+                ]
+              },
+              {
+                "distance": 44.9,
+                "duration": 10.8,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  75,
+                  79
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  79,
+                  79
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                11,
+                0
+              ],
+              [
+                11,
+                13,
+                16
+              ],
+              [
+                13,
+                79,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1232.8,
+                "amount": 92.82
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.18
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          79
+        ],
+        "summary": {
+          "distance": 1328.1,
+          "duration": 255.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218894,
+            53.326066
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.218559,
+            53.326747
+          ],
+          [
+            -6.218426,
+            53.326639
+          ],
+          [
+            -6.218345,
+            53.326573
+          ],
+          [
+            -6.218296,
+            53.326533
+          ],
+          [
+            -6.218233,
+            53.326482
+          ],
+          [
+            -6.218162,
+            53.326425
+          ],
+          [
+            -6.217824,
+            53.326168
+          ],
+          [
+            -6.21826,
+            53.325971
+          ],
+          [
+            -6.218278,
+            53.325962
+          ],
+          [
+            -6.218328,
+            53.325977
+          ],
+          [
+            -6.218358,
+            53.326001
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.217824,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1316.7,
+            "duration": 253,
+            "steps": [
+              {
+                "distance": 44.9,
+                "duration": 10.8,
+                "type": 11,
+                "instruction": "Head southeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 268.4,
+                "duration": 64.4,
+                "type": 0,
+                "instruction": "Turn left onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  4,
+                  24
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 0,
+                "instruction": "Turn left onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  24,
+                  49
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 0,
+                "instruction": "Turn left onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  49,
+                  66
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  66,
+                  68
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  68,
+                  71
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  71,
+                  75
+                ]
+              },
+              {
+                "distance": 28,
+                "duration": 6.7,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  75,
+                  78
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  78,
+                  78
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                66,
+                0
+              ],
+              [
+                66,
+                68,
+                16
+              ],
+              [
+                68,
+                78,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1221.4,
+                "amount": 92.76
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.24
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          78
+        ],
+        "summary": {
+          "distance": 1316.7,
+          "duration": 253
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218358,
+            53.326001
+          ],
+          [
+            -6.218328,
+            53.325977
+          ],
+          [
+            -6.218278,
+            53.325962
+          ],
+          [
+            -6.21826,
+            53.325971
+          ],
+          [
+            -6.217824,
+            53.326168
+          ],
+          [
+            -6.218162,
+            53.326425
+          ],
+          [
+            -6.218233,
+            53.326482
+          ],
+          [
+            -6.218296,
+            53.326533
+          ],
+          [
+            -6.218345,
+            53.326573
+          ],
+          [
+            -6.218426,
+            53.326639
+          ],
+          [
+            -6.218559,
+            53.326747
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218797,
+        53.325985,
+        -6.218788,
+        53.325992
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 1,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218797,
+            53.325992
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218849,
+        53.325905,
+        -6.218788,
+        53.325992
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.1,
+            "duration": 2.7,
+            "steps": [
+              {
+                "distance": 11.1,
+                "duration": 2.7,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, straight ahead",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 11.1,
+          "duration": 2.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218797,
+            53.325992
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218849,
+            53.325905
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218849,
+        53.325905,
+        -6.218788,
+        53.325998
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.9,
+            "duration": 2.9,
+            "steps": [
+              {
+                "distance": 11.9,
+                "duration": 2.9,
+                "type": 11,
+                "instruction": "Head northeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, straight ahead",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 11.9,
+          "duration": 2.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218849,
+            53.325905
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218805,
+            53.325998
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218805,
+        53.325989,
+        -6.218794,
+        53.325998
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.2,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 1.2,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.2,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218805,
+            53.325998
+          ],
+          [
+            -6.218794,
+            53.325989
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218841,
+        53.325989,
+        -6.218794,
+        53.326025
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5.1,
+            "duration": 1.2,
+            "steps": [
+              {
+                "distance": 5.1,
+                "duration": 1.2,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 5.1,
+          "duration": 1.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218794,
+            53.325989
+          ],
+          [
+            -6.218841,
+            53.326025
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.220953,
+        53.322138,
+        -6.216625,
+        53.326034
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 973,
+            "duration": 193.7,
+            "steps": [
+              {
+                "distance": 35,
+                "duration": 8.4,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  4,
+                  8
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  8,
+                  11
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  11,
+                  13
+                ]
+              },
+              {
+                "distance": 303.8,
+                "duration": 27.3,
+                "type": 0,
+                "instruction": "Turn left onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  13,
+                  45
+                ]
+              },
+              {
+                "distance": 70.8,
+                "duration": 17,
+                "type": 0,
+                "instruction": "Turn left onto Merlyn Road",
+                "name": "Merlyn Road",
+                "way_points": [
+                  45,
+                  48
+                ]
+              },
+              {
+                "distance": 206.2,
+                "duration": 49.5,
+                "type": 0,
+                "instruction": "Turn left onto Merlyn Drive",
+                "name": "Merlyn Drive",
+                "way_points": [
+                  48,
+                  66
+                ]
+              },
+              {
+                "distance": 32.1,
+                "duration": 7.7,
+                "type": 0,
+                "instruction": "Turn left onto Merlyn Road",
+                "name": "Merlyn Road",
+                "way_points": [
+                  66,
+                  69
+                ]
+              },
+              {
+                "distance": 12,
+                "duration": 8.7,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  69,
+                  70
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  70,
+                  70
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                11,
+                0
+              ],
+              [
+                11,
+                13,
+                16
+              ],
+              [
+                13,
+                70,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 877.7,
+                "amount": 90.2
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 9.8
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          70
+        ],
+        "summary": {
+          "distance": 973,
+          "duration": 193.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218852,
+            53.326034
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.220656,
+            53.323997
+          ],
+          [
+            -6.220474,
+            53.323895
+          ],
+          [
+            -6.220465,
+            53.32389
+          ],
+          [
+            -6.220397,
+            53.323849
+          ],
+          [
+            -6.220221,
+            53.323744
+          ],
+          [
+            -6.22017,
+            53.323713
+          ],
+          [
+            -6.220007,
+            53.323616
+          ],
+          [
+            -6.219983,
+            53.323602
+          ],
+          [
+            -6.219917,
+            53.323562
+          ],
+          [
+            -6.219823,
+            53.323506
+          ],
+          [
+            -6.219674,
+            53.323417
+          ],
+          [
+            -6.219654,
+            53.323405
+          ],
+          [
+            -6.219588,
+            53.323364
+          ],
+          [
+            -6.219529,
+            53.323327
+          ],
+          [
+            -6.21951,
+            53.323316
+          ],
+          [
+            -6.219448,
+            53.323278
+          ],
+          [
+            -6.219341,
+            53.323211
+          ],
+          [
+            -6.219199,
+            53.323124
+          ],
+          [
+            -6.219108,
+            53.323067
+          ],
+          [
+            -6.218923,
+            53.322925
+          ],
+          [
+            -6.218848,
+            53.322867
+          ],
+          [
+            -6.218704,
+            53.322757
+          ],
+          [
+            -6.218689,
+            53.322745
+          ],
+          [
+            -6.218674,
+            53.322733
+          ],
+          [
+            -6.218542,
+            53.32263
+          ],
+          [
+            -6.218382,
+            53.322506
+          ],
+          [
+            -6.218324,
+            53.322457
+          ],
+          [
+            -6.218203,
+            53.32236
+          ],
+          [
+            -6.218092,
+            53.322273
+          ],
+          [
+            -6.218027,
+            53.322224
+          ],
+          [
+            -6.217996,
+            53.322201
+          ],
+          [
+            -6.217914,
+            53.322138
+          ],
+          [
+            -6.217357,
+            53.322394
+          ],
+          [
+            -6.217123,
+            53.322501
+          ],
+          [
+            -6.217069,
+            53.322526
+          ],
+          [
+            -6.217925,
+            53.323187
+          ],
+          [
+            -6.217933,
+            53.323217
+          ],
+          [
+            -6.217911,
+            53.323242
+          ],
+          [
+            -6.217878,
+            53.323257
+          ],
+          [
+            -6.217727,
+            53.323325
+          ],
+          [
+            -6.217708,
+            53.323333
+          ],
+          [
+            -6.21767,
+            53.32335
+          ],
+          [
+            -6.217622,
+            53.323372
+          ],
+          [
+            -6.217419,
+            53.323462
+          ],
+          [
+            -6.217377,
+            53.323481
+          ],
+          [
+            -6.217335,
+            53.3235
+          ],
+          [
+            -6.217121,
+            53.323596
+          ],
+          [
+            -6.217087,
+            53.323611
+          ],
+          [
+            -6.217071,
+            53.323618
+          ],
+          [
+            -6.21704,
+            53.323632
+          ],
+          [
+            -6.21683,
+            53.323726
+          ],
+          [
+            -6.216784,
+            53.323747
+          ],
+          [
+            -6.216625,
+            53.323818
+          ],
+          [
+            -6.216783,
+            53.323947
+          ],
+          [
+            -6.216816,
+            53.323974
+          ],
+          [
+            -6.21691,
+            53.324051
+          ],
+          [
+            -6.216765,
+            53.324116
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218841,
+        53.325986,
+        -6.21879,
+        53.326025
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5.5,
+            "duration": 1.3,
+            "steps": [
+              {
+                "distance": 5.5,
+                "duration": 1.3,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 5.5,
+          "duration": 1.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218841,
+            53.326025
+          ],
+          [
+            -6.21879,
+            53.325986
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.217824,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1311.5,
+            "duration": 251.8,
+            "steps": [
+              {
+                "distance": 28.2,
+                "duration": 6.8,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  4,
+                  8
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  8,
+                  11
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  11,
+                  13
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 1,
+                "instruction": "Turn right onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  13,
+                  30
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 1,
+                "instruction": "Turn right onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  30,
+                  55
+                ]
+              },
+              {
+                "distance": 268.4,
+                "duration": 64.4,
+                "type": 1,
+                "instruction": "Turn right onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  55,
+                  75
+                ]
+              },
+              {
+                "distance": 39.6,
+                "duration": 9.5,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  75,
+                  78
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  78,
+                  78
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                11,
+                0
+              ],
+              [
+                11,
+                13,
+                16
+              ],
+              [
+                13,
+                78,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1216.2,
+                "amount": 92.73
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.27
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          78
+        ],
+        "summary": {
+          "distance": 1311.5,
+          "duration": 251.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21879,
+            53.325986
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.218559,
+            53.326747
+          ],
+          [
+            -6.218426,
+            53.326639
+          ],
+          [
+            -6.218345,
+            53.326573
+          ],
+          [
+            -6.218296,
+            53.326533
+          ],
+          [
+            -6.218233,
+            53.326482
+          ],
+          [
+            -6.218162,
+            53.326425
+          ],
+          [
+            -6.217824,
+            53.326168
+          ],
+          [
+            -6.21826,
+            53.325971
+          ],
+          [
+            -6.218278,
+            53.325962
+          ],
+          [
+            -6.2183,
+            53.325969
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.217824,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1311.3,
+            "duration": 251.7,
+            "steps": [
+              {
+                "distance": 39.6,
+                "duration": 9.5,
+                "type": 11,
+                "instruction": "Head southeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 268.4,
+                "duration": 64.4,
+                "type": 0,
+                "instruction": "Turn left onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  3,
+                  23
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 0,
+                "instruction": "Turn left onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  23,
+                  48
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 0,
+                "instruction": "Turn left onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  48,
+                  65
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  65,
+                  67
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  67,
+                  70
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  70,
+                  74
+                ]
+              },
+              {
+                "distance": 28,
+                "duration": 6.7,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  74,
+                  77
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  77,
+                  77
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                65,
+                0
+              ],
+              [
+                65,
+                67,
+                16
+              ],
+              [
+                67,
+                77,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1216,
+                "amount": 92.73
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.27
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          77
+        ],
+        "summary": {
+          "distance": 1311.3,
+          "duration": 251.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.2183,
+            53.325969
+          ],
+          [
+            -6.218278,
+            53.325962
+          ],
+          [
+            -6.21826,
+            53.325971
+          ],
+          [
+            -6.217824,
+            53.326168
+          ],
+          [
+            -6.218162,
+            53.326425
+          ],
+          [
+            -6.218233,
+            53.326482
+          ],
+          [
+            -6.218296,
+            53.326533
+          ],
+          [
+            -6.218345,
+            53.326573
+          ],
+          [
+            -6.218426,
+            53.326639
+          ],
+          [
+            -6.218559,
+            53.326747
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218788,
+        53.325985,
+        -6.218788,
+        53.325985
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          0
+        ],
+        "summary": {}
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218829,
+        53.325917,
+        -6.218788,
+        53.325985
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 8.2,
+            "duration": 2,
+            "steps": [
+              {
+                "distance": 8.2,
+                "duration": 2,
+                "type": 11,
+                "instruction": "Head south on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 8.2,
+          "duration": 2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218829,
+            53.325917
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218829,
+        53.325917,
+        -6.218788,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 8.4,
+            "duration": 2,
+            "steps": [
+              {
+                "distance": 8.4,
+                "duration": 2,
+                "type": 11,
+                "instruction": "Head northeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 8.4,
+          "duration": 2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218829,
+            53.325917
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.21879,
+            53.325986
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.21879,
+        53.325985,
+        -6.218788,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.2,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.2,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.2,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21879,
+            53.325986
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.21879,
+        53.325985,
+        -6.218788,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.2,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.2,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head northwest on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.2,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.21879,
+            53.325986
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.21879,
+        53.325985,
+        -6.218788,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.2,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.2,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.2,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21879,
+            53.325986
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.220953,
+        53.322138,
+        -6.216625,
+        53.326015
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 970.3,
+            "duration": 193,
+            "steps": [
+              {
+                "distance": 12,
+                "duration": 8.7,
+                "type": 11,
+                "instruction": "Head southwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 32.1,
+                "duration": 7.7,
+                "type": 0,
+                "instruction": "Turn left onto Merlyn Road",
+                "name": "Merlyn Road",
+                "way_points": [
+                  1,
+                  4
+                ]
+              },
+              {
+                "distance": 206.2,
+                "duration": 49.5,
+                "type": 1,
+                "instruction": "Turn right onto Merlyn Drive",
+                "name": "Merlyn Drive",
+                "way_points": [
+                  4,
+                  22
+                ]
+              },
+              {
+                "distance": 70.8,
+                "duration": 17,
+                "type": 1,
+                "instruction": "Turn right onto Merlyn Road",
+                "name": "Merlyn Road",
+                "way_points": [
+                  22,
+                  25
+                ]
+              },
+              {
+                "distance": 303.8,
+                "duration": 27.3,
+                "type": 1,
+                "instruction": "Turn right onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  25,
+                  57
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  57,
+                  59
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  59,
+                  62
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  62,
+                  66
+                ]
+              },
+              {
+                "distance": 32.3,
+                "duration": 7.7,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  66,
+                  70
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  70,
+                  70
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                57,
+                0
+              ],
+              [
+                57,
+                59,
+                16
+              ],
+              [
+                59,
+                70,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 875,
+                "amount": 90.18
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 9.82
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          70
+        ],
+        "summary": {
+          "distance": 970.3,
+          "duration": 193
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.216765,
+            53.324116
+          ],
+          [
+            -6.21691,
+            53.324051
+          ],
+          [
+            -6.216816,
+            53.323974
+          ],
+          [
+            -6.216783,
+            53.323947
+          ],
+          [
+            -6.216625,
+            53.323818
+          ],
+          [
+            -6.216784,
+            53.323747
+          ],
+          [
+            -6.21683,
+            53.323726
+          ],
+          [
+            -6.21704,
+            53.323632
+          ],
+          [
+            -6.217071,
+            53.323618
+          ],
+          [
+            -6.217087,
+            53.323611
+          ],
+          [
+            -6.217121,
+            53.323596
+          ],
+          [
+            -6.217335,
+            53.3235
+          ],
+          [
+            -6.217377,
+            53.323481
+          ],
+          [
+            -6.217419,
+            53.323462
+          ],
+          [
+            -6.217622,
+            53.323372
+          ],
+          [
+            -6.21767,
+            53.32335
+          ],
+          [
+            -6.217708,
+            53.323333
+          ],
+          [
+            -6.217727,
+            53.323325
+          ],
+          [
+            -6.217878,
+            53.323257
+          ],
+          [
+            -6.217911,
+            53.323242
+          ],
+          [
+            -6.217933,
+            53.323217
+          ],
+          [
+            -6.217925,
+            53.323187
+          ],
+          [
+            -6.217069,
+            53.322526
+          ],
+          [
+            -6.217123,
+            53.322501
+          ],
+          [
+            -6.217357,
+            53.322394
+          ],
+          [
+            -6.217914,
+            53.322138
+          ],
+          [
+            -6.217996,
+            53.322201
+          ],
+          [
+            -6.218027,
+            53.322224
+          ],
+          [
+            -6.218092,
+            53.322273
+          ],
+          [
+            -6.218203,
+            53.32236
+          ],
+          [
+            -6.218324,
+            53.322457
+          ],
+          [
+            -6.218382,
+            53.322506
+          ],
+          [
+            -6.218542,
+            53.32263
+          ],
+          [
+            -6.218674,
+            53.322733
+          ],
+          [
+            -6.218689,
+            53.322745
+          ],
+          [
+            -6.218704,
+            53.322757
+          ],
+          [
+            -6.218848,
+            53.322867
+          ],
+          [
+            -6.218923,
+            53.322925
+          ],
+          [
+            -6.219108,
+            53.323067
+          ],
+          [
+            -6.219199,
+            53.323124
+          ],
+          [
+            -6.219341,
+            53.323211
+          ],
+          [
+            -6.219448,
+            53.323278
+          ],
+          [
+            -6.21951,
+            53.323316
+          ],
+          [
+            -6.219529,
+            53.323327
+          ],
+          [
+            -6.219588,
+            53.323364
+          ],
+          [
+            -6.219654,
+            53.323405
+          ],
+          [
+            -6.219674,
+            53.323417
+          ],
+          [
+            -6.219823,
+            53.323506
+          ],
+          [
+            -6.219917,
+            53.323562
+          ],
+          [
+            -6.219983,
+            53.323602
+          ],
+          [
+            -6.220007,
+            53.323616
+          ],
+          [
+            -6.22017,
+            53.323713
+          ],
+          [
+            -6.220221,
+            53.323744
+          ],
+          [
+            -6.220397,
+            53.323849
+          ],
+          [
+            -6.220465,
+            53.32389
+          ],
+          [
+            -6.220474,
+            53.323895
+          ],
+          [
+            -6.220656,
+            53.323997
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218828,
+            53.326015
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218828,
+        53.325985,
+        -6.218788,
+        53.326015
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4.3,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 4.3,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 4.3,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218828,
+            53.326015
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.218788,
+        53.325985,
+        -6.218788,
+        53.325985
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          0
+        ],
+        "summary": {}
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.218604,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1208.2,
+            "duration": 227,
+            "steps": [
+              {
+                "distance": 28,
+                "duration": 6.7,
+                "type": 11,
+                "instruction": "Head south on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  3
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  3,
+                  7
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  7,
+                  10
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  10,
+                  12
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 1,
+                "instruction": "Turn right onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  12,
+                  29
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 1,
+                "instruction": "Turn right onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  29,
+                  54
+                ]
+              },
+              {
+                "distance": 182.6,
+                "duration": 43.8,
+                "type": 1,
+                "instruction": "Turn right onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  54,
+                  67
+                ]
+              },
+              {
+                "distance": 22.3,
+                "duration": 5.3,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  67,
+                  68
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the right",
+                "name": "-",
+                "way_points": [
+                  68,
+                  68
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                10,
+                0
+              ],
+              [
+                10,
+                12,
+                16
+              ],
+              [
+                12,
+                68,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1112.9,
+                "amount": 92.11
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.89
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          68
+        ],
+        "summary": {
+          "distance": 1208.2,
+          "duration": 227
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.21887,
+            53.326661
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.224328,
+        53.324172,
+        -6.218604,
+        53.328069
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1208.5,
+            "duration": 227,
+            "steps": [
+              {
+                "distance": 22.3,
+                "duration": 5.3,
+                "type": 11,
+                "instruction": "Head northeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 182.6,
+                "duration": 43.8,
+                "type": 0,
+                "instruction": "Turn left onto Wilfield Road",
+                "name": "Wilfield Road",
+                "way_points": [
+                  1,
+                  14
+                ]
+              },
+              {
+                "distance": 323.2,
+                "duration": 65.5,
+                "type": 0,
+                "instruction": "Turn left onto Sandymount Avenue",
+                "name": "Sandymount Avenue",
+                "way_points": [
+                  14,
+                  39
+                ]
+              },
+              {
+                "distance": 339.1,
+                "duration": 30.5,
+                "type": 0,
+                "instruction": "Turn left onto Merrion Road, R118",
+                "name": "Merrion Road, R118",
+                "way_points": [
+                  39,
+                  56
+                ]
+              },
+              {
+                "distance": 95.3,
+                "duration": 22.9,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury Park",
+                "name": "Shrewsbury Park",
+                "way_points": [
+                  56,
+                  58
+                ]
+              },
+              {
+                "distance": 84.8,
+                "duration": 20.3,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  58,
+                  61
+                ]
+              },
+              {
+                "distance": 132.9,
+                "duration": 31.9,
+                "type": 1,
+                "instruction": "Turn right onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  61,
+                  65
+                ]
+              },
+              {
+                "distance": 28.2,
+                "duration": 6.8,
+                "type": 0,
+                "instruction": "Turn left onto Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  65,
+                  69
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the right",
+                "name": "-",
+                "way_points": [
+                  69,
+                  69
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                56,
+                0
+              ],
+              [
+                56,
+                58,
+                16
+              ],
+              [
+                58,
+                69,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 1113.2,
+                "amount": 92.11
+              },
+              {
+                "value": 16,
+                "distance": 95.3,
+                "amount": 7.89
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          69
+        ],
+        "summary": {
+          "distance": 1208.5,
+          "duration": 227
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21887,
+            53.326661
+          ],
+          [
+            -6.218604,
+            53.326783
+          ],
+          [
+            -6.219027,
+            53.327083
+          ],
+          [
+            -6.21905,
+            53.3271
+          ],
+          [
+            -6.219244,
+            53.327252
+          ],
+          [
+            -6.219254,
+            53.327261
+          ],
+          [
+            -6.219315,
+            53.327308
+          ],
+          [
+            -6.219424,
+            53.327395
+          ],
+          [
+            -6.219524,
+            53.327474
+          ],
+          [
+            -6.219597,
+            53.32753
+          ],
+          [
+            -6.219833,
+            53.327707
+          ],
+          [
+            -6.219989,
+            53.327825
+          ],
+          [
+            -6.220104,
+            53.327911
+          ],
+          [
+            -6.220252,
+            53.328022
+          ],
+          [
+            -6.220313,
+            53.328069
+          ],
+          [
+            -6.22043,
+            53.328004
+          ],
+          [
+            -6.220571,
+            53.327921
+          ],
+          [
+            -6.220655,
+            53.327875
+          ],
+          [
+            -6.220732,
+            53.327831
+          ],
+          [
+            -6.220757,
+            53.327815
+          ],
+          [
+            -6.220786,
+            53.327798
+          ],
+          [
+            -6.220823,
+            53.327782
+          ],
+          [
+            -6.220865,
+            53.327765
+          ],
+          [
+            -6.220969,
+            53.32772
+          ],
+          [
+            -6.221001,
+            53.327705
+          ],
+          [
+            -6.221046,
+            53.327686
+          ],
+          [
+            -6.221097,
+            53.327666
+          ],
+          [
+            -6.221211,
+            53.327618
+          ],
+          [
+            -6.221509,
+            53.327499
+          ],
+          [
+            -6.221717,
+            53.327411
+          ],
+          [
+            -6.22211,
+            53.327252
+          ],
+          [
+            -6.222472,
+            53.327107
+          ],
+          [
+            -6.222689,
+            53.327033
+          ],
+          [
+            -6.222713,
+            53.327025
+          ],
+          [
+            -6.222845,
+            53.326974
+          ],
+          [
+            -6.223089,
+            53.326884
+          ],
+          [
+            -6.22315,
+            53.326863
+          ],
+          [
+            -6.223423,
+            53.326764
+          ],
+          [
+            -6.223977,
+            53.326562
+          ],
+          [
+            -6.224328,
+            53.326439
+          ],
+          [
+            -6.223983,
+            53.326086
+          ],
+          [
+            -6.223843,
+            53.325958
+          ],
+          [
+            -6.223678,
+            53.325821
+          ],
+          [
+            -6.223617,
+            53.325771
+          ],
+          [
+            -6.22359,
+            53.325748
+          ],
+          [
+            -6.223552,
+            53.325717
+          ],
+          [
+            -6.223409,
+            53.325624
+          ],
+          [
+            -6.22324,
+            53.325513
+          ],
+          [
+            -6.223018,
+            53.325379
+          ],
+          [
+            -6.222886,
+            53.325298
+          ],
+          [
+            -6.222777,
+            53.325235
+          ],
+          [
+            -6.222198,
+            53.324902
+          ],
+          [
+            -6.221834,
+            53.324685
+          ],
+          [
+            -6.221589,
+            53.324533
+          ],
+          [
+            -6.221541,
+            53.324506
+          ],
+          [
+            -6.221372,
+            53.32441
+          ],
+          [
+            -6.220953,
+            53.324172
+          ],
+          [
+            -6.220887,
+            53.324208
+          ],
+          [
+            -6.219887,
+            53.324746
+          ],
+          [
+            -6.220025,
+            53.324846
+          ],
+          [
+            -6.220537,
+            53.325185
+          ],
+          [
+            -6.220745,
+            53.32531
+          ],
+          [
+            -6.219978,
+            53.325614
+          ],
+          [
+            -6.2193,
+            53.325871
+          ],
+          [
+            -6.219126,
+            53.325846
+          ],
+          [
+            -6.219057,
+            53.325803
+          ],
+          [
+            -6.218927,
+            53.325859
+          ],
+          [
+            -6.218811,
+            53.325928
+          ],
+          [
+            -6.218788,
+            53.325985
+          ],
+          [
+            -6.21879,
+            53.325986
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.21879,
+        53.325985,
+        -6.218788,
+        53.325986
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.2,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.2,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head southeast on Shrewsbury",
+                "name": "Shrewsbury",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Shrewsbury, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.2,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.21879,
+            53.325986
+          ],
+          [
+            -6.218788,
+            53.325985
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

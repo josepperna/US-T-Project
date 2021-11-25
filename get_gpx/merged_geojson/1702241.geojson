@@ -1,0 +1,2556 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.152585,
+        53.450888,
+        -6.151344,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 414.3,
+            "duration": 56.6,
+            "steps": [
+              {
+                "distance": 8.1,
+                "duration": 1.9,
+                "type": 11,
+                "instruction": "Head west",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 74.6,
+                "duration": 10.7,
+                "type": 0,
+                "instruction": "Turn left onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 70.5,
+                "duration": 6.3,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  2,
+                  6
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  6,
+                  10
+                ]
+              },
+              {
+                "distance": 113.2,
+                "duration": 16.3,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  10,
+                  16
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the right",
+                "name": "-",
+                "way_points": [
+                  16,
+                  16
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          16
+        ],
+        "summary": {
+          "distance": 414.3,
+          "duration": 56.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151344,
+            53.451658
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.15146,
+            53.451699
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.151729,
+        53.450993,
+        -6.15146,
+        53.451699
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 158.6,
+            "duration": 22.2,
+            "steps": [
+              {
+                "distance": 78,
+                "duration": 11.2,
+                "type": 11,
+                "instruction": "Head south on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 12.6,
+                "duration": 1.1,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 68,
+                "duration": 9.8,
+                "type": 1,
+                "instruction": "Turn right onto Saint James's Terrace",
+                "name": "Saint James's Terrace",
+                "way_points": [
+                  3,
+                  4
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Saint James's Terrace, on the right",
+                "name": "-",
+                "way_points": [
+                  4,
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          4
+        ],
+        "summary": {
+          "distance": 158.6,
+          "duration": 22.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.15146,
+            53.451699
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151668,
+            53.451603
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.152585,
+        53.450888,
+        -6.1514,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 394.9,
+            "duration": 54.1,
+            "steps": [
+              {
+                "distance": 68,
+                "duration": 9.8,
+                "type": 11,
+                "instruction": "Head south on Saint James's Terrace",
+                "name": "Saint James's Terrace",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 57.9,
+                "duration": 5.2,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  1,
+                  4
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  4,
+                  8
+                ]
+              },
+              {
+                "distance": 116.7,
+                "duration": 16.8,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  8,
+                  14
+                ]
+              },
+              {
+                "distance": 4.4,
+                "duration": 1,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  14,
+                  15
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  15,
+                  15
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          15
+        ],
+        "summary": {
+          "distance": 394.9,
+          "duration": 54.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151668,
+            53.451603
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.1514,
+            53.451663
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.1514,
+        53.451657,
+        -6.151332,
+        53.451663
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4.6,
+            "duration": 1.1,
+            "steps": [
+              {
+                "distance": 4.6,
+                "duration": 1.1,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 4.6,
+          "duration": 1.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.1514,
+            53.451663
+          ],
+          [
+            -6.151332,
+            53.451657
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.152585,
+        53.450888,
+        -6.151332,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 357,
+            "duration": 48.5,
+            "steps": [
+              {
+                "distance": 8.9,
+                "duration": 2.1,
+                "type": 11,
+                "instruction": "Head west",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 74.6,
+                "duration": 10.7,
+                "type": 0,
+                "instruction": "Turn left onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 70.5,
+                "duration": 6.3,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  2,
+                  6
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  6,
+                  10
+                ]
+              },
+              {
+                "distance": 55,
+                "duration": 7.9,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  10,
+                  13
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the left",
+                "name": "-",
+                "way_points": [
+                  13,
+                  13
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          13
+        ],
+        "summary": {
+          "distance": 357,
+          "duration": 48.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151332,
+            53.451657
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151561,
+            53.452192
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.151561,
+        53.451701,
+        -6.151424,
+        53.452192
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 57.9,
+            "duration": 8.3,
+            "steps": [
+              {
+                "distance": 57.9,
+                "duration": 8.3,
+                "type": 11,
+                "instruction": "Head southeast on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the left",
+                "name": "-",
+                "way_points": [
+                  4,
+                  4
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          4
+        ],
+        "summary": {
+          "distance": 57.9,
+          "duration": 8.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151561,
+            53.452192
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.15146,
+            53.451701
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.151471,
+        53.451598,
+        -6.15146,
+        53.451701
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.5,
+            "duration": 1.7,
+            "steps": [
+              {
+                "distance": 11.5,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head south on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 11.5,
+          "duration": 1.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.15146,
+            53.451701
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151471,
+            53.451598
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.152585,
+        53.450888,
+        -6.151371,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 408.2,
+            "duration": 55.6,
+            "steps": [
+              {
+                "distance": 66.8,
+                "duration": 9.6,
+                "type": 11,
+                "instruction": "Head south on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 70.5,
+                "duration": 6.3,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  1,
+                  5
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  5,
+                  9
+                ]
+              },
+              {
+                "distance": 116.7,
+                "duration": 16.8,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  9,
+                  15
+                ]
+              },
+              {
+                "distance": 6.3,
+                "duration": 1.5,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  15,
+                  16
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  16,
+                  16
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          16
+        ],
+        "summary": {
+          "distance": 408.2,
+          "duration": 55.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151471,
+            53.451598
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151371,
+            53.45166
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.152585,
+        53.450888,
+        -6.151371,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 400.3,
+            "duration": 54.4,
+            "steps": [
+              {
+                "distance": 6.3,
+                "duration": 1.5,
+                "type": 11,
+                "instruction": "Head west",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 74.6,
+                "duration": 10.7,
+                "type": 0,
+                "instruction": "Turn left onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 70.5,
+                "duration": 6.3,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  2,
+                  6
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  6,
+                  10
+                ]
+              },
+              {
+                "distance": 100.9,
+                "duration": 14.5,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  10,
+                  16
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the left",
+                "name": "-",
+                "way_points": [
+                  16,
+                  16
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          16
+        ],
+        "summary": {
+          "distance": 400.3,
+          "duration": 54.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151371,
+            53.45166
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151448,
+            53.451809
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.152585,
+        53.450888,
+        -6.151424,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 388.4,
+            "duration": 52.1,
+            "steps": [
+              {
+                "distance": 90.3,
+                "duration": 13,
+                "type": 11,
+                "instruction": "Head south on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 70.5,
+                "duration": 6.3,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  2,
+                  6
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  6,
+                  10
+                ]
+              },
+              {
+                "distance": 79.6,
+                "duration": 11.5,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  10,
+                  15
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, straight ahead",
+                "name": "-",
+                "way_points": [
+                  15,
+                  15
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          15
+        ],
+        "summary": {
+          "distance": 388.4,
+          "duration": 52.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151448,
+            53.451809
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151431,
+            53.452
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.15146,
+        53.451701,
+        -6.151431,
+        53.452
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 33.3,
+            "duration": 4.8,
+            "steps": [
+              {
+                "distance": 33.3,
+                "duration": 4.8,
+                "type": 11,
+                "instruction": "Head south on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 33.3,
+          "duration": 4.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151431,
+            53.452
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.15146,
+            53.451701
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.152585,
+        53.450888,
+        -6.151424,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 398.1,
+            "duration": 53.5,
+            "steps": [
+              {
+                "distance": 78.2,
+                "duration": 11.3,
+                "type": 11,
+                "instruction": "Head south on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 70.5,
+                "duration": 6.3,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  2,
+                  6
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  6,
+                  10
+                ]
+              },
+              {
+                "distance": 101.4,
+                "duration": 14.6,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  10,
+                  16
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the left",
+                "name": "-",
+                "way_points": [
+                  16,
+                  16
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          16
+        ],
+        "summary": {
+          "distance": 398.1,
+          "duration": 53.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.15146,
+            53.451701
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151448,
+            53.451804
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.15146,
+        53.451699,
+        -6.151448,
+        53.451804
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.7,
+            "duration": 1.7,
+            "steps": [
+              {
+                "distance": 11.7,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head south on James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at James's Terrace, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 11.7,
+          "duration": 1.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.151448,
+            53.451804
+          ],
+          [
+            -6.15146,
+            53.451699
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.124011,
+        53.43404,
+        -6.123818,
+        53.434299
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 31.5,
+            "duration": 6.6,
+            "steps": [
+              {
+                "distance": 31.5,
+                "duration": 6.6,
+                "type": 11,
+                "instruction": "Head southwest on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Coast Road, R106, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 31.5,
+          "duration": 6.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.123818,
+            53.434299
+          ],
+          [
+            -6.123856,
+            53.434248
+          ],
+          [
+            -6.124011,
+            53.43404
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.124023,
+        53.434025,
+        -6.124011,
+        53.43404
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.9,
+            "duration": 0.5,
+            "steps": [
+              {
+                "distance": 1.9,
+                "duration": 0.5,
+                "type": 11,
+                "instruction": "Head southwest on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Coast Road, R106, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.9,
+          "duration": 0.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.124011,
+            53.43404
+          ],
+          [
+            -6.124023,
+            53.434025
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.124023,
+        53.434025,
+        -6.124015,
+        53.434036
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.3,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 1.3,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head northeast on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Coast Road, R106, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.3,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.124023,
+            53.434025
+          ],
+          [
+            -6.124015,
+            53.434036
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.124018,
+        53.434031,
+        -6.124015,
+        53.434036
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.5,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.5,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head southwest on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Coast Road, R106, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.5,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.124015,
+            53.434036
+          ],
+          [
+            -6.124018,
+            53.434031
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.124018,
+        53.434031,
+        -6.124013,
+        53.434038
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.8,
+            "duration": 0.2,
+            "steps": [
+              {
+                "distance": 0.8,
+                "duration": 0.2,
+                "type": 11,
+                "instruction": "Head northeast on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Coast Road, R106, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.8,
+          "duration": 0.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.124018,
+            53.434031
+          ],
+          [
+            -6.124013,
+            53.434038
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.124023,
+        53.434025,
+        -6.124013,
+        53.434038
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.6,
+            "duration": 0.4,
+            "steps": [
+              {
+                "distance": 1.6,
+                "duration": 0.4,
+                "type": 11,
+                "instruction": "Head southwest on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Coast Road, R106, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.6,
+          "duration": 0.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.124013,
+            53.434038
+          ],
+          [
+            -6.124023,
+            53.434025
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.124023,
+        53.434025,
+        -6.124015,
+        53.434036
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.3,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 1.3,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head northeast on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Coast Road, R106, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.3,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.124023,
+            53.434025
+          ],
+          [
+            -6.124015,
+            53.434036
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.152585,
+        53.434036,
+        -6.122132,
+        53.452213
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3525.8,
+            "duration": 295.7,
+            "steps": [
+              {
+                "distance": 3253.1,
+                "duration": 255.7,
+                "type": 11,
+                "instruction": "Head northeast on Coast Road, R106",
+                "name": "Coast Road, R106",
+                "way_points": [
+                  0,
+                  108
+                ]
+              },
+              {
+                "distance": 147.9,
+                "duration": 21.3,
+                "type": 3,
+                "instruction": "Turn sharp right onto Townyard Lane",
+                "name": "Townyard Lane",
+                "way_points": [
+                  108,
+                  112
+                ]
+              },
+              {
+                "distance": 116.7,
+                "duration": 16.8,
+                "type": 1,
+                "instruction": "Turn right onto James's Terrace",
+                "name": "James's Terrace",
+                "way_points": [
+                  112,
+                  118
+                ]
+              },
+              {
+                "distance": 8.1,
+                "duration": 1.9,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  118,
+                  119
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the right",
+                "name": "-",
+                "way_points": [
+                  119,
+                  119
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          119
+        ],
+        "summary": {
+          "distance": 3525.8,
+          "duration": 295.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.124015,
+            53.434036
+          ],
+          [
+            -6.123856,
+            53.434248
+          ],
+          [
+            -6.123754,
+            53.434385
+          ],
+          [
+            -6.123403,
+            53.434798
+          ],
+          [
+            -6.12319,
+            53.435166
+          ],
+          [
+            -6.122874,
+            53.435797
+          ],
+          [
+            -6.122748,
+            53.436072
+          ],
+          [
+            -6.122571,
+            53.436266
+          ],
+          [
+            -6.122316,
+            53.436497
+          ],
+          [
+            -6.122152,
+            53.43673
+          ],
+          [
+            -6.122132,
+            53.43698
+          ],
+          [
+            -6.122248,
+            53.437181
+          ],
+          [
+            -6.122582,
+            53.437487
+          ],
+          [
+            -6.122726,
+            53.43772
+          ],
+          [
+            -6.122913,
+            53.438155
+          ],
+          [
+            -6.122999,
+            53.438434
+          ],
+          [
+            -6.123019,
+            53.438604
+          ],
+          [
+            -6.122901,
+            53.439084
+          ],
+          [
+            -6.122904,
+            53.439292
+          ],
+          [
+            -6.122956,
+            53.439493
+          ],
+          [
+            -6.122972,
+            53.439566
+          ],
+          [
+            -6.122987,
+            53.439635
+          ],
+          [
+            -6.122975,
+            53.43976
+          ],
+          [
+            -6.122969,
+            53.439938
+          ],
+          [
+            -6.123012,
+            53.440414
+          ],
+          [
+            -6.123107,
+            53.440746
+          ],
+          [
+            -6.123099,
+            53.441438
+          ],
+          [
+            -6.123177,
+            53.441604
+          ],
+          [
+            -6.123613,
+            53.442039
+          ],
+          [
+            -6.124328,
+            53.442932
+          ],
+          [
+            -6.124584,
+            53.443228
+          ],
+          [
+            -6.124787,
+            53.443411
+          ],
+          [
+            -6.125015,
+            53.443556
+          ],
+          [
+            -6.125427,
+            53.443748
+          ],
+          [
+            -6.125861,
+            53.443888
+          ],
+          [
+            -6.126303,
+            53.444038
+          ],
+          [
+            -6.126669,
+            53.444181
+          ],
+          [
+            -6.127072,
+            53.444381
+          ],
+          [
+            -6.127481,
+            53.444536
+          ],
+          [
+            -6.127777,
+            53.444629
+          ],
+          [
+            -6.128343,
+            53.444814
+          ],
+          [
+            -6.128563,
+            53.444907
+          ],
+          [
+            -6.129061,
+            53.445174
+          ],
+          [
+            -6.129289,
+            53.445271
+          ],
+          [
+            -6.129507,
+            53.445354
+          ],
+          [
+            -6.129792,
+            53.445416
+          ],
+          [
+            -6.130108,
+            53.445482
+          ],
+          [
+            -6.130407,
+            53.445565
+          ],
+          [
+            -6.131205,
+            53.445878
+          ],
+          [
+            -6.131443,
+            53.445934
+          ],
+          [
+            -6.13191,
+            53.446002
+          ],
+          [
+            -6.132217,
+            53.446019
+          ],
+          [
+            -6.133002,
+            53.446025
+          ],
+          [
+            -6.133216,
+            53.446053
+          ],
+          [
+            -6.1334,
+            53.446097
+          ],
+          [
+            -6.13372,
+            53.446201
+          ],
+          [
+            -6.133865,
+            53.446266
+          ],
+          [
+            -6.134001,
+            53.446348
+          ],
+          [
+            -6.134091,
+            53.446423
+          ],
+          [
+            -6.134351,
+            53.446721
+          ],
+          [
+            -6.134428,
+            53.44683
+          ],
+          [
+            -6.134826,
+            53.447441
+          ],
+          [
+            -6.135088,
+            53.447723
+          ],
+          [
+            -6.135368,
+            53.447898
+          ],
+          [
+            -6.135828,
+            53.448109
+          ],
+          [
+            -6.136416,
+            53.448344
+          ],
+          [
+            -6.136518,
+            53.448386
+          ],
+          [
+            -6.136702,
+            53.448456
+          ],
+          [
+            -6.137089,
+            53.448602
+          ],
+          [
+            -6.137585,
+            53.448759
+          ],
+          [
+            -6.137949,
+            53.448854
+          ],
+          [
+            -6.13848,
+            53.448969
+          ],
+          [
+            -6.138968,
+            53.449119
+          ],
+          [
+            -6.139049,
+            53.449149
+          ],
+          [
+            -6.139427,
+            53.44929
+          ],
+          [
+            -6.140242,
+            53.449625
+          ],
+          [
+            -6.140939,
+            53.449912
+          ],
+          [
+            -6.141101,
+            53.449978
+          ],
+          [
+            -6.141251,
+            53.450032
+          ],
+          [
+            -6.141436,
+            53.450085
+          ],
+          [
+            -6.141645,
+            53.450145
+          ],
+          [
+            -6.142163,
+            53.450283
+          ],
+          [
+            -6.14242,
+            53.450342
+          ],
+          [
+            -6.143092,
+            53.450554
+          ],
+          [
+            -6.143489,
+            53.450645
+          ],
+          [
+            -6.144002,
+            53.450726
+          ],
+          [
+            -6.144178,
+            53.450767
+          ],
+          [
+            -6.144898,
+            53.450938
+          ],
+          [
+            -6.145067,
+            53.450977
+          ],
+          [
+            -6.145309,
+            53.45103
+          ],
+          [
+            -6.145574,
+            53.451065
+          ],
+          [
+            -6.145939,
+            53.451099
+          ],
+          [
+            -6.146911,
+            53.451143
+          ],
+          [
+            -6.147497,
+            53.45117
+          ],
+          [
+            -6.148021,
+            53.451195
+          ],
+          [
+            -6.148254,
+            53.451182
+          ],
+          [
+            -6.148518,
+            53.45114
+          ],
+          [
+            -6.149116,
+            53.450971
+          ],
+          [
+            -6.14939,
+            53.45091
+          ],
+          [
+            -6.149582,
+            53.450891
+          ],
+          [
+            -6.149795,
+            53.450893
+          ],
+          [
+            -6.150922,
+            53.450963
+          ],
+          [
+            -6.151085,
+            53.450977
+          ],
+          [
+            -6.15128,
+            53.450987
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.152498,
+            53.451391
+          ],
+          [
+            -6.152492,
+            53.451428
+          ],
+          [
+            -6.152481,
+            53.451491
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151344,
+            53.451658
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

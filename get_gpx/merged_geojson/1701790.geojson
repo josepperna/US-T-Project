@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.178124,
+        53.368566,
+        -6.176322,
+        53.369723
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 322.1,
+            "duration": 53.1,
+            "steps": [
+              {
+                "distance": 34.2,
+                "duration": 4.9,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 124.3,
+                "duration": 12.8,
+                "type": 0,
+                "instruction": "Turn left onto Red Stables Avenue",
+                "name": "Red Stables Avenue",
+                "way_points": [
+                  1,
+                  5
+                ]
+              },
+              {
+                "distance": 99.4,
+                "duration": 23.9,
+                "type": 2,
+                "instruction": "Turn sharp left onto Mount Prospect Avenue",
+                "name": "Mount Prospect Avenue",
+                "way_points": [
+                  5,
+                  8
+                ]
+              },
+              {
+                "distance": 64.2,
+                "duration": 11.6,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  8,
+                  10
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  10,
+                  10
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          10
+        ],
+        "summary": {
+          "distance": 322.1,
+          "duration": 53.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.176332,
+            53.369583
+          ],
+          [
+            -6.17679,
+            53.369723
+          ],
+          [
+            -6.176927,
+            53.369654
+          ],
+          [
+            -6.17735,
+            53.369435
+          ],
+          [
+            -6.177936,
+            53.369084
+          ],
+          [
+            -6.178124,
+            53.368942
+          ],
+          [
+            -6.177747,
+            53.368857
+          ],
+          [
+            -6.177128,
+            53.36867
+          ],
+          [
+            -6.176766,
+            53.368566
+          ],
+          [
+            -6.176653,
+            53.368697
+          ],
+          [
+            -6.176322,
+            53.369079
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.176322,
+        53.369079,
+        -6.176287,
+        53.369119
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5,
+            "duration": 0.9,
+            "steps": [
+              {
+                "distance": 5,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head northeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 5,
+          "duration": 0.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.176322,
+            53.369079
+          ],
+          [
+            -6.176287,
+            53.369119
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.176287,
+        53.369119,
+        -6.176234,
+        53.369181
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 7.8,
+            "duration": 1.4,
+            "steps": [
+              {
+                "distance": 7.8,
+                "duration": 1.4,
+                "type": 11,
+                "instruction": "Head northeast",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 7.8,
+          "duration": 1.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.176287,
+            53.369119
+          ],
+          [
+            -6.176234,
+            53.369181
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.176234,
+        53.369181,
+        -6.176234,
+        53.369181
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0,
+            "duration": 0,
+            "steps": [
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          0
+        ],
+        "summary": {}
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.176234,
+            53.369181
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

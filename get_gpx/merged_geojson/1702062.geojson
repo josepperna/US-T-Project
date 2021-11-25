@@ -1,0 +1,1801 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.129598,
+        53.288295,
+        -6.126035,
+        53.291232
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 879.4,
+            "duration": 106.5,
+            "steps": [
+              {
+                "distance": 199.1,
+                "duration": 17.9,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  7
+                ]
+              },
+              {
+                "distance": 79.4,
+                "duration": 13.5,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  13
+                ]
+              },
+              {
+                "distance": 140.2,
+                "duration": 20.2,
+                "type": 0,
+                "instruction": "Turn left onto Summerhill Parade",
+                "name": "Summerhill Parade",
+                "way_points": [
+                  13,
+                  19
+                ]
+              },
+              {
+                "distance": 221.5,
+                "duration": 23.1,
+                "type": 1,
+                "instruction": "Turn right onto Summerhill Road, R119",
+                "name": "Summerhill Road, R119",
+                "way_points": [
+                  19,
+                  28
+                ]
+              },
+              {
+                "distance": 213.5,
+                "duration": 27.7,
+                "type": 1,
+                "instruction": "Turn right onto Park Road, R118",
+                "name": "Park Road, R118",
+                "way_points": [
+                  28,
+                  38
+                ]
+              },
+              {
+                "distance": 25.7,
+                "duration": 4.1,
+                "type": 3,
+                "instruction": "Turn sharp right onto Newtownsmith, R831",
+                "name": "Newtownsmith, R831",
+                "way_points": [
+                  38,
+                  41
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Newtownsmith, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  41,
+                  41
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          41
+        ],
+        "summary": {
+          "distance": 879.4,
+          "duration": 106.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128175,
+            53.291033
+          ],
+          [
+            -6.127816,
+            53.290704
+          ],
+          [
+            -6.127604,
+            53.290562
+          ],
+          [
+            -6.127423,
+            53.290499
+          ],
+          [
+            -6.127107,
+            53.290392
+          ],
+          [
+            -6.126795,
+            53.290276
+          ],
+          [
+            -6.126102,
+            53.289861
+          ],
+          [
+            -6.126035,
+            53.289818
+          ],
+          [
+            -6.126244,
+            53.289672
+          ],
+          [
+            -6.126415,
+            53.289482
+          ],
+          [
+            -6.126511,
+            53.289401
+          ],
+          [
+            -6.12661,
+            53.289461
+          ],
+          [
+            -6.126687,
+            53.289527
+          ],
+          [
+            -6.126752,
+            53.289542
+          ],
+          [
+            -6.126784,
+            53.289465
+          ],
+          [
+            -6.126734,
+            53.289224
+          ],
+          [
+            -6.12674,
+            53.288899
+          ],
+          [
+            -6.126788,
+            53.288575
+          ],
+          [
+            -6.126857,
+            53.28835
+          ],
+          [
+            -6.126894,
+            53.288295
+          ],
+          [
+            -6.12704,
+            53.288355
+          ],
+          [
+            -6.127102,
+            53.28838
+          ],
+          [
+            -6.127416,
+            53.288507
+          ],
+          [
+            -6.12773,
+            53.288642
+          ],
+          [
+            -6.127895,
+            53.28872
+          ],
+          [
+            -6.128796,
+            53.289114
+          ],
+          [
+            -6.128959,
+            53.289188
+          ],
+          [
+            -6.129418,
+            53.289382
+          ],
+          [
+            -6.129598,
+            53.289458
+          ],
+          [
+            -6.129577,
+            53.289486
+          ],
+          [
+            -6.129548,
+            53.289531
+          ],
+          [
+            -6.129296,
+            53.28992
+          ],
+          [
+            -6.128814,
+            53.290648
+          ],
+          [
+            -6.128651,
+            53.290907
+          ],
+          [
+            -6.128557,
+            53.291052
+          ],
+          [
+            -6.128552,
+            53.291059
+          ],
+          [
+            -6.12852,
+            53.291117
+          ],
+          [
+            -6.128479,
+            53.291177
+          ],
+          [
+            -6.128393,
+            53.291232
+          ],
+          [
+            -6.128369,
+            53.29121
+          ],
+          [
+            -6.128317,
+            53.291163
+          ],
+          [
+            -6.128181,
+            53.291039
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.128181,
+        53.29096,
+        -6.128095,
+        53.291039
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 10.4,
+            "duration": 0.9,
+            "steps": [
+              {
+                "distance": 10.4,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Windsor Terrace, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 10.4,
+          "duration": 0.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128181,
+            53.291039
+          ],
+          [
+            -6.128095,
+            53.29096
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.130101,
+        53.292879,
+        -6.130035,
+        53.29288
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5.1,
+            "duration": 1.2,
+            "steps": [
+              {
+                "distance": 5.1,
+                "duration": 1.2,
+                "type": 11,
+                "instruction": "Head west",
+                "name": "-",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 5.1,
+          "duration": 1.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.130035,
+            53.292879
+          ],
+          [
+            -6.13005,
+            53.29288
+          ],
+          [
+            -6.130101,
+            53.29288
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.136024,
+        53.289458,
+        -6.128101,
+        53.294724
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1421.8,
+            "duration": 212.4,
+            "steps": [
+              {
+                "distance": 166.7,
+                "duration": 49.5,
+                "type": 11,
+                "instruction": "Head west",
+                "name": "-",
+                "way_points": [
+                  0,
+                  9
+                ]
+              },
+              {
+                "distance": 124.3,
+                "duration": 24.3,
+                "type": 4,
+                "instruction": "Turn slight left",
+                "name": "-",
+                "way_points": [
+                  9,
+                  17
+                ]
+              },
+              {
+                "distance": 352,
+                "duration": 44.9,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 1st exit onto Harbour Road",
+                "name": "Harbour Road",
+                "exit_number": 1,
+                "way_points": [
+                  17,
+                  33
+                ]
+              },
+              {
+                "distance": 530,
+                "duration": 61.1,
+                "type": 0,
+                "instruction": "Turn left onto Georges Street Upper, R118",
+                "name": "Georges Street Upper, R118",
+                "way_points": [
+                  33,
+                  52
+                ]
+              },
+              {
+                "distance": 213.5,
+                "duration": 27.7,
+                "type": 2,
+                "instruction": "Turn sharp left onto Park Road, R118",
+                "name": "Park Road, R118",
+                "way_points": [
+                  52,
+                  62
+                ]
+              },
+              {
+                "distance": 35.4,
+                "duration": 5,
+                "type": 3,
+                "instruction": "Turn sharp right onto Newtownsmith, R831",
+                "name": "Newtownsmith, R831",
+                "way_points": [
+                  62,
+                  65
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Newtownsmith, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  65,
+                  65
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          65
+        ],
+        "summary": {
+          "distance": 1421.8,
+          "duration": 212.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.130101,
+            53.29288
+          ],
+          [
+            -6.130175,
+            53.292881
+          ],
+          [
+            -6.130841,
+            53.293307
+          ],
+          [
+            -6.130934,
+            53.293339
+          ],
+          [
+            -6.13101,
+            53.293337
+          ],
+          [
+            -6.130995,
+            53.293359
+          ],
+          [
+            -6.130993,
+            53.29345
+          ],
+          [
+            -6.131602,
+            53.293841
+          ],
+          [
+            -6.131679,
+            53.293911
+          ],
+          [
+            -6.131685,
+            53.293926
+          ],
+          [
+            -6.131865,
+            53.293987
+          ],
+          [
+            -6.131916,
+            53.294018
+          ],
+          [
+            -6.131946,
+            53.294036
+          ],
+          [
+            -6.132033,
+            53.294087
+          ],
+          [
+            -6.132701,
+            53.294358
+          ],
+          [
+            -6.133028,
+            53.2945
+          ],
+          [
+            -6.13306,
+            53.294551
+          ],
+          [
+            -6.133101,
+            53.294621
+          ],
+          [
+            -6.133175,
+            53.294606
+          ],
+          [
+            -6.133331,
+            53.294635
+          ],
+          [
+            -6.133422,
+            53.294687
+          ],
+          [
+            -6.133451,
+            53.294724
+          ],
+          [
+            -6.133631,
+            53.294647
+          ],
+          [
+            -6.133698,
+            53.29459
+          ],
+          [
+            -6.133868,
+            53.294446
+          ],
+          [
+            -6.133941,
+            53.294353
+          ],
+          [
+            -6.134825,
+            53.293456
+          ],
+          [
+            -6.135117,
+            53.293173
+          ],
+          [
+            -6.135166,
+            53.29311
+          ],
+          [
+            -6.135243,
+            53.293035
+          ],
+          [
+            -6.135289,
+            53.29299
+          ],
+          [
+            -6.135679,
+            53.292611
+          ],
+          [
+            -6.13576,
+            53.292532
+          ],
+          [
+            -6.136024,
+            53.292276
+          ],
+          [
+            -6.135493,
+            53.292042
+          ],
+          [
+            -6.135362,
+            53.291984
+          ],
+          [
+            -6.134656,
+            53.291676
+          ],
+          [
+            -6.134575,
+            53.291638
+          ],
+          [
+            -6.13423,
+            53.291485
+          ],
+          [
+            -6.134071,
+            53.291415
+          ],
+          [
+            -6.133983,
+            53.291375
+          ],
+          [
+            -6.13385,
+            53.291315
+          ],
+          [
+            -6.133526,
+            53.291177
+          ],
+          [
+            -6.133226,
+            53.291043
+          ],
+          [
+            -6.133015,
+            53.290948
+          ],
+          [
+            -6.132496,
+            53.290721
+          ],
+          [
+            -6.131432,
+            53.290294
+          ],
+          [
+            -6.131368,
+            53.29027
+          ],
+          [
+            -6.131261,
+            53.290207
+          ],
+          [
+            -6.130813,
+            53.290008
+          ],
+          [
+            -6.130567,
+            53.289896
+          ],
+          [
+            -6.12972,
+            53.289517
+          ],
+          [
+            -6.129598,
+            53.289458
+          ],
+          [
+            -6.129577,
+            53.289486
+          ],
+          [
+            -6.129548,
+            53.289531
+          ],
+          [
+            -6.129296,
+            53.28992
+          ],
+          [
+            -6.128814,
+            53.290648
+          ],
+          [
+            -6.128651,
+            53.290907
+          ],
+          [
+            -6.128557,
+            53.291052
+          ],
+          [
+            -6.128552,
+            53.291059
+          ],
+          [
+            -6.12852,
+            53.291117
+          ],
+          [
+            -6.128479,
+            53.291177
+          ],
+          [
+            -6.128393,
+            53.291232
+          ],
+          [
+            -6.128369,
+            53.29121
+          ],
+          [
+            -6.128317,
+            53.291163
+          ],
+          [
+            -6.128101,
+            53.290966
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.128101,
+        53.29096,
+        -6.128095,
+        53.290966
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.7,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.7,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Windsor Terrace, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.7,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128101,
+            53.290966
+          ],
+          [
+            -6.128095,
+            53.29096
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.129598,
+        53.288295,
+        -6.126035,
+        53.291232
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 868.2,
+            "duration": 105.5,
+            "steps": [
+              {
+                "distance": 189.4,
+                "duration": 17,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  7
+                ]
+              },
+              {
+                "distance": 79.4,
+                "duration": 13.5,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  13
+                ]
+              },
+              {
+                "distance": 140.2,
+                "duration": 20.2,
+                "type": 0,
+                "instruction": "Turn left onto Summerhill Parade",
+                "name": "Summerhill Parade",
+                "way_points": [
+                  13,
+                  19
+                ]
+              },
+              {
+                "distance": 221.5,
+                "duration": 23.1,
+                "type": 1,
+                "instruction": "Turn right onto Summerhill Road, R119",
+                "name": "Summerhill Road, R119",
+                "way_points": [
+                  19,
+                  28
+                ]
+              },
+              {
+                "distance": 213.5,
+                "duration": 27.7,
+                "type": 1,
+                "instruction": "Turn right onto Park Road, R118",
+                "name": "Park Road, R118",
+                "way_points": [
+                  28,
+                  38
+                ]
+              },
+              {
+                "distance": 24.3,
+                "duration": 4,
+                "type": 3,
+                "instruction": "Turn sharp right onto Newtownsmith, R831",
+                "name": "Newtownsmith, R831",
+                "way_points": [
+                  38,
+                  41
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Newtownsmith, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  41,
+                  41
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          41
+        ],
+        "summary": {
+          "distance": 868.2,
+          "duration": 105.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128095,
+            53.29096
+          ],
+          [
+            -6.127816,
+            53.290704
+          ],
+          [
+            -6.127604,
+            53.290562
+          ],
+          [
+            -6.127423,
+            53.290499
+          ],
+          [
+            -6.127107,
+            53.290392
+          ],
+          [
+            -6.126795,
+            53.290276
+          ],
+          [
+            -6.126102,
+            53.289861
+          ],
+          [
+            -6.126035,
+            53.289818
+          ],
+          [
+            -6.126244,
+            53.289672
+          ],
+          [
+            -6.126415,
+            53.289482
+          ],
+          [
+            -6.126511,
+            53.289401
+          ],
+          [
+            -6.12661,
+            53.289461
+          ],
+          [
+            -6.126687,
+            53.289527
+          ],
+          [
+            -6.126752,
+            53.289542
+          ],
+          [
+            -6.126784,
+            53.289465
+          ],
+          [
+            -6.126734,
+            53.289224
+          ],
+          [
+            -6.12674,
+            53.288899
+          ],
+          [
+            -6.126788,
+            53.288575
+          ],
+          [
+            -6.126857,
+            53.28835
+          ],
+          [
+            -6.126894,
+            53.288295
+          ],
+          [
+            -6.12704,
+            53.288355
+          ],
+          [
+            -6.127102,
+            53.28838
+          ],
+          [
+            -6.127416,
+            53.288507
+          ],
+          [
+            -6.12773,
+            53.288642
+          ],
+          [
+            -6.127895,
+            53.28872
+          ],
+          [
+            -6.128796,
+            53.289114
+          ],
+          [
+            -6.128959,
+            53.289188
+          ],
+          [
+            -6.129418,
+            53.289382
+          ],
+          [
+            -6.129598,
+            53.289458
+          ],
+          [
+            -6.129577,
+            53.289486
+          ],
+          [
+            -6.129548,
+            53.289531
+          ],
+          [
+            -6.129296,
+            53.28992
+          ],
+          [
+            -6.128814,
+            53.290648
+          ],
+          [
+            -6.128651,
+            53.290907
+          ],
+          [
+            -6.128557,
+            53.291052
+          ],
+          [
+            -6.128552,
+            53.291059
+          ],
+          [
+            -6.12852,
+            53.291117
+          ],
+          [
+            -6.128479,
+            53.291177
+          ],
+          [
+            -6.128393,
+            53.291232
+          ],
+          [
+            -6.128369,
+            53.29121
+          ],
+          [
+            -6.128317,
+            53.291163
+          ],
+          [
+            -6.128193,
+            53.29105
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.129598,
+        53.288295,
+        -6.126035,
+        53.291232
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 875.9,
+            "duration": 106.2,
+            "steps": [
+              {
+                "distance": 201.3,
+                "duration": 18.1,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  7
+                ]
+              },
+              {
+                "distance": 79.4,
+                "duration": 13.5,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  13
+                ]
+              },
+              {
+                "distance": 140.2,
+                "duration": 20.2,
+                "type": 0,
+                "instruction": "Turn left onto Summerhill Parade",
+                "name": "Summerhill Parade",
+                "way_points": [
+                  13,
+                  19
+                ]
+              },
+              {
+                "distance": 221.5,
+                "duration": 23.1,
+                "type": 1,
+                "instruction": "Turn right onto Summerhill Road, R119",
+                "name": "Summerhill Road, R119",
+                "way_points": [
+                  19,
+                  28
+                ]
+              },
+              {
+                "distance": 213.5,
+                "duration": 27.7,
+                "type": 1,
+                "instruction": "Turn right onto Park Road, R118",
+                "name": "Park Road, R118",
+                "way_points": [
+                  28,
+                  38
+                ]
+              },
+              {
+                "distance": 20.1,
+                "duration": 3.6,
+                "type": 3,
+                "instruction": "Turn sharp right onto Newtownsmith, R831",
+                "name": "Newtownsmith, R831",
+                "way_points": [
+                  38,
+                  41
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Newtownsmith, R831, on the left",
+                "name": "-",
+                "way_points": [
+                  41,
+                  41
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          41
+        ],
+        "summary": {
+          "distance": 875.9,
+          "duration": 106.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128193,
+            53.29105
+          ],
+          [
+            -6.127816,
+            53.290704
+          ],
+          [
+            -6.127604,
+            53.290562
+          ],
+          [
+            -6.127423,
+            53.290499
+          ],
+          [
+            -6.127107,
+            53.290392
+          ],
+          [
+            -6.126795,
+            53.290276
+          ],
+          [
+            -6.126102,
+            53.289861
+          ],
+          [
+            -6.126035,
+            53.289818
+          ],
+          [
+            -6.126244,
+            53.289672
+          ],
+          [
+            -6.126415,
+            53.289482
+          ],
+          [
+            -6.126511,
+            53.289401
+          ],
+          [
+            -6.12661,
+            53.289461
+          ],
+          [
+            -6.126687,
+            53.289527
+          ],
+          [
+            -6.126752,
+            53.289542
+          ],
+          [
+            -6.126784,
+            53.289465
+          ],
+          [
+            -6.126734,
+            53.289224
+          ],
+          [
+            -6.12674,
+            53.288899
+          ],
+          [
+            -6.126788,
+            53.288575
+          ],
+          [
+            -6.126857,
+            53.28835
+          ],
+          [
+            -6.126894,
+            53.288295
+          ],
+          [
+            -6.12704,
+            53.288355
+          ],
+          [
+            -6.127102,
+            53.28838
+          ],
+          [
+            -6.127416,
+            53.288507
+          ],
+          [
+            -6.12773,
+            53.288642
+          ],
+          [
+            -6.127895,
+            53.28872
+          ],
+          [
+            -6.128796,
+            53.289114
+          ],
+          [
+            -6.128959,
+            53.289188
+          ],
+          [
+            -6.129418,
+            53.289382
+          ],
+          [
+            -6.129598,
+            53.289458
+          ],
+          [
+            -6.129577,
+            53.289486
+          ],
+          [
+            -6.129548,
+            53.289531
+          ],
+          [
+            -6.129296,
+            53.28992
+          ],
+          [
+            -6.128814,
+            53.290648
+          ],
+          [
+            -6.128651,
+            53.290907
+          ],
+          [
+            -6.128557,
+            53.291052
+          ],
+          [
+            -6.128552,
+            53.291059
+          ],
+          [
+            -6.12852,
+            53.291117
+          ],
+          [
+            -6.128479,
+            53.291177
+          ],
+          [
+            -6.128393,
+            53.291232
+          ],
+          [
+            -6.128369,
+            53.29121
+          ],
+          [
+            -6.128317,
+            53.291163
+          ],
+          [
+            -6.128228,
+            53.291081
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.128228,
+        53.291022,
+        -6.128163,
+        53.291081
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 7.9,
+            "duration": 0.7,
+            "steps": [
+              {
+                "distance": 7.9,
+                "duration": 0.7,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Windsor Terrace, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 7.9,
+          "duration": 0.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128228,
+            53.291081
+          ],
+          [
+            -6.128163,
+            53.291022
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.128163,
+        53.290968,
+        -6.128104,
+        53.291022
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 7.1,
+            "duration": 0.6,
+            "steps": [
+              {
+                "distance": 7.1,
+                "duration": 0.6,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Windsor Terrace, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 7.1,
+          "duration": 0.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128163,
+            53.291022
+          ],
+          [
+            -6.128104,
+            53.290968
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.129598,
+        53.288295,
+        -6.126035,
+        53.291232
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 871.5,
+            "duration": 105.8,
+            "steps": [
+              {
+                "distance": 190.5,
+                "duration": 17.1,
+                "type": 11,
+                "instruction": "Head southeast on Windsor Terrace, R831",
+                "name": "Windsor Terrace, R831",
+                "way_points": [
+                  0,
+                  7
+                ]
+              },
+              {
+                "distance": 79.4,
+                "duration": 13.5,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  13
+                ]
+              },
+              {
+                "distance": 140.2,
+                "duration": 20.2,
+                "type": 0,
+                "instruction": "Turn left onto Summerhill Parade",
+                "name": "Summerhill Parade",
+                "way_points": [
+                  13,
+                  19
+                ]
+              },
+              {
+                "distance": 221.5,
+                "duration": 23.1,
+                "type": 1,
+                "instruction": "Turn right onto Summerhill Road, R119",
+                "name": "Summerhill Road, R119",
+                "way_points": [
+                  19,
+                  28
+                ]
+              },
+              {
+                "distance": 213.5,
+                "duration": 27.7,
+                "type": 1,
+                "instruction": "Turn right onto Park Road, R118",
+                "name": "Park Road, R118",
+                "way_points": [
+                  28,
+                  38
+                ]
+              },
+              {
+                "distance": 26.5,
+                "duration": 4.2,
+                "type": 3,
+                "instruction": "Turn sharp right onto Newtownsmith, R831",
+                "name": "Newtownsmith, R831",
+                "way_points": [
+                  38,
+                  41
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Newtownsmith, R831, on the right",
+                "name": "-",
+                "way_points": [
+                  41,
+                  41
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          41
+        ],
+        "summary": {
+          "distance": 871.5,
+          "duration": 105.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.128104,
+            53.290968
+          ],
+          [
+            -6.127816,
+            53.290704
+          ],
+          [
+            -6.127604,
+            53.290562
+          ],
+          [
+            -6.127423,
+            53.290499
+          ],
+          [
+            -6.127107,
+            53.290392
+          ],
+          [
+            -6.126795,
+            53.290276
+          ],
+          [
+            -6.126102,
+            53.289861
+          ],
+          [
+            -6.126035,
+            53.289818
+          ],
+          [
+            -6.126244,
+            53.289672
+          ],
+          [
+            -6.126415,
+            53.289482
+          ],
+          [
+            -6.126511,
+            53.289401
+          ],
+          [
+            -6.12661,
+            53.289461
+          ],
+          [
+            -6.126687,
+            53.289527
+          ],
+          [
+            -6.126752,
+            53.289542
+          ],
+          [
+            -6.126784,
+            53.289465
+          ],
+          [
+            -6.126734,
+            53.289224
+          ],
+          [
+            -6.12674,
+            53.288899
+          ],
+          [
+            -6.126788,
+            53.288575
+          ],
+          [
+            -6.126857,
+            53.28835
+          ],
+          [
+            -6.126894,
+            53.288295
+          ],
+          [
+            -6.12704,
+            53.288355
+          ],
+          [
+            -6.127102,
+            53.28838
+          ],
+          [
+            -6.127416,
+            53.288507
+          ],
+          [
+            -6.12773,
+            53.288642
+          ],
+          [
+            -6.127895,
+            53.28872
+          ],
+          [
+            -6.128796,
+            53.289114
+          ],
+          [
+            -6.128959,
+            53.289188
+          ],
+          [
+            -6.129418,
+            53.289382
+          ],
+          [
+            -6.129598,
+            53.289458
+          ],
+          [
+            -6.129577,
+            53.289486
+          ],
+          [
+            -6.129548,
+            53.289531
+          ],
+          [
+            -6.129296,
+            53.28992
+          ],
+          [
+            -6.128814,
+            53.290648
+          ],
+          [
+            -6.128651,
+            53.290907
+          ],
+          [
+            -6.128557,
+            53.291052
+          ],
+          [
+            -6.128552,
+            53.291059
+          ],
+          [
+            -6.12852,
+            53.291117
+          ],
+          [
+            -6.128479,
+            53.291177
+          ],
+          [
+            -6.128393,
+            53.291232
+          ],
+          [
+            -6.128369,
+            53.29121
+          ],
+          [
+            -6.128317,
+            53.291163
+          ],
+          [
+            -6.128175,
+            53.291033
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

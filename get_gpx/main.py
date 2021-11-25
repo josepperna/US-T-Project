@@ -19,7 +19,7 @@ def get_gpx(lat1, long1, lat2, long2, i, bike_id):
     if r.status_code != 200:
         return
     else:
-        with open("geojson/route_b{}_{}.geojson".format(bike_id, i), "w") as f:
+        with open("geojson/{}/route_b{}_{}.geojson".format(bike_id, bike_id, i), "w") as f:
             f.write(json.dumps(r.json()))
 
 
@@ -34,9 +34,10 @@ def process_bike(filename):
 
 def multithreaded_processor(file_list):
     i = 0
+    
     for filename in file_list:
         bike_id = filename.split("/")[-1][0:7]
-        # os.mkdir("gpx/" + bike_id)
+        os.mkdir("geojson/{}".format(bike_id))
         print(i)
         process_bike("../bleeperDataParse/bikeData/" + filename)
         i += 1

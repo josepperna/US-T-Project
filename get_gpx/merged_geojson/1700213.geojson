@@ -1,0 +1,3400 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.104768,
+        53.372961,
+        -6.074836,
+        53.39115
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4203.2,
+            "duration": 426.5,
+            "steps": [
+              {
+                "distance": 2043.8,
+                "duration": 174,
+                "type": 11,
+                "instruction": "Head west on Howth Road, R105",
+                "name": "Howth Road, R105",
+                "way_points": [
+                  0,
+                  72
+                ]
+              },
+              {
+                "distance": 315.7,
+                "duration": 45.5,
+                "type": 0,
+                "instruction": "Turn left onto Church Road",
+                "name": "Church Road",
+                "way_points": [
+                  72,
+                  81
+                ]
+              },
+              {
+                "distance": 447.6,
+                "duration": 43.4,
+                "type": 0,
+                "instruction": "Turn left onto Greenfield Road, R105",
+                "name": "Greenfield Road, R105",
+                "way_points": [
+                  81,
+                  95
+                ]
+              },
+              {
+                "distance": 23.9,
+                "duration": 5.7,
+                "type": 1,
+                "instruction": "Turn right onto Sutton Strand",
+                "name": "Sutton Strand",
+                "way_points": [
+                  95,
+                  98
+                ]
+              },
+              {
+                "distance": 734.5,
+                "duration": 66.1,
+                "type": 4,
+                "instruction": "Turn slight left onto Sutton Strand",
+                "name": "Sutton Strand",
+                "way_points": [
+                  98,
+                  127
+                ]
+              },
+              {
+                "distance": 637.6,
+                "duration": 91.8,
+                "type": 1,
+                "instruction": "Turn right onto Sutton Strand",
+                "name": "Sutton Strand",
+                "way_points": [
+                  127,
+                  171
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Sutton Strand, on the right",
+                "name": "-",
+                "way_points": [
+                  171,
+                  171
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          171
+        ],
+        "summary": {
+          "distance": 4203.2,
+          "duration": 426.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.074836,
+            53.388708
+          ],
+          [
+            -6.075032,
+            53.388712
+          ],
+          [
+            -6.075472,
+            53.388725
+          ],
+          [
+            -6.075518,
+            53.388727
+          ],
+          [
+            -6.07576,
+            53.38874
+          ],
+          [
+            -6.075783,
+            53.388741
+          ],
+          [
+            -6.076007,
+            53.388761
+          ],
+          [
+            -6.076113,
+            53.388771
+          ],
+          [
+            -6.076301,
+            53.388798
+          ],
+          [
+            -6.076403,
+            53.388813
+          ],
+          [
+            -6.076682,
+            53.388855
+          ],
+          [
+            -6.077032,
+            53.388908
+          ],
+          [
+            -6.077363,
+            53.38894
+          ],
+          [
+            -6.077706,
+            53.388954
+          ],
+          [
+            -6.0784,
+            53.388942
+          ],
+          [
+            -6.079061,
+            53.388875
+          ],
+          [
+            -6.079446,
+            53.388831
+          ],
+          [
+            -6.07966,
+            53.38881
+          ],
+          [
+            -6.07976,
+            53.388807
+          ],
+          [
+            -6.079991,
+            53.3888
+          ],
+          [
+            -6.080304,
+            53.388806
+          ],
+          [
+            -6.080524,
+            53.388817
+          ],
+          [
+            -6.080704,
+            53.388829
+          ],
+          [
+            -6.08108,
+            53.388885
+          ],
+          [
+            -6.08138,
+            53.388946
+          ],
+          [
+            -6.08166,
+            53.389018
+          ],
+          [
+            -6.081923,
+            53.389099
+          ],
+          [
+            -6.082337,
+            53.389231
+          ],
+          [
+            -6.082605,
+            53.389328
+          ],
+          [
+            -6.082861,
+            53.389424
+          ],
+          [
+            -6.083261,
+            53.389612
+          ],
+          [
+            -6.084406,
+            53.390354
+          ],
+          [
+            -6.08454,
+            53.390412
+          ],
+          [
+            -6.08471,
+            53.39047
+          ],
+          [
+            -6.085098,
+            53.390548
+          ],
+          [
+            -6.085588,
+            53.390588
+          ],
+          [
+            -6.085917,
+            53.390615
+          ],
+          [
+            -6.086011,
+            53.390621
+          ],
+          [
+            -6.086083,
+            53.390626
+          ],
+          [
+            -6.090676,
+            53.390918
+          ],
+          [
+            -6.091038,
+            53.390941
+          ],
+          [
+            -6.092047,
+            53.390997
+          ],
+          [
+            -6.092134,
+            53.391001
+          ],
+          [
+            -6.092275,
+            53.391009
+          ],
+          [
+            -6.093906,
+            53.391044
+          ],
+          [
+            -6.09484,
+            53.391069
+          ],
+          [
+            -6.095416,
+            53.391085
+          ],
+          [
+            -6.09688,
+            53.391125
+          ],
+          [
+            -6.097046,
+            53.391131
+          ],
+          [
+            -6.097489,
+            53.391143
+          ],
+          [
+            -6.09777,
+            53.39115
+          ],
+          [
+            -6.098036,
+            53.391146
+          ],
+          [
+            -6.098261,
+            53.391136
+          ],
+          [
+            -6.098339,
+            53.391124
+          ],
+          [
+            -6.098764,
+            53.391057
+          ],
+          [
+            -6.099476,
+            53.390937
+          ],
+          [
+            -6.099534,
+            53.390926
+          ],
+          [
+            -6.099882,
+            53.39086
+          ],
+          [
+            -6.100071,
+            53.390824
+          ],
+          [
+            -6.10028,
+            53.390784
+          ],
+          [
+            -6.100816,
+            53.390683
+          ],
+          [
+            -6.100935,
+            53.39066
+          ],
+          [
+            -6.101474,
+            53.390552
+          ],
+          [
+            -6.101721,
+            53.390502
+          ],
+          [
+            -6.101953,
+            53.390456
+          ],
+          [
+            -6.10247,
+            53.390322
+          ],
+          [
+            -6.102531,
+            53.390306
+          ],
+          [
+            -6.102778,
+            53.390245
+          ],
+          [
+            -6.103027,
+            53.390183
+          ],
+          [
+            -6.103161,
+            53.39015
+          ],
+          [
+            -6.103614,
+            53.390069
+          ],
+          [
+            -6.10398,
+            53.390026
+          ],
+          [
+            -6.104269,
+            53.389994
+          ],
+          [
+            -6.104267,
+            53.389938
+          ],
+          [
+            -6.104341,
+            53.389236
+          ],
+          [
+            -6.104375,
+            53.388658
+          ],
+          [
+            -6.10442,
+            53.388151
+          ],
+          [
+            -6.10445,
+            53.387989
+          ],
+          [
+            -6.104476,
+            53.387907
+          ],
+          [
+            -6.104568,
+            53.387624
+          ],
+          [
+            -6.104748,
+            53.387226
+          ],
+          [
+            -6.104768,
+            53.387181
+          ],
+          [
+            -6.104292,
+            53.386981
+          ],
+          [
+            -6.104257,
+            53.386967
+          ],
+          [
+            -6.103927,
+            53.386828
+          ],
+          [
+            -6.103556,
+            53.386672
+          ],
+          [
+            -6.103497,
+            53.386645
+          ],
+          [
+            -6.103175,
+            53.3865
+          ],
+          [
+            -6.102675,
+            53.386257
+          ],
+          [
+            -6.102378,
+            53.386072
+          ],
+          [
+            -6.101916,
+            53.385764
+          ],
+          [
+            -6.101059,
+            53.385192
+          ],
+          [
+            -6.10088,
+            53.385036
+          ],
+          [
+            -6.100648,
+            53.384784
+          ],
+          [
+            -6.100441,
+            53.384494
+          ],
+          [
+            -6.100294,
+            53.384267
+          ],
+          [
+            -6.100382,
+            53.384245
+          ],
+          [
+            -6.100517,
+            53.384208
+          ],
+          [
+            -6.1006,
+            53.384159
+          ],
+          [
+            -6.100667,
+            53.384051
+          ],
+          [
+            -6.100811,
+            53.383889
+          ],
+          [
+            -6.100932,
+            53.383752
+          ],
+          [
+            -6.101068,
+            53.383602
+          ],
+          [
+            -6.101172,
+            53.383448
+          ],
+          [
+            -6.101282,
+            53.383285
+          ],
+          [
+            -6.101504,
+            53.382896
+          ],
+          [
+            -6.101557,
+            53.382788
+          ],
+          [
+            -6.101647,
+            53.382603
+          ],
+          [
+            -6.101779,
+            53.382387
+          ],
+          [
+            -6.102,
+            53.382028
+          ],
+          [
+            -6.102252,
+            53.381284
+          ],
+          [
+            -6.102273,
+            53.381221
+          ],
+          [
+            -6.102415,
+            53.380674
+          ],
+          [
+            -6.10251,
+            53.380342
+          ],
+          [
+            -6.102738,
+            53.37931
+          ],
+          [
+            -6.102755,
+            53.379226
+          ],
+          [
+            -6.102761,
+            53.379147
+          ],
+          [
+            -6.10271,
+            53.378876
+          ],
+          [
+            -6.102588,
+            53.378596
+          ],
+          [
+            -6.102474,
+            53.378352
+          ],
+          [
+            -6.102418,
+            53.378205
+          ],
+          [
+            -6.102402,
+            53.378169
+          ],
+          [
+            -6.102378,
+            53.378115
+          ],
+          [
+            -6.102317,
+            53.378029
+          ],
+          [
+            -6.102188,
+            53.377936
+          ],
+          [
+            -6.102169,
+            53.377925
+          ],
+          [
+            -6.102124,
+            53.377901
+          ],
+          [
+            -6.102041,
+            53.377854
+          ],
+          [
+            -6.102043,
+            53.377765
+          ],
+          [
+            -6.102014,
+            53.377602
+          ],
+          [
+            -6.101895,
+            53.377255
+          ],
+          [
+            -6.101789,
+            53.377062
+          ],
+          [
+            -6.101672,
+            53.376906
+          ],
+          [
+            -6.101587,
+            53.376807
+          ],
+          [
+            -6.101395,
+            53.376582
+          ],
+          [
+            -6.101368,
+            53.376555
+          ],
+          [
+            -6.101295,
+            53.376482
+          ],
+          [
+            -6.101094,
+            53.376279
+          ],
+          [
+            -6.100877,
+            53.37606
+          ],
+          [
+            -6.100737,
+            53.375937
+          ],
+          [
+            -6.100621,
+            53.375834
+          ],
+          [
+            -6.10041,
+            53.375647
+          ],
+          [
+            -6.100229,
+            53.375487
+          ],
+          [
+            -6.100094,
+            53.375378
+          ],
+          [
+            -6.099987,
+            53.375291
+          ],
+          [
+            -6.099936,
+            53.375265
+          ],
+          [
+            -6.099775,
+            53.375182
+          ],
+          [
+            -6.099708,
+            53.375148
+          ],
+          [
+            -6.099671,
+            53.375129
+          ],
+          [
+            -6.099486,
+            53.374942
+          ],
+          [
+            -6.099445,
+            53.374903
+          ],
+          [
+            -6.099377,
+            53.374857
+          ],
+          [
+            -6.099208,
+            53.374739
+          ],
+          [
+            -6.099169,
+            53.37472
+          ],
+          [
+            -6.098857,
+            53.374567
+          ],
+          [
+            -6.098765,
+            53.374512
+          ],
+          [
+            -6.09864,
+            53.374437
+          ],
+          [
+            -6.098552,
+            53.37438
+          ],
+          [
+            -6.098517,
+            53.374349
+          ],
+          [
+            -6.09847,
+            53.374308
+          ],
+          [
+            -6.098457,
+            53.374287
+          ],
+          [
+            -6.098389,
+            53.374182
+          ],
+          [
+            -6.098345,
+            53.374056
+          ],
+          [
+            -6.098346,
+            53.374031
+          ],
+          [
+            -6.098346,
+            53.373775
+          ],
+          [
+            -6.098346,
+            53.373708
+          ],
+          [
+            -6.098314,
+            53.373518
+          ],
+          [
+            -6.098244,
+            53.373346
+          ],
+          [
+            -6.09807,
+            53.373087
+          ],
+          [
+            -6.09798,
+            53.373025
+          ],
+          [
+            -6.097854,
+            53.372974
+          ],
+          [
+            -6.09774,
+            53.372961
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.09776,
+        53.372961,
+        -6.09774,
+        53.372963
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.3,
+            "duration": 0.2,
+            "steps": [
+              {
+                "distance": 1.3,
+                "duration": 0.2,
+                "type": 11,
+                "instruction": "Head west on Sutton Strand",
+                "name": "Sutton Strand",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Sutton Strand, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.3,
+          "duration": 0.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.09774,
+            53.372961
+          ],
+          [
+            -6.09776,
+            53.372963
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.09776,
+        53.372962,
+        -6.09775,
+        53.372963
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.7,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.7,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head east on Sutton Strand",
+                "name": "Sutton Strand",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Sutton Strand, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.7,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.09776,
+            53.372963
+          ],
+          [
+            -6.09775,
+            53.372962
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.09775,
+        53.372959,
+        -6.097721,
+        53.372962
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 2,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 2,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head east on Sutton Strand",
+                "name": "Sutton Strand",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Sutton Strand, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 2,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.09775,
+            53.372962
+          ],
+          [
+            -6.097721,
+            53.372959
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.153696,
+        53.451084,
+        -6.153695,
+        53.451091
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.8,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.8,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head north on New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at New Street, L2132, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.8,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.153695,
+            53.451084
+          ],
+          [
+            -6.153696,
+            53.451091
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.153698,
+        53.451091,
+        -6.153696,
+        53.451099
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.9,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.9,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head north on New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at New Street, L2132, straight ahead",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.9,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.153696,
+            53.451091
+          ],
+          [
+            -6.153698,
+            53.451099
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.153904,
+        53.450738,
+        -6.151424,
+        53.452231
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 580.2,
+            "duration": 70,
+            "steps": [
+              {
+                "distance": 113.3,
+                "duration": 10.2,
+                "type": 11,
+                "instruction": "Head north on New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 293,
+                "duration": 42.2,
+                "type": 1,
+                "instruction": "Turn right onto The Green",
+                "name": "The Green",
+                "way_points": [
+                  4,
+                  16
+                ]
+              },
+              {
+                "distance": 141,
+                "duration": 12.7,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  16,
+                  22
+                ]
+              },
+              {
+                "distance": 25.5,
+                "duration": 2.3,
+                "type": 1,
+                "instruction": "Turn right onto New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  22,
+                  24
+                ]
+              },
+              {
+                "distance": 7.3,
+                "duration": 2.6,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  24,
+                  25
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the right",
+                "name": "-",
+                "way_points": [
+                  25,
+                  25
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                24,
+                0
+              ],
+              [
+                24,
+                25,
+                32
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 572.9,
+                "amount": 98.74
+              },
+              {
+                "value": 32,
+                "distance": 7.3,
+                "amount": 1.26
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          25
+        ],
+        "summary": {
+          "distance": 580.2,
+          "duration": 70
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.153698,
+            53.451099
+          ],
+          [
+            -6.153762,
+            53.451387
+          ],
+          [
+            -6.153769,
+            53.451422
+          ],
+          [
+            -6.153842,
+            53.45175
+          ],
+          [
+            -6.153904,
+            53.452111
+          ],
+          [
+            -6.153612,
+            53.452144
+          ],
+          [
+            -6.153261,
+            53.452176
+          ],
+          [
+            -6.152654,
+            53.452231
+          ],
+          [
+            -6.152428,
+            53.452214
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.153058,
+            53.450812
+          ],
+          [
+            -6.153619,
+            53.450738
+          ],
+          [
+            -6.153642,
+            53.450845
+          ],
+          [
+            -6.153669,
+            53.450966
+          ],
+          [
+            -6.153777,
+            53.450955
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.153777,
+        53.450955,
+        -6.153669,
+        53.451003
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.5,
+            "duration": 3,
+            "steps": [
+              {
+                "distance": 7.3,
+                "duration": 2.6,
+                "type": 11,
+                "instruction": "Head east",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 4.2,
+                "duration": 0.4,
+                "type": 0,
+                "instruction": "Turn left onto New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at New Street, L2132, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                1,
+                32
+              ],
+              [
+                1,
+                2,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 32,
+                "distance": 7.3,
+                "amount": 63.36
+              },
+              {
+                "value": 0,
+                "distance": 4.2,
+                "amount": 36.64
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 11.5,
+          "duration": 3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.153777,
+            53.450955
+          ],
+          [
+            -6.153669,
+            53.450966
+          ],
+          [
+            -6.153677,
+            53.451003
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.153697,
+        53.451003,
+        -6.153677,
+        53.451096
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 10.4,
+            "duration": 0.9,
+            "steps": [
+              {
+                "distance": 10.4,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head north on New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at New Street, L2132, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 10.4,
+          "duration": 0.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.153677,
+            53.451003
+          ],
+          [
+            -6.153697,
+            53.451096
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.153904,
+        53.450738,
+        -6.151424,
+        53.452231
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 566.8,
+            "duration": 66.8,
+            "steps": [
+              {
+                "distance": 113.7,
+                "duration": 10.2,
+                "type": 11,
+                "instruction": "Head north on New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 293,
+                "duration": 42.2,
+                "type": 1,
+                "instruction": "Turn right onto The Green",
+                "name": "The Green",
+                "way_points": [
+                  4,
+                  16
+                ]
+              },
+              {
+                "distance": 141,
+                "duration": 12.7,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  16,
+                  22
+                ]
+              },
+              {
+                "distance": 19.1,
+                "duration": 1.7,
+                "type": 1,
+                "instruction": "Turn right onto New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  22,
+                  24
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at New Street, L2132, on the left",
+                "name": "-",
+                "way_points": [
+                  24,
+                  24
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          24
+        ],
+        "summary": {
+          "distance": 566.8,
+          "duration": 66.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.153697,
+            53.451096
+          ],
+          [
+            -6.153762,
+            53.451387
+          ],
+          [
+            -6.153769,
+            53.451422
+          ],
+          [
+            -6.153842,
+            53.45175
+          ],
+          [
+            -6.153904,
+            53.452111
+          ],
+          [
+            -6.153612,
+            53.452144
+          ],
+          [
+            -6.153261,
+            53.452176
+          ],
+          [
+            -6.152654,
+            53.452231
+          ],
+          [
+            -6.152428,
+            53.452214
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.153058,
+            53.450812
+          ],
+          [
+            -6.153619,
+            53.450738
+          ],
+          [
+            -6.153642,
+            53.450845
+          ],
+          [
+            -6.153656,
+            53.450907
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.157049,
+        53.388702,
+        -6.074566,
+        53.452231
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11713.3,
+            "duration": 1086.1,
+            "steps": [
+              {
+                "distance": 135,
+                "duration": 12.1,
+                "type": 11,
+                "instruction": "Head north on New Street, L2132",
+                "name": "New Street, L2132",
+                "way_points": [
+                  0,
+                  5
+                ]
+              },
+              {
+                "distance": 293,
+                "duration": 42.2,
+                "type": 1,
+                "instruction": "Turn right onto The Green",
+                "name": "The Green",
+                "way_points": [
+                  5,
+                  17
+                ]
+              },
+              {
+                "distance": 141,
+                "duration": 12.7,
+                "type": 1,
+                "instruction": "Turn right onto The Mall, R106",
+                "name": "The Mall, R106",
+                "way_points": [
+                  17,
+                  23
+                ]
+              },
+              {
+                "distance": 3727.8,
+                "duration": 324.3,
+                "type": 0,
+                "instruction": "Turn left onto Church Road, R124",
+                "name": "Church Road, R124",
+                "way_points": [
+                  23,
+                  132
+                ]
+              },
+              {
+                "distance": 914,
+                "duration": 85.7,
+                "type": 0,
+                "instruction": "Turn left onto Station Road, L2150",
+                "name": "Station Road, L2150",
+                "way_points": [
+                  132,
+                  162
+                ]
+              },
+              {
+                "distance": 1984.2,
+                "duration": 173.2,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 2nd exit onto Coast Road, R106",
+                "name": "Coast Road, R106",
+                "exit_number": 2,
+                "way_points": [
+                  162,
+                  206
+                ]
+              },
+              {
+                "distance": 499.4,
+                "duration": 68.1,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 1st exit onto Coast Road, R106",
+                "name": "Coast Road, R106",
+                "exit_number": 1,
+                "way_points": [
+                  206,
+                  229
+                ]
+              },
+              {
+                "distance": 1546.3,
+                "duration": 150.4,
+                "type": 0,
+                "instruction": "Turn left onto Strand Road, R106",
+                "name": "Strand Road, R106",
+                "way_points": [
+                  229,
+                  268
+                ]
+              },
+              {
+                "distance": 2461.2,
+                "duration": 213.3,
+                "type": 12,
+                "instruction": "Keep left onto Howth Road, R105",
+                "name": "Howth Road, R105",
+                "way_points": [
+                  268,
+                  361
+                ]
+              },
+              {
+                "distance": 11.4,
+                "duration": 4.1,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  361,
+                  363
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  363,
+                  363
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          363
+        ],
+        "summary": {
+          "distance": 11713.3,
+          "duration": 1086.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.153656,
+            53.450907
+          ],
+          [
+            -6.153669,
+            53.450966
+          ],
+          [
+            -6.153762,
+            53.451387
+          ],
+          [
+            -6.153769,
+            53.451422
+          ],
+          [
+            -6.153842,
+            53.45175
+          ],
+          [
+            -6.153904,
+            53.452111
+          ],
+          [
+            -6.153612,
+            53.452144
+          ],
+          [
+            -6.153261,
+            53.452176
+          ],
+          [
+            -6.152654,
+            53.452231
+          ],
+          [
+            -6.152428,
+            53.452214
+          ],
+          [
+            -6.152386,
+            53.452213
+          ],
+          [
+            -6.151637,
+            53.452208
+          ],
+          [
+            -6.151574,
+            53.452199
+          ],
+          [
+            -6.151537,
+            53.452181
+          ],
+          [
+            -6.151424,
+            53.452091
+          ],
+          [
+            -6.151442,
+            53.451858
+          ],
+          [
+            -6.151463,
+            53.451669
+          ],
+          [
+            -6.151539,
+            53.450999
+          ],
+          [
+            -6.151729,
+            53.450993
+          ],
+          [
+            -6.151876,
+            53.450975
+          ],
+          [
+            -6.15223,
+            53.450931
+          ],
+          [
+            -6.152585,
+            53.450888
+          ],
+          [
+            -6.153058,
+            53.450812
+          ],
+          [
+            -6.153619,
+            53.450738
+          ],
+          [
+            -6.153588,
+            53.450556
+          ],
+          [
+            -6.153487,
+            53.450055
+          ],
+          [
+            -6.153448,
+            53.449829
+          ],
+          [
+            -6.153179,
+            53.448643
+          ],
+          [
+            -6.153141,
+            53.448476
+          ],
+          [
+            -6.153123,
+            53.448394
+          ],
+          [
+            -6.152976,
+            53.447729
+          ],
+          [
+            -6.152924,
+            53.447482
+          ],
+          [
+            -6.152889,
+            53.447322
+          ],
+          [
+            -6.15281,
+            53.446926
+          ],
+          [
+            -6.15279,
+            53.446785
+          ],
+          [
+            -6.152722,
+            53.446324
+          ],
+          [
+            -6.152705,
+            53.446064
+          ],
+          [
+            -6.152742,
+            53.445342
+          ],
+          [
+            -6.152716,
+            53.444986
+          ],
+          [
+            -6.152633,
+            53.444734
+          ],
+          [
+            -6.152545,
+            53.444577
+          ],
+          [
+            -6.152424,
+            53.444401
+          ],
+          [
+            -6.152419,
+            53.444394
+          ],
+          [
+            -6.152279,
+            53.444192
+          ],
+          [
+            -6.152132,
+            53.443978
+          ],
+          [
+            -6.152024,
+            53.443822
+          ],
+          [
+            -6.151705,
+            53.443359
+          ],
+          [
+            -6.151568,
+            53.443107
+          ],
+          [
+            -6.151467,
+            53.44291
+          ],
+          [
+            -6.151243,
+            53.44248
+          ],
+          [
+            -6.15121,
+            53.442317
+          ],
+          [
+            -6.151218,
+            53.44224
+          ],
+          [
+            -6.151238,
+            53.442153
+          ],
+          [
+            -6.151386,
+            53.441426
+          ],
+          [
+            -6.151409,
+            53.441299
+          ],
+          [
+            -6.151405,
+            53.441102
+          ],
+          [
+            -6.15143,
+            53.440791
+          ],
+          [
+            -6.151442,
+            53.440684
+          ],
+          [
+            -6.151446,
+            53.440647
+          ],
+          [
+            -6.15146,
+            53.440524
+          ],
+          [
+            -6.15147,
+            53.44043
+          ],
+          [
+            -6.151505,
+            53.440241
+          ],
+          [
+            -6.151552,
+            53.439955
+          ],
+          [
+            -6.151726,
+            53.439197
+          ],
+          [
+            -6.151739,
+            53.439157
+          ],
+          [
+            -6.151793,
+            53.43874
+          ],
+          [
+            -6.151833,
+            53.438432
+          ],
+          [
+            -6.151854,
+            53.43827
+          ],
+          [
+            -6.151936,
+            53.437867
+          ],
+          [
+            -6.151946,
+            53.437817
+          ],
+          [
+            -6.152068,
+            53.437326
+          ],
+          [
+            -6.152139,
+            53.437041
+          ],
+          [
+            -6.152181,
+            53.43692
+          ],
+          [
+            -6.152252,
+            53.436759
+          ],
+          [
+            -6.152497,
+            53.436204
+          ],
+          [
+            -6.153141,
+            53.435452
+          ],
+          [
+            -6.153194,
+            53.435297
+          ],
+          [
+            -6.153194,
+            53.435164
+          ],
+          [
+            -6.153178,
+            53.435102
+          ],
+          [
+            -6.153156,
+            53.434991
+          ],
+          [
+            -6.153075,
+            53.434755
+          ],
+          [
+            -6.152962,
+            53.434458
+          ],
+          [
+            -6.152786,
+            53.433919
+          ],
+          [
+            -6.152534,
+            53.433102
+          ],
+          [
+            -6.152425,
+            53.432771
+          ],
+          [
+            -6.152414,
+            53.432734
+          ],
+          [
+            -6.152126,
+            53.431708
+          ],
+          [
+            -6.152186,
+            53.430603
+          ],
+          [
+            -6.151997,
+            53.429831
+          ],
+          [
+            -6.152083,
+            53.429223
+          ],
+          [
+            -6.152332,
+            53.428811
+          ],
+          [
+            -6.152524,
+            53.42868
+          ],
+          [
+            -6.153363,
+            53.428402
+          ],
+          [
+            -6.153661,
+            53.428298
+          ],
+          [
+            -6.153938,
+            53.428198
+          ],
+          [
+            -6.154231,
+            53.428055
+          ],
+          [
+            -6.154321,
+            53.42797
+          ],
+          [
+            -6.154366,
+            53.427883
+          ],
+          [
+            -6.155158,
+            53.425839
+          ],
+          [
+            -6.155186,
+            53.425765
+          ],
+          [
+            -6.155293,
+            53.425489
+          ],
+          [
+            -6.15549,
+            53.425176
+          ],
+          [
+            -6.155794,
+            53.424875
+          ],
+          [
+            -6.155873,
+            53.42476
+          ],
+          [
+            -6.155886,
+            53.42463
+          ],
+          [
+            -6.155812,
+            53.424275
+          ],
+          [
+            -6.1558,
+            53.424246
+          ],
+          [
+            -6.155775,
+            53.424181
+          ],
+          [
+            -6.155674,
+            53.42396
+          ],
+          [
+            -6.155632,
+            53.423784
+          ],
+          [
+            -6.155621,
+            53.423661
+          ],
+          [
+            -6.155699,
+            53.423424
+          ],
+          [
+            -6.156122,
+            53.423004
+          ],
+          [
+            -6.156155,
+            53.422969
+          ],
+          [
+            -6.156572,
+            53.422621
+          ],
+          [
+            -6.156634,
+            53.422553
+          ],
+          [
+            -6.156731,
+            53.422377
+          ],
+          [
+            -6.156868,
+            53.422044
+          ],
+          [
+            -6.156874,
+            53.422026
+          ],
+          [
+            -6.156962,
+            53.421765
+          ],
+          [
+            -6.157024,
+            53.421539
+          ],
+          [
+            -6.157049,
+            53.421199
+          ],
+          [
+            -6.156988,
+            53.420672
+          ],
+          [
+            -6.156936,
+            53.420401
+          ],
+          [
+            -6.156931,
+            53.420374
+          ],
+          [
+            -6.156905,
+            53.420242
+          ],
+          [
+            -6.156874,
+            53.420105
+          ],
+          [
+            -6.15685,
+            53.420005
+          ],
+          [
+            -6.156831,
+            53.419921
+          ],
+          [
+            -6.15679,
+            53.419745
+          ],
+          [
+            -6.156777,
+            53.419623
+          ],
+          [
+            -6.156721,
+            53.419072
+          ],
+          [
+            -6.156678,
+            53.418653
+          ],
+          [
+            -6.155637,
+            53.418583
+          ],
+          [
+            -6.154929,
+            53.418535
+          ],
+          [
+            -6.154378,
+            53.418497
+          ],
+          [
+            -6.154023,
+            53.418481
+          ],
+          [
+            -6.152707,
+            53.418399
+          ],
+          [
+            -6.152185,
+            53.418362
+          ],
+          [
+            -6.151561,
+            53.418324
+          ],
+          [
+            -6.151372,
+            53.418313
+          ],
+          [
+            -6.150945,
+            53.418277
+          ],
+          [
+            -6.150258,
+            53.41821
+          ],
+          [
+            -6.150167,
+            53.418199
+          ],
+          [
+            -6.150084,
+            53.418191
+          ],
+          [
+            -6.149997,
+            53.418185
+          ],
+          [
+            -6.149461,
+            53.418147
+          ],
+          [
+            -6.149135,
+            53.418127
+          ],
+          [
+            -6.148807,
+            53.418107
+          ],
+          [
+            -6.148516,
+            53.418093
+          ],
+          [
+            -6.148495,
+            53.418093
+          ],
+          [
+            -6.147784,
+            53.418081
+          ],
+          [
+            -6.147436,
+            53.41806
+          ],
+          [
+            -6.146642,
+            53.41806
+          ],
+          [
+            -6.14604,
+            53.418059
+          ],
+          [
+            -6.145716,
+            53.418059
+          ],
+          [
+            -6.14508,
+            53.418016
+          ],
+          [
+            -6.144595,
+            53.417992
+          ],
+          [
+            -6.144255,
+            53.417979
+          ],
+          [
+            -6.143878,
+            53.417927
+          ],
+          [
+            -6.143531,
+            53.417817
+          ],
+          [
+            -6.143312,
+            53.41772
+          ],
+          [
+            -6.14309,
+            53.417649
+          ],
+          [
+            -6.143081,
+            53.417668
+          ],
+          [
+            -6.143035,
+            53.417696
+          ],
+          [
+            -6.14297,
+            53.417699
+          ],
+          [
+            -6.14294,
+            53.417691
+          ],
+          [
+            -6.142918,
+            53.417679
+          ],
+          [
+            -6.1429,
+            53.417628
+          ],
+          [
+            -6.142932,
+            53.417599
+          ],
+          [
+            -6.142958,
+            53.41759
+          ],
+          [
+            -6.142927,
+            53.41755
+          ],
+          [
+            -6.14284,
+            53.417465
+          ],
+          [
+            -6.14261,
+            53.417325
+          ],
+          [
+            -6.142376,
+            53.417247
+          ],
+          [
+            -6.142323,
+            53.417232
+          ],
+          [
+            -6.141478,
+            53.416994
+          ],
+          [
+            -6.141164,
+            53.416935
+          ],
+          [
+            -6.140945,
+            53.416876
+          ],
+          [
+            -6.140707,
+            53.416793
+          ],
+          [
+            -6.140503,
+            53.416689
+          ],
+          [
+            -6.139944,
+            53.416318
+          ],
+          [
+            -6.13955,
+            53.416011
+          ],
+          [
+            -6.139357,
+            53.415864
+          ],
+          [
+            -6.138286,
+            53.414732
+          ],
+          [
+            -6.137953,
+            53.414273
+          ],
+          [
+            -6.137872,
+            53.414154
+          ],
+          [
+            -6.137776,
+            53.414013
+          ],
+          [
+            -6.137543,
+            53.413638
+          ],
+          [
+            -6.137075,
+            53.412466
+          ],
+          [
+            -6.137047,
+            53.412116
+          ],
+          [
+            -6.137103,
+            53.411313
+          ],
+          [
+            -6.137071,
+            53.410985
+          ],
+          [
+            -6.136824,
+            53.410082
+          ],
+          [
+            -6.136729,
+            53.409847
+          ],
+          [
+            -6.136573,
+            53.409556
+          ],
+          [
+            -6.136478,
+            53.409381
+          ],
+          [
+            -6.136302,
+            53.409053
+          ],
+          [
+            -6.135815,
+            53.408166
+          ],
+          [
+            -6.135511,
+            53.407426
+          ],
+          [
+            -6.135391,
+            53.407242
+          ],
+          [
+            -6.135236,
+            53.407051
+          ],
+          [
+            -6.133592,
+            53.405325
+          ],
+          [
+            -6.132052,
+            53.403607
+          ],
+          [
+            -6.131317,
+            53.402758
+          ],
+          [
+            -6.131089,
+            53.40232
+          ],
+          [
+            -6.131038,
+            53.40216
+          ],
+          [
+            -6.131003,
+            53.40217
+          ],
+          [
+            -6.130933,
+            53.402172
+          ],
+          [
+            -6.130865,
+            53.402153
+          ],
+          [
+            -6.13082,
+            53.402113
+          ],
+          [
+            -6.130825,
+            53.40205
+          ],
+          [
+            -6.130865,
+            53.40202
+          ],
+          [
+            -6.130541,
+            53.401781
+          ],
+          [
+            -6.130406,
+            53.401662
+          ],
+          [
+            -6.130303,
+            53.401548
+          ],
+          [
+            -6.130285,
+            53.401527
+          ],
+          [
+            -6.12966,
+            53.400818
+          ],
+          [
+            -6.129415,
+            53.400589
+          ],
+          [
+            -6.12888,
+            53.400193
+          ],
+          [
+            -6.128662,
+            53.400032
+          ],
+          [
+            -6.128388,
+            53.399816
+          ],
+          [
+            -6.128126,
+            53.399598
+          ],
+          [
+            -6.128086,
+            53.399561
+          ],
+          [
+            -6.12788,
+            53.399352
+          ],
+          [
+            -6.12783,
+            53.399295
+          ],
+          [
+            -6.127611,
+            53.399047
+          ],
+          [
+            -6.127542,
+            53.398968
+          ],
+          [
+            -6.127332,
+            53.398704
+          ],
+          [
+            -6.127157,
+            53.398438
+          ],
+          [
+            -6.127046,
+            53.398457
+          ],
+          [
+            -6.126876,
+            53.398469
+          ],
+          [
+            -6.126809,
+            53.398442
+          ],
+          [
+            -6.126521,
+            53.398159
+          ],
+          [
+            -6.126279,
+            53.397856
+          ],
+          [
+            -6.125548,
+            53.396819
+          ],
+          [
+            -6.125365,
+            53.396571
+          ],
+          [
+            -6.125185,
+            53.396362
+          ],
+          [
+            -6.12513,
+            53.396313
+          ],
+          [
+            -6.124835,
+            53.396047
+          ],
+          [
+            -6.124179,
+            53.395498
+          ],
+          [
+            -6.123804,
+            53.395208
+          ],
+          [
+            -6.123508,
+            53.394979
+          ],
+          [
+            -6.12296,
+            53.394586
+          ],
+          [
+            -6.122689,
+            53.394412
+          ],
+          [
+            -6.121542,
+            53.393855
+          ],
+          [
+            -6.120636,
+            53.393443
+          ],
+          [
+            -6.11947,
+            53.392943
+          ],
+          [
+            -6.119373,
+            53.392901
+          ],
+          [
+            -6.117819,
+            53.392258
+          ],
+          [
+            -6.117525,
+            53.392134
+          ],
+          [
+            -6.117271,
+            53.392028
+          ],
+          [
+            -6.117191,
+            53.391995
+          ],
+          [
+            -6.116893,
+            53.391874
+          ],
+          [
+            -6.116715,
+            53.391802
+          ],
+          [
+            -6.116601,
+            53.391756
+          ],
+          [
+            -6.116357,
+            53.391659
+          ],
+          [
+            -6.116118,
+            53.391563
+          ],
+          [
+            -6.115641,
+            53.391373
+          ],
+          [
+            -6.115062,
+            53.391153
+          ],
+          [
+            -6.114978,
+            53.391122
+          ],
+          [
+            -6.113349,
+            53.390535
+          ],
+          [
+            -6.113285,
+            53.390513
+          ],
+          [
+            -6.112753,
+            53.390322
+          ],
+          [
+            -6.111914,
+            53.390021
+          ],
+          [
+            -6.110819,
+            53.389628
+          ],
+          [
+            -6.110795,
+            53.38962
+          ],
+          [
+            -6.110437,
+            53.389504
+          ],
+          [
+            -6.110258,
+            53.389449
+          ],
+          [
+            -6.110053,
+            53.389473
+          ],
+          [
+            -6.109936,
+            53.389486
+          ],
+          [
+            -6.109874,
+            53.389493
+          ],
+          [
+            -6.109041,
+            53.389571
+          ],
+          [
+            -6.108855,
+            53.389586
+          ],
+          [
+            -6.108651,
+            53.389603
+          ],
+          [
+            -6.10849,
+            53.389616
+          ],
+          [
+            -6.108356,
+            53.389629
+          ],
+          [
+            -6.108189,
+            53.389646
+          ],
+          [
+            -6.108073,
+            53.389656
+          ],
+          [
+            -6.107932,
+            53.389667
+          ],
+          [
+            -6.107344,
+            53.389727
+          ],
+          [
+            -6.106779,
+            53.389782
+          ],
+          [
+            -6.106547,
+            53.389805
+          ],
+          [
+            -6.105716,
+            53.389878
+          ],
+          [
+            -6.105397,
+            53.389902
+          ],
+          [
+            -6.105164,
+            53.38992
+          ],
+          [
+            -6.104784,
+            53.389948
+          ],
+          [
+            -6.104538,
+            53.389968
+          ],
+          [
+            -6.104355,
+            53.389987
+          ],
+          [
+            -6.104269,
+            53.389994
+          ],
+          [
+            -6.10398,
+            53.390026
+          ],
+          [
+            -6.103614,
+            53.390069
+          ],
+          [
+            -6.103161,
+            53.39015
+          ],
+          [
+            -6.103027,
+            53.390183
+          ],
+          [
+            -6.102778,
+            53.390245
+          ],
+          [
+            -6.102531,
+            53.390306
+          ],
+          [
+            -6.10247,
+            53.390322
+          ],
+          [
+            -6.101953,
+            53.390456
+          ],
+          [
+            -6.101721,
+            53.390502
+          ],
+          [
+            -6.101474,
+            53.390552
+          ],
+          [
+            -6.100935,
+            53.39066
+          ],
+          [
+            -6.100816,
+            53.390683
+          ],
+          [
+            -6.10028,
+            53.390784
+          ],
+          [
+            -6.100071,
+            53.390824
+          ],
+          [
+            -6.099882,
+            53.39086
+          ],
+          [
+            -6.099534,
+            53.390926
+          ],
+          [
+            -6.099476,
+            53.390937
+          ],
+          [
+            -6.098764,
+            53.391057
+          ],
+          [
+            -6.098339,
+            53.391124
+          ],
+          [
+            -6.098261,
+            53.391136
+          ],
+          [
+            -6.098036,
+            53.391146
+          ],
+          [
+            -6.09777,
+            53.39115
+          ],
+          [
+            -6.097489,
+            53.391143
+          ],
+          [
+            -6.097046,
+            53.391131
+          ],
+          [
+            -6.09688,
+            53.391125
+          ],
+          [
+            -6.095416,
+            53.391085
+          ],
+          [
+            -6.09484,
+            53.391069
+          ],
+          [
+            -6.093906,
+            53.391044
+          ],
+          [
+            -6.092275,
+            53.391009
+          ],
+          [
+            -6.092134,
+            53.391001
+          ],
+          [
+            -6.092047,
+            53.390997
+          ],
+          [
+            -6.091038,
+            53.390941
+          ],
+          [
+            -6.090676,
+            53.390918
+          ],
+          [
+            -6.086083,
+            53.390626
+          ],
+          [
+            -6.086011,
+            53.390621
+          ],
+          [
+            -6.085917,
+            53.390615
+          ],
+          [
+            -6.085588,
+            53.390588
+          ],
+          [
+            -6.085098,
+            53.390548
+          ],
+          [
+            -6.08471,
+            53.39047
+          ],
+          [
+            -6.08454,
+            53.390412
+          ],
+          [
+            -6.084406,
+            53.390354
+          ],
+          [
+            -6.083261,
+            53.389612
+          ],
+          [
+            -6.082861,
+            53.389424
+          ],
+          [
+            -6.082605,
+            53.389328
+          ],
+          [
+            -6.082337,
+            53.389231
+          ],
+          [
+            -6.081923,
+            53.389099
+          ],
+          [
+            -6.08166,
+            53.389018
+          ],
+          [
+            -6.08138,
+            53.388946
+          ],
+          [
+            -6.08108,
+            53.388885
+          ],
+          [
+            -6.080704,
+            53.388829
+          ],
+          [
+            -6.080524,
+            53.388817
+          ],
+          [
+            -6.080304,
+            53.388806
+          ],
+          [
+            -6.079991,
+            53.3888
+          ],
+          [
+            -6.07976,
+            53.388807
+          ],
+          [
+            -6.07966,
+            53.38881
+          ],
+          [
+            -6.079446,
+            53.388831
+          ],
+          [
+            -6.079061,
+            53.388875
+          ],
+          [
+            -6.0784,
+            53.388942
+          ],
+          [
+            -6.077706,
+            53.388954
+          ],
+          [
+            -6.077363,
+            53.38894
+          ],
+          [
+            -6.077032,
+            53.388908
+          ],
+          [
+            -6.076682,
+            53.388855
+          ],
+          [
+            -6.076403,
+            53.388813
+          ],
+          [
+            -6.076301,
+            53.388798
+          ],
+          [
+            -6.076113,
+            53.388771
+          ],
+          [
+            -6.076007,
+            53.388761
+          ],
+          [
+            -6.075783,
+            53.388741
+          ],
+          [
+            -6.07576,
+            53.38874
+          ],
+          [
+            -6.075518,
+            53.388727
+          ],
+          [
+            -6.075472,
+            53.388725
+          ],
+          [
+            -6.075032,
+            53.388712
+          ],
+          [
+            -6.074601,
+            53.388702
+          ],
+          [
+            -6.074596,
+            53.388752
+          ],
+          [
+            -6.074566,
+            53.388802
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.074836,
+        53.388702,
+        -6.074566,
+        53.388802
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 27,
+            "duration": 5.5,
+            "steps": [
+              {
+                "distance": 11.4,
+                "duration": 4.1,
+                "type": 11,
+                "instruction": "Head south",
+                "name": "-",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 15.6,
+                "duration": 1.4,
+                "type": 1,
+                "instruction": "Turn right onto Howth Road, R105",
+                "name": "Howth Road, R105",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Howth Road, R105, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 27,
+          "duration": 5.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.074566,
+            53.388802
+          ],
+          [
+            -6.074596,
+            53.388752
+          ],
+          [
+            -6.074601,
+            53.388702
+          ],
+          [
+            -6.074836,
+            53.388708
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

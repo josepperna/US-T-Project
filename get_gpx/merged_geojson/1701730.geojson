@@ -1,0 +1,2285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.221275,
+        53.456328,
+        -6.221212,
+        53.456345
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4.6,
+            "duration": 0.4,
+            "steps": [
+              {
+                "distance": 4.6,
+                "duration": 0.4,
+                "type": 11,
+                "instruction": "Head southeast on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 4.6,
+          "duration": 0.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221275,
+            53.456345
+          ],
+          [
+            -6.221212,
+            53.456328
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221555,
+        53.456319,
+        -6.221212,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 29.9,
+            "duration": 2.7,
+            "steps": [
+              {
+                "distance": 21,
+                "duration": 1.9,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 9,
+                "duration": 0.8,
+                "type": 0,
+                "instruction": "Turn left onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 29.9,
+          "duration": 2.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221212,
+            53.456328
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221555,
+            53.456319
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221555,
+        53.456319,
+        -6.221229,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 28.7,
+            "duration": 2.6,
+            "steps": [
+              {
+                "distance": 9,
+                "duration": 0.8,
+                "type": 11,
+                "instruction": "Head north on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 19.8,
+                "duration": 1.8,
+                "type": 1,
+                "instruction": "Turn right onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 28.7,
+          "duration": 2.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221555,
+            53.456319
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221229,
+            53.456333
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221275,
+        53.456333,
+        -6.221229,
+        53.456345
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3.4,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 3.4,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 3.4,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221229,
+            53.456333
+          ],
+          [
+            -6.221275,
+            53.456345
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221364,
+        53.456345,
+        -6.221275,
+        53.456367
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 6.4,
+            "duration": 0.6,
+            "steps": [
+              {
+                "distance": 6.4,
+                "duration": 0.6,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 6.4,
+          "duration": 0.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221275,
+            53.456345
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221364,
+            53.456367
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221674,
+        53.456125,
+        -6.221364,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 41.9,
+            "duration": 3.8,
+            "steps": [
+              {
+                "distance": 10,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head west on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 31.9,
+                "duration": 2.9,
+                "type": 0,
+                "instruction": "Turn left onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 41.9,
+          "duration": 3.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221364,
+            53.456367
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221674,
+            53.456125
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221674,
+        53.456125,
+        -6.221373,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 41.2,
+            "duration": 3.7,
+            "steps": [
+              {
+                "distance": 31.9,
+                "duration": 2.9,
+                "type": 11,
+                "instruction": "Head north on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 9.3,
+                "duration": 0.8,
+                "type": 1,
+                "instruction": "Turn right onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 41.2,
+          "duration": 3.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221674,
+            53.456125
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221373,
+            53.456369
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221373,
+        53.456328,
+        -6.221212,
+        53.456369
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.6,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 11.6,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head east on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 11.6,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221373,
+            53.456369
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221212,
+            53.456328
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221508,
+        53.456328,
+        -6.221212,
+        53.456488
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 32.2,
+            "duration": 2.9,
+            "steps": [
+              {
+                "distance": 21,
+                "duration": 1.9,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 11.2,
+                "duration": 1,
+                "type": 1,
+                "instruction": "Turn right onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 32.2,
+          "duration": 2.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221212,
+            53.456328
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221448,
+            53.456488
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221508,
+        53.456335,
+        -6.221237,
+        53.456488
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 30.3,
+            "duration": 2.7,
+            "steps": [
+              {
+                "distance": 11.2,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head south on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 19.2,
+                "duration": 1.7,
+                "type": 0,
+                "instruction": "Turn left onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 30.3,
+          "duration": 2.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221448,
+            53.456488
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221237,
+            53.456335
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221237,
+        53.45633,
+        -6.22122,
+        53.456335
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.2,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 1.2,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head southeast on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.2,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221237,
+            53.456335
+          ],
+          [
+            -6.22122,
+            53.45633
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221373,
+        53.45633,
+        -6.22122,
+        53.456369
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 11,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 11,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.22122,
+            53.45633
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221373,
+            53.456369
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221373,
+        53.456357,
+        -6.221317,
+        53.456369
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4,
+            "duration": 0.4,
+            "steps": [
+              {
+                "distance": 4,
+                "duration": 0.4,
+                "type": 11,
+                "instruction": "Head east on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 4,
+          "duration": 0.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221373,
+            53.456369
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221317,
+            53.456357
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221317,
+        53.456317,
+        -6.221171,
+        53.456357
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 10.6,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 10.6,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head southeast on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 10.6,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221317,
+            53.456357
+          ],
+          [
+            -6.221171,
+            53.456317
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221325,
+        53.456317,
+        -6.221171,
+        53.456359
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 11.2,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 11.2,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 11.2,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221171,
+            53.456317
+          ],
+          [
+            -6.221325,
+            53.456359
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221325,
+        53.456352,
+        -6.2213,
+        53.456359
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.8,
+            "duration": 0.2,
+            "steps": [
+              {
+                "distance": 1.8,
+                "duration": 0.2,
+                "type": 11,
+                "instruction": "Head southeast on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.8,
+          "duration": 0.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221325,
+            53.456359
+          ],
+          [
+            -6.2213,
+            53.456352
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.2213,
+        53.456303,
+        -6.221121,
+        53.456352
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 13,
+            "duration": 1.2,
+            "steps": [
+              {
+                "distance": 13,
+                "duration": 1.2,
+                "type": 11,
+                "instruction": "Head southeast on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 13,
+          "duration": 1.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.2213,
+            53.456352
+          ],
+          [
+            -6.221121,
+            53.456303
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221292,
+        53.456303,
+        -6.221121,
+        53.45635
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 12.4,
+            "duration": 1.1,
+            "steps": [
+              {
+                "distance": 12.4,
+                "duration": 1.1,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 12.4,
+          "duration": 1.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221121,
+            53.456303
+          ],
+          [
+            -6.221292,
+            53.45635
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.2213,
+        53.45635,
+        -6.221292,
+        53.456352
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221292,
+            53.45635
+          ],
+          [
+            -6.2213,
+            53.456352
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221675,
+        53.456123,
+        -6.2213,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 46.7,
+            "duration": 4.2,
+            "steps": [
+              {
+                "distance": 14.6,
+                "duration": 1.3,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 32.1,
+                "duration": 2.9,
+                "type": 0,
+                "instruction": "Turn left onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 46.7,
+          "duration": 4.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.2213,
+            53.456352
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221675,
+            53.456123
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221609,
+        53.45623,
+        -6.221245,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 38,
+            "duration": 3.4,
+            "steps": [
+              {
+                "distance": 18.6,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 19.4,
+                "duration": 1.7,
+                "type": 0,
+                "instruction": "Turn left onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 38,
+          "duration": 3.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221245,
+            53.456337
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221609,
+            53.45623
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221675,
+        53.456123,
+        -6.221346,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 43.4,
+            "duration": 3.9,
+            "steps": [
+              {
+                "distance": 32.1,
+                "duration": 2.9,
+                "type": 11,
+                "instruction": "Head north on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 11.2,
+                "duration": 1,
+                "type": 1,
+                "instruction": "Turn right onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 43.4,
+          "duration": 3.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221675,
+            53.456123
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221346,
+            53.456364
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221556,
+        53.456317,
+        -6.221346,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 20.4,
+            "duration": 1.8,
+            "steps": [
+              {
+                "distance": 11.2,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head west on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 9.2,
+                "duration": 0.8,
+                "type": 0,
+                "instruction": "Turn left onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 20.4,
+          "duration": 1.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221346,
+            53.456364
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221556,
+            53.456317
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221556,
+        53.456317,
+        -6.221212,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 30.2,
+            "duration": 2.7,
+            "steps": [
+              {
+                "distance": 9.2,
+                "duration": 0.8,
+                "type": 11,
+                "instruction": "Head north on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 21,
+                "duration": 1.9,
+                "type": 1,
+                "instruction": "Turn right onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 30.2,
+          "duration": 2.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221556,
+            53.456317
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221212,
+            53.456328
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221229,
+        53.456328,
+        -6.221212,
+        53.456333
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1.2,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 1.2,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 1.2,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221212,
+            53.456328
+          ],
+          [
+            -6.221229,
+            53.456333
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221609,
+        53.45623,
+        -6.22122,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 39.8,
+            "duration": 3.6,
+            "steps": [
+              {
+                "distance": 19.4,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head north on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 20.4,
+                "duration": 1.8,
+                "type": 1,
+                "instruction": "Turn right onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 39.8,
+          "duration": 3.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221609,
+            53.45623
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.22122,
+            53.45633
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221229,
+        53.45633,
+        -6.22122,
+        53.456333
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.22122,
+            53.45633
+          ],
+          [
+            -6.221229,
+            53.456333
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221237,
+        53.456333,
+        -6.221229,
+        53.456335
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 0.6,
+            "duration": 0.1,
+            "steps": [
+              {
+                "distance": 0.6,
+                "duration": 0.1,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 0.6,
+          "duration": 0.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221229,
+            53.456333
+          ],
+          [
+            -6.221237,
+            53.456335
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221596,
+        53.456252,
+        -6.221237,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 36.1,
+            "duration": 3.2,
+            "steps": [
+              {
+                "distance": 19.2,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head northwest on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 16.9,
+                "duration": 1.5,
+                "type": 0,
+                "instruction": "Turn left onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  2,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 36.1,
+          "duration": 3.2
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221237,
+            53.456335
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221596,
+            53.456252
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221596,
+        53.456252,
+        -6.221355,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 27.5,
+            "duration": 2.5,
+            "steps": [
+              {
+                "distance": 16.9,
+                "duration": 1.5,
+                "type": 11,
+                "instruction": "Head north on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 10.6,
+                "duration": 1,
+                "type": 1,
+                "instruction": "Turn right onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 27.5,
+          "duration": 2.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221596,
+            53.456252
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221355,
+            53.456366
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221616,
+        53.456219,
+        -6.221355,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 31.4,
+            "duration": 2.8,
+            "steps": [
+              {
+                "distance": 10.6,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head west on Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 20.8,
+                "duration": 1.9,
+                "type": 0,
+                "instruction": "Turn left onto Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, R836, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 31.4,
+          "duration": 2.8
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221355,
+            53.456366
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221616,
+            53.456219
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.221616,
+        53.456219,
+        -6.221275,
+        53.456394
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 37.1,
+            "duration": 3.3,
+            "steps": [
+              {
+                "distance": 20.8,
+                "duration": 1.9,
+                "type": 11,
+                "instruction": "Head north on Main Street, R836",
+                "name": "Main Street, R836",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 16.4,
+                "duration": 1.5,
+                "type": 1,
+                "instruction": "Turn right onto Malahide Road",
+                "name": "Malahide Road",
+                "way_points": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Malahide Road, on the right",
+                "name": "-",
+                "way_points": [
+                  3,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          3
+        ],
+        "summary": {
+          "distance": 37.1,
+          "duration": 3.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.221616,
+            53.456219
+          ],
+          [
+            -6.221508,
+            53.456394
+          ],
+          [
+            -6.221337,
+            53.456362
+          ],
+          [
+            -6.221275,
+            53.456345
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

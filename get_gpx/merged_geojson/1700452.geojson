@@ -1,0 +1,3304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "bbox": [
+        -6.439741,
+        53.390746,
+        -6.429963,
+        53.395814
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1128.8,
+            "duration": 117.3,
+            "steps": [
+              {
+                "distance": 71.1,
+                "duration": 12.8,
+                "type": 11,
+                "instruction": "Head southeast on Main Street",
+                "name": "Main Street",
+                "way_points": [
+                  0,
+                  4
+                ]
+              },
+              {
+                "distance": 66.6,
+                "duration": 9.6,
+                "type": 0,
+                "instruction": "Turn left onto Ongar Square",
+                "name": "Ongar Square",
+                "way_points": [
+                  4,
+                  11
+                ]
+              },
+              {
+                "distance": 328.9,
+                "duration": 37,
+                "type": 6,
+                "instruction": "Continue straight onto The Mall",
+                "name": "The Mall",
+                "way_points": [
+                  11,
+                  28
+                ]
+              },
+              {
+                "distance": 494.5,
+                "duration": 42.7,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 1st exit onto Ongar Distributor Road",
+                "name": "Ongar Distributor Road",
+                "exit_number": 1,
+                "way_points": [
+                  28,
+                  40
+                ]
+              },
+              {
+                "distance": 167.7,
+                "duration": 15.1,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 2nd exit onto Ongar Distributor Road, L3016",
+                "name": "Ongar Distributor Road, L3016",
+                "exit_number": 2,
+                "way_points": [
+                  40,
+                  50
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ongar Distributor Road, L3016, on the left",
+                "name": "-",
+                "way_points": [
+                  50,
+                  50
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                11,
+                32
+              ],
+              [
+                11,
+                50,
+                0
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 991.1,
+                "amount": 87.8
+              },
+              {
+                "value": 32,
+                "distance": 137.7,
+                "amount": 12.2
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          50
+        ],
+        "summary": {
+          "distance": 1128.8,
+          "duration": 117.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.439741,
+            53.395814
+          ],
+          [
+            -6.439681,
+            53.395784
+          ],
+          [
+            -6.439528,
+            53.395708
+          ],
+          [
+            -6.439516,
+            53.395702
+          ],
+          [
+            -6.438917,
+            53.395406
+          ],
+          [
+            -6.438821,
+            53.39545
+          ],
+          [
+            -6.438722,
+            53.39547
+          ],
+          [
+            -6.438651,
+            53.395458
+          ],
+          [
+            -6.43851,
+            53.395386
+          ],
+          [
+            -6.438487,
+            53.395365
+          ],
+          [
+            -6.438495,
+            53.395337
+          ],
+          [
+            -6.438771,
+            53.39514
+          ],
+          [
+            -6.438906,
+            53.395041
+          ],
+          [
+            -6.439171,
+            53.394854
+          ],
+          [
+            -6.439205,
+            53.394817
+          ],
+          [
+            -6.439192,
+            53.394749
+          ],
+          [
+            -6.439047,
+            53.394494
+          ],
+          [
+            -6.439029,
+            53.394458
+          ],
+          [
+            -6.438852,
+            53.394142
+          ],
+          [
+            -6.438825,
+            53.394065
+          ],
+          [
+            -6.438792,
+            53.393908
+          ],
+          [
+            -6.438798,
+            53.393865
+          ],
+          [
+            -6.438822,
+            53.393729
+          ],
+          [
+            -6.438973,
+            53.392985
+          ],
+          [
+            -6.43908,
+            53.392746
+          ],
+          [
+            -6.439111,
+            53.392679
+          ],
+          [
+            -6.43913,
+            53.392582
+          ],
+          [
+            -6.439119,
+            53.392518
+          ],
+          [
+            -6.439088,
+            53.39233
+          ],
+          [
+            -6.439076,
+            53.392312
+          ],
+          [
+            -6.439068,
+            53.392294
+          ],
+          [
+            -6.438994,
+            53.392235
+          ],
+          [
+            -6.438881,
+            53.392169
+          ],
+          [
+            -6.438734,
+            53.392105
+          ],
+          [
+            -6.438658,
+            53.392086
+          ],
+          [
+            -6.43661,
+            53.391601
+          ],
+          [
+            -6.436062,
+            53.391483
+          ],
+          [
+            -6.435334,
+            53.391358
+          ],
+          [
+            -6.434605,
+            53.391276
+          ],
+          [
+            -6.43303,
+            53.391141
+          ],
+          [
+            -6.432081,
+            53.391019
+          ],
+          [
+            -6.431987,
+            53.391111
+          ],
+          [
+            -6.431811,
+            53.391179
+          ],
+          [
+            -6.431715,
+            53.391191
+          ],
+          [
+            -6.431599,
+            53.39119
+          ],
+          [
+            -6.43147,
+            53.391165
+          ],
+          [
+            -6.431359,
+            53.391112
+          ],
+          [
+            -6.431266,
+            53.391023
+          ],
+          [
+            -6.43124,
+            53.390932
+          ],
+          [
+            -6.430813,
+            53.390876
+          ],
+          [
+            -6.429963,
+            53.390746
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.43002,
+        53.390746,
+        -6.429963,
+        53.390754
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3.9,
+            "duration": 0.3,
+            "steps": [
+              {
+                "distance": 3.9,
+                "duration": 0.3,
+                "type": 11,
+                "instruction": "Head west on Ongar Distributor Road, L3016",
+                "name": "Ongar Distributor Road, L3016",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ongar Distributor Road, L3016, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 3.9,
+          "duration": 0.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.429963,
+            53.390746
+          ],
+          [
+            -6.43002,
+            53.390754
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.43002,
+        53.390711,
+        -6.429738,
+        53.390754
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 19.3,
+            "duration": 1.7,
+            "steps": [
+              {
+                "distance": 19.3,
+                "duration": 1.7,
+                "type": 11,
+                "instruction": "Head east on Ongar Distributor Road, L3016",
+                "name": "Ongar Distributor Road, L3016",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ongar Distributor Road, L3016, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 19.3,
+          "duration": 1.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.43002,
+            53.390754
+          ],
+          [
+            -6.429738,
+            53.390711
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.429738,
+        53.385612,
+        -6.38821,
+        53.39131
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3353.9,
+            "duration": 298.5,
+            "steps": [
+              {
+                "distance": 1865.3,
+                "duration": 150.9,
+                "type": 11,
+                "instruction": "Head east on Ongar Distributor Road, L3016",
+                "name": "Ongar Distributor Road, L3016",
+                "way_points": [
+                  0,
+                  19
+                ]
+              },
+              {
+                "distance": 459.2,
+                "duration": 48.8,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 2nd exit onto Snugborough Road Extension, R843",
+                "name": "Snugborough Road Extension, R843",
+                "exit_number": 2,
+                "way_points": [
+                  19,
+                  37
+                ]
+              },
+              {
+                "distance": 645.2,
+                "duration": 46.8,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 1st exit onto Snugborough Road Extension, R843",
+                "name": "Snugborough Road Extension, R843",
+                "exit_number": 1,
+                "way_points": [
+                  37,
+                  55
+                ]
+              },
+              {
+                "distance": 80,
+                "duration": 10.5,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 1st exit onto L30862",
+                "name": "L30862",
+                "exit_number": 1,
+                "way_points": [
+                  55,
+                  61
+                ]
+              },
+              {
+                "distance": 94.7,
+                "duration": 12.8,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 2nd exit",
+                "name": "-",
+                "exit_number": 2,
+                "way_points": [
+                  61,
+                  71
+                ]
+              },
+              {
+                "distance": 149.4,
+                "duration": 17.9,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 2nd exit onto Blanchardstown Centre",
+                "name": "Blanchardstown Centre",
+                "exit_number": 2,
+                "way_points": [
+                  71,
+                  81
+                ]
+              },
+              {
+                "distance": 60.2,
+                "duration": 10.8,
+                "type": 0,
+                "instruction": "Turn left",
+                "name": "-",
+                "way_points": [
+                  81,
+                  86
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  86,
+                  86
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          86
+        ],
+        "summary": {
+          "distance": 3353.9,
+          "duration": 298.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.429738,
+            53.390711
+          ],
+          [
+            -6.429204,
+            53.39063
+          ],
+          [
+            -6.428982,
+            53.390592
+          ],
+          [
+            -6.428519,
+            53.390514
+          ],
+          [
+            -6.427572,
+            53.390338
+          ],
+          [
+            -6.425735,
+            53.389956
+          ],
+          [
+            -6.419683,
+            53.388886
+          ],
+          [
+            -6.418136,
+            53.388569
+          ],
+          [
+            -6.416924,
+            53.388329
+          ],
+          [
+            -6.41608,
+            53.388166
+          ],
+          [
+            -6.414135,
+            53.387801
+          ],
+          [
+            -6.41209,
+            53.387409
+          ],
+          [
+            -6.409997,
+            53.387042
+          ],
+          [
+            -6.40965,
+            53.386973
+          ],
+          [
+            -6.408962,
+            53.386844
+          ],
+          [
+            -6.408176,
+            53.386674
+          ],
+          [
+            -6.403805,
+            53.385869
+          ],
+          [
+            -6.403386,
+            53.385798
+          ],
+          [
+            -6.402984,
+            53.385752
+          ],
+          [
+            -6.402886,
+            53.385734
+          ],
+          [
+            -6.40285,
+            53.385809
+          ],
+          [
+            -6.402778,
+            53.385874
+          ],
+          [
+            -6.402677,
+            53.385923
+          ],
+          [
+            -6.402556,
+            53.385952
+          ],
+          [
+            -6.402427,
+            53.385958
+          ],
+          [
+            -6.40231,
+            53.385943
+          ],
+          [
+            -6.402206,
+            53.385909
+          ],
+          [
+            -6.40212,
+            53.38586
+          ],
+          [
+            -6.402061,
+            53.385799
+          ],
+          [
+            -6.402027,
+            53.385698
+          ],
+          [
+            -6.401859,
+            53.38568
+          ],
+          [
+            -6.400411,
+            53.385612
+          ],
+          [
+            -6.399619,
+            53.385614
+          ],
+          [
+            -6.398863,
+            53.385646
+          ],
+          [
+            -6.398137,
+            53.385708
+          ],
+          [
+            -6.397301,
+            53.385799
+          ],
+          [
+            -6.396613,
+            53.38591
+          ],
+          [
+            -6.396457,
+            53.385918
+          ],
+          [
+            -6.396456,
+            53.385927
+          ],
+          [
+            -6.39641,
+            53.385974
+          ],
+          [
+            -6.396359,
+            53.385987
+          ],
+          [
+            -6.396295,
+            53.385981
+          ],
+          [
+            -6.396256,
+            53.385963
+          ],
+          [
+            -6.396163,
+            53.386007
+          ],
+          [
+            -6.395437,
+            53.386198
+          ],
+          [
+            -6.394854,
+            53.386373
+          ],
+          [
+            -6.394807,
+            53.386387
+          ],
+          [
+            -6.394764,
+            53.3864
+          ],
+          [
+            -6.394608,
+            53.386445
+          ],
+          [
+            -6.393753,
+            53.386717
+          ],
+          [
+            -6.392607,
+            53.387158
+          ],
+          [
+            -6.391451,
+            53.387616
+          ],
+          [
+            -6.390632,
+            53.387937
+          ],
+          [
+            -6.38921,
+            53.388493
+          ],
+          [
+            -6.388443,
+            53.388846
+          ],
+          [
+            -6.388268,
+            53.388945
+          ],
+          [
+            -6.388292,
+            53.388977
+          ],
+          [
+            -6.388286,
+            53.389047
+          ],
+          [
+            -6.388255,
+            53.389077
+          ],
+          [
+            -6.38821,
+            53.3891
+          ],
+          [
+            -6.388281,
+            53.38919
+          ],
+          [
+            -6.388695,
+            53.389559
+          ],
+          [
+            -6.388757,
+            53.389545
+          ],
+          [
+            -6.388862,
+            53.389556
+          ],
+          [
+            -6.388902,
+            53.389575
+          ],
+          [
+            -6.388925,
+            53.389596
+          ],
+          [
+            -6.388939,
+            53.38966
+          ],
+          [
+            -6.388921,
+            53.389688
+          ],
+          [
+            -6.388869,
+            53.389721
+          ],
+          [
+            -6.389092,
+            53.389941
+          ],
+          [
+            -6.389299,
+            53.390134
+          ],
+          [
+            -6.389362,
+            53.390187
+          ],
+          [
+            -6.3894,
+            53.390174
+          ],
+          [
+            -6.389508,
+            53.390174
+          ],
+          [
+            -6.389555,
+            53.39019
+          ],
+          [
+            -6.389601,
+            53.390223
+          ],
+          [
+            -6.389607,
+            53.3903
+          ],
+          [
+            -6.389571,
+            53.39033
+          ],
+          [
+            -6.390426,
+            53.390848
+          ],
+          [
+            -6.390518,
+            53.390903
+          ],
+          [
+            -6.390744,
+            53.391036
+          ],
+          [
+            -6.390816,
+            53.39109
+          ],
+          [
+            -6.390887,
+            53.391079
+          ],
+          [
+            -6.391132,
+            53.391121
+          ],
+          [
+            -6.391274,
+            53.391162
+          ],
+          [
+            -6.391576,
+            53.39129
+          ],
+          [
+            -6.391614,
+            53.39131
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.391801,
+        53.39131,
+        -6.391614,
+        53.39141
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 16.6,
+            "duration": 3,
+            "steps": [
+              {
+                "distance": 16.6,
+                "duration": 3,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 16.6,
+          "duration": 3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391614,
+            53.39131
+          ],
+          [
+            -6.391801,
+            53.39141
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.392292,
+        53.391079,
+        -6.390816,
+        53.391983
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 277.4,
+            "duration": 41.6,
+            "steps": [
+              {
+                "distance": 73.5,
+                "duration": 13.2,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  5
+                ]
+              },
+              {
+                "distance": 138.2,
+                "duration": 16.6,
+                "type": 3,
+                "instruction": "Turn sharp right onto Blanchardstown Centre",
+                "name": "Blanchardstown Centre",
+                "way_points": [
+                  5,
+                  7
+                ]
+              },
+              {
+                "distance": 65.6,
+                "duration": 11.8,
+                "type": 3,
+                "instruction": "Turn sharp right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  12
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  12,
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          12
+        ],
+        "summary": {
+          "distance": 277.4,
+          "duration": 41.6
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391801,
+            53.39141
+          ],
+          [
+            -6.391997,
+            53.391548
+          ],
+          [
+            -6.392218,
+            53.391766
+          ],
+          [
+            -6.392274,
+            53.391859
+          ],
+          [
+            -6.392292,
+            53.391937
+          ],
+          [
+            -6.392266,
+            53.391983
+          ],
+          [
+            -6.391565,
+            53.391545
+          ],
+          [
+            -6.390816,
+            53.39109
+          ],
+          [
+            -6.390887,
+            53.391079
+          ],
+          [
+            -6.391132,
+            53.391121
+          ],
+          [
+            -6.391274,
+            53.391162
+          ],
+          [
+            -6.391576,
+            53.39129
+          ],
+          [
+            -6.391675,
+            53.391343
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.39173,
+        53.391343,
+        -6.391675,
+        53.391373
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 4.9,
+            "duration": 0.9,
+            "steps": [
+              {
+                "distance": 4.9,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 4.9,
+          "duration": 0.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391675,
+            53.391343
+          ],
+          [
+            -6.39173,
+            53.391373
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.391801,
+        53.391373,
+        -6.39173,
+        53.39141
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 6.3,
+            "duration": 1.1,
+            "steps": [
+              {
+                "distance": 6.3,
+                "duration": 1.1,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 6.3,
+          "duration": 1.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.39173,
+            53.391373
+          ],
+          [
+            -6.391801,
+            53.39141
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.392292,
+        53.391079,
+        -6.390816,
+        53.391983
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 268.6,
+            "duration": 40.1,
+            "steps": [
+              {
+                "distance": 73.5,
+                "duration": 13.2,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  5
+                ]
+              },
+              {
+                "distance": 138.2,
+                "duration": 16.6,
+                "type": 3,
+                "instruction": "Turn sharp right onto Blanchardstown Centre",
+                "name": "Blanchardstown Centre",
+                "way_points": [
+                  5,
+                  7
+                ]
+              },
+              {
+                "distance": 56.8,
+                "duration": 10.2,
+                "type": 3,
+                "instruction": "Turn sharp right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  11
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  11,
+                  11
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          11
+        ],
+        "summary": {
+          "distance": 268.6,
+          "duration": 40.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391801,
+            53.39141
+          ],
+          [
+            -6.391997,
+            53.391548
+          ],
+          [
+            -6.392218,
+            53.391766
+          ],
+          [
+            -6.392274,
+            53.391859
+          ],
+          [
+            -6.392292,
+            53.391937
+          ],
+          [
+            -6.392266,
+            53.391983
+          ],
+          [
+            -6.391565,
+            53.391545
+          ],
+          [
+            -6.390816,
+            53.39109
+          ],
+          [
+            -6.390887,
+            53.391079
+          ],
+          [
+            -6.391132,
+            53.391121
+          ],
+          [
+            -6.391274,
+            53.391162
+          ],
+          [
+            -6.391576,
+            53.39129
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.391636,
+        53.39129,
+        -6.391576,
+        53.391322
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 5.3,
+            "duration": 1,
+            "steps": [
+              {
+                "distance": 5.3,
+                "duration": 1,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 5.3,
+          "duration": 1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391576,
+            53.39129
+          ],
+          [
+            -6.391636,
+            53.391322
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.391817,
+        53.391322,
+        -6.391636,
+        53.391422
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 16.3,
+            "duration": 2.9,
+            "steps": [
+              {
+                "distance": 16.3,
+                "duration": 2.9,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 16.3,
+          "duration": 2.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391636,
+            53.391322
+          ],
+          [
+            -6.391801,
+            53.39141
+          ],
+          [
+            -6.391817,
+            53.391422
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.392292,
+        53.391079,
+        -6.390816,
+        53.391983
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 286.9,
+            "duration": 43.4,
+            "steps": [
+              {
+                "distance": 71.9,
+                "duration": 12.9,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  5
+                ]
+              },
+              {
+                "distance": 138.2,
+                "duration": 16.6,
+                "type": 3,
+                "instruction": "Turn sharp right onto Blanchardstown Centre",
+                "name": "Blanchardstown Centre",
+                "way_points": [
+                  5,
+                  7
+                ]
+              },
+              {
+                "distance": 76.8,
+                "duration": 13.8,
+                "type": 3,
+                "instruction": "Turn sharp right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  12
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  12,
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          12
+        ],
+        "summary": {
+          "distance": 286.9,
+          "duration": 43.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391817,
+            53.391422
+          ],
+          [
+            -6.391997,
+            53.391548
+          ],
+          [
+            -6.392218,
+            53.391766
+          ],
+          [
+            -6.392274,
+            53.391859
+          ],
+          [
+            -6.392292,
+            53.391937
+          ],
+          [
+            -6.392266,
+            53.391983
+          ],
+          [
+            -6.391565,
+            53.391545
+          ],
+          [
+            -6.390816,
+            53.39109
+          ],
+          [
+            -6.390887,
+            53.391079
+          ],
+          [
+            -6.391132,
+            53.391121
+          ],
+          [
+            -6.391274,
+            53.391162
+          ],
+          [
+            -6.391576,
+            53.39129
+          ],
+          [
+            -6.391801,
+            53.39141
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.392292,
+        53.391079,
+        -6.390816,
+        53.391983
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 282.4,
+            "duration": 42.5,
+            "steps": [
+              {
+                "distance": 73.5,
+                "duration": 13.2,
+                "type": 11,
+                "instruction": "Head northwest",
+                "name": "-",
+                "way_points": [
+                  0,
+                  5
+                ]
+              },
+              {
+                "distance": 138.2,
+                "duration": 16.6,
+                "type": 3,
+                "instruction": "Turn sharp right onto Blanchardstown Centre",
+                "name": "Blanchardstown Centre",
+                "way_points": [
+                  5,
+                  7
+                ]
+              },
+              {
+                "distance": 70.6,
+                "duration": 12.7,
+                "type": 3,
+                "instruction": "Turn sharp right",
+                "name": "-",
+                "way_points": [
+                  7,
+                  12
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  12,
+                  12
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          12
+        ],
+        "summary": {
+          "distance": 282.4,
+          "duration": 42.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.391801,
+            53.39141
+          ],
+          [
+            -6.391997,
+            53.391548
+          ],
+          [
+            -6.392218,
+            53.391766
+          ],
+          [
+            -6.392274,
+            53.391859
+          ],
+          [
+            -6.392292,
+            53.391937
+          ],
+          [
+            -6.392266,
+            53.391983
+          ],
+          [
+            -6.391565,
+            53.391545
+          ],
+          [
+            -6.390816,
+            53.39109
+          ],
+          [
+            -6.390887,
+            53.391079
+          ],
+          [
+            -6.391132,
+            53.391121
+          ],
+          [
+            -6.391274,
+            53.391162
+          ],
+          [
+            -6.391576,
+            53.39129
+          ],
+          [
+            -6.39173,
+            53.391373
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.419627,
+        53.384099,
+        -6.419568,
+        53.384105
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3.9,
+            "duration": 1.4,
+            "steps": [
+              {
+                "distance": 3.9,
+                "duration": 1.4,
+                "type": 11,
+                "instruction": "Head west",
+                "name": "-",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at your destination, on the left",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 3.9,
+          "duration": 1.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.419568,
+            53.384105
+          ],
+          [
+            -6.419627,
+            53.384099
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.419945,
+        53.383831,
+        -6.418933,
+        53.384453
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 170.4,
+            "duration": 35.4,
+            "steps": [
+              {
+                "distance": 49.5,
+                "duration": 17.8,
+                "type": 11,
+                "instruction": "Head west",
+                "name": "-",
+                "way_points": [
+                  0,
+                  5
+                ]
+              },
+              {
+                "distance": 49.5,
+                "duration": 11.9,
+                "type": 1,
+                "instruction": "Turn right",
+                "name": "-",
+                "way_points": [
+                  5,
+                  8
+                ]
+              },
+              {
+                "distance": 71.4,
+                "duration": 5.7,
+                "type": 1,
+                "instruction": "Turn right onto Clonsilla Link Road, L3017",
+                "name": "Clonsilla Link Road, L3017",
+                "way_points": [
+                  8,
+                  11
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Clonsilla Link Road, L3017, on the right",
+                "name": "-",
+                "way_points": [
+                  11,
+                  11
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          11
+        ],
+        "summary": {
+          "distance": 170.4,
+          "duration": 35.4
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.419627,
+            53.384099
+          ],
+          [
+            -6.419693,
+            53.384093
+          ],
+          [
+            -6.419886,
+            53.384109
+          ],
+          [
+            -6.419945,
+            53.384163
+          ],
+          [
+            -6.419937,
+            53.38424
+          ],
+          [
+            -6.419918,
+            53.384387
+          ],
+          [
+            -6.419779,
+            53.384387
+          ],
+          [
+            -6.419311,
+            53.384438
+          ],
+          [
+            -6.419182,
+            53.384453
+          ],
+          [
+            -6.419056,
+            53.384231
+          ],
+          [
+            -6.418988,
+            53.384065
+          ],
+          [
+            -6.418933,
+            53.383831
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.42761,
+        53.383239,
+        -6.418884,
+        53.384349
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 967.9,
+            "duration": 120.3,
+            "steps": [
+              {
+                "distance": 31.5,
+                "duration": 2.5,
+                "type": 11,
+                "instruction": "Head south on Clonsilla Link Road, L3017",
+                "name": "Clonsilla Link Road, L3017",
+                "way_points": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "distance": 269.2,
+                "duration": 24.2,
+                "type": 1,
+                "instruction": "Turn right onto Clonsilla Road, R121",
+                "name": "Clonsilla Road, R121",
+                "way_points": [
+                  2,
+                  13
+                ]
+              },
+              {
+                "distance": 330.8,
+                "duration": 26.5,
+                "type": 5,
+                "instruction": "Turn slight right onto Hansfield Road, L3015",
+                "name": "Hansfield Road, L3015",
+                "way_points": [
+                  13,
+                  20
+                ]
+              },
+              {
+                "distance": 336.5,
+                "duration": 67.1,
+                "type": 2,
+                "instruction": "Turn sharp left onto The Royal Canal Way",
+                "name": "The Royal Canal Way",
+                "way_points": [
+                  20,
+                  28
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at The Royal Canal Way, on the left",
+                "name": "-",
+                "way_points": [
+                  28,
+                  28
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          28
+        ],
+        "summary": {
+          "distance": 967.9,
+          "duration": 120.3
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.418933,
+            53.383831
+          ],
+          [
+            -6.418898,
+            53.383681
+          ],
+          [
+            -6.418884,
+            53.38355
+          ],
+          [
+            -6.419264,
+            53.383559
+          ],
+          [
+            -6.419494,
+            53.383571
+          ],
+          [
+            -6.420477,
+            53.383619
+          ],
+          [
+            -6.421117,
+            53.38365
+          ],
+          [
+            -6.42137,
+            53.38366
+          ],
+          [
+            -6.42162,
+            53.383655
+          ],
+          [
+            -6.4217,
+            53.383643
+          ],
+          [
+            -6.421869,
+            53.383608
+          ],
+          [
+            -6.422257,
+            53.38351
+          ],
+          [
+            -6.42269,
+            53.383404
+          ],
+          [
+            -6.422844,
+            53.383371
+          ],
+          [
+            -6.42292,
+            53.383382
+          ],
+          [
+            -6.423101,
+            53.38342
+          ],
+          [
+            -6.423693,
+            53.383545
+          ],
+          [
+            -6.424273,
+            53.383666
+          ],
+          [
+            -6.424933,
+            53.383808
+          ],
+          [
+            -6.427534,
+            53.384345
+          ],
+          [
+            -6.427554,
+            53.384349
+          ],
+          [
+            -6.427555,
+            53.384276
+          ],
+          [
+            -6.42761,
+            53.384171
+          ],
+          [
+            -6.427107,
+            53.384083
+          ],
+          [
+            -6.424576,
+            53.383604
+          ],
+          [
+            -6.423775,
+            53.383415
+          ],
+          [
+            -6.423542,
+            53.383369
+          ],
+          [
+            -6.423295,
+            53.383302
+          ],
+          [
+            -6.42312,
+            53.383239
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.432104,
+        53.383239,
+        -6.42312,
+        53.391191
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1365.8,
+            "duration": 151.7,
+            "steps": [
+              {
+                "distance": 336.5,
+                "duration": 67.1,
+                "type": 11,
+                "instruction": "Head northwest on Royal Canal Way",
+                "name": "Royal Canal Way",
+                "way_points": [
+                  0,
+                  8
+                ]
+              },
+              {
+                "distance": 806.5,
+                "duration": 64.5,
+                "type": 0,
+                "instruction": "Turn left onto Hansfield Road, L3015",
+                "name": "Hansfield Road, L3015",
+                "way_points": [
+                  8,
+                  38
+                ]
+              },
+              {
+                "distance": 222.9,
+                "duration": 20.1,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 4th exit onto Ongar Distributor Road, L3016",
+                "name": "Ongar Distributor Road, L3016",
+                "exit_number": 4,
+                "way_points": [
+                  38,
+                  55
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Ongar Distributor Road, L3016, on the left",
+                "name": "-",
+                "way_points": [
+                  55,
+                  55
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          55
+        ],
+        "summary": {
+          "distance": 1365.8,
+          "duration": 151.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.42312,
+            53.383239
+          ],
+          [
+            -6.423295,
+            53.383302
+          ],
+          [
+            -6.423542,
+            53.383369
+          ],
+          [
+            -6.423775,
+            53.383415
+          ],
+          [
+            -6.424576,
+            53.383604
+          ],
+          [
+            -6.427107,
+            53.384083
+          ],
+          [
+            -6.42761,
+            53.384171
+          ],
+          [
+            -6.427555,
+            53.384276
+          ],
+          [
+            -6.427554,
+            53.384349
+          ],
+          [
+            -6.427632,
+            53.384365
+          ],
+          [
+            -6.427759,
+            53.384401
+          ],
+          [
+            -6.427871,
+            53.384465
+          ],
+          [
+            -6.427984,
+            53.384583
+          ],
+          [
+            -6.428,
+            53.384664
+          ],
+          [
+            -6.428002,
+            53.384773
+          ],
+          [
+            -6.427823,
+            53.385668
+          ],
+          [
+            -6.427668,
+            53.386143
+          ],
+          [
+            -6.427667,
+            53.386214
+          ],
+          [
+            -6.427674,
+            53.386278
+          ],
+          [
+            -6.42775,
+            53.38637
+          ],
+          [
+            -6.428005,
+            53.386549
+          ],
+          [
+            -6.42827,
+            53.386689
+          ],
+          [
+            -6.428608,
+            53.386857
+          ],
+          [
+            -6.429064,
+            53.387056
+          ],
+          [
+            -6.429428,
+            53.38719
+          ],
+          [
+            -6.429598,
+            53.387267
+          ],
+          [
+            -6.429709,
+            53.387349
+          ],
+          [
+            -6.429761,
+            53.387451
+          ],
+          [
+            -6.42989,
+            53.387739
+          ],
+          [
+            -6.430066,
+            53.388102
+          ],
+          [
+            -6.430681,
+            53.389227
+          ],
+          [
+            -6.430731,
+            53.389336
+          ],
+          [
+            -6.430807,
+            53.389491
+          ],
+          [
+            -6.431081,
+            53.390049
+          ],
+          [
+            -6.431224,
+            53.390219
+          ],
+          [
+            -6.431311,
+            53.390273
+          ],
+          [
+            -6.431492,
+            53.390419
+          ],
+          [
+            -6.43157,
+            53.39055
+          ],
+          [
+            -6.431623,
+            53.390682
+          ],
+          [
+            -6.431636,
+            53.390678
+          ],
+          [
+            -6.431788,
+            53.390686
+          ],
+          [
+            -6.431924,
+            53.390725
+          ],
+          [
+            -6.432021,
+            53.390782
+          ],
+          [
+            -6.432093,
+            53.390874
+          ],
+          [
+            -6.432104,
+            53.39094
+          ],
+          [
+            -6.432081,
+            53.391019
+          ],
+          [
+            -6.431987,
+            53.391111
+          ],
+          [
+            -6.431811,
+            53.391179
+          ],
+          [
+            -6.431715,
+            53.391191
+          ],
+          [
+            -6.431599,
+            53.39119
+          ],
+          [
+            -6.43147,
+            53.391165
+          ],
+          [
+            -6.431359,
+            53.391112
+          ],
+          [
+            -6.431266,
+            53.391023
+          ],
+          [
+            -6.43124,
+            53.390932
+          ],
+          [
+            -6.430813,
+            53.390876
+          ],
+          [
+            -6.430001,
+            53.390751
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.430001,
+        53.386238,
+        -6.403825,
+        53.390751
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 1912.5,
+            "duration": 175.5,
+            "steps": [
+              {
+                "distance": 1389.5,
+                "duration": 109.1,
+                "type": 11,
+                "instruction": "Head east on Ongar Distributor Road, L3016",
+                "name": "Ongar Distributor Road, L3016",
+                "way_points": [
+                  0,
+                  12
+                ]
+              },
+              {
+                "distance": 25.1,
+                "duration": 2.3,
+                "type": 0,
+                "instruction": "Turn left onto Shelerin Road, L3016",
+                "name": "Shelerin Road, L3016",
+                "way_points": [
+                  12,
+                  15
+                ]
+              },
+              {
+                "distance": 379.5,
+                "duration": 54.6,
+                "type": 1,
+                "instruction": "Turn right onto Lohunda Road",
+                "name": "Lohunda Road",
+                "way_points": [
+                  15,
+                  21
+                ]
+              },
+              {
+                "distance": 118.4,
+                "duration": 9.5,
+                "type": 0,
+                "instruction": "Turn left onto Lohunda Dale",
+                "name": "Lohunda Dale",
+                "way_points": [
+                  21,
+                  22
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Lohunda Dale, on the left",
+                "name": "-",
+                "way_points": [
+                  22,
+                  22
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          22
+        ],
+        "summary": {
+          "distance": 1912.5,
+          "duration": 175.5
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.430001,
+            53.390751
+          ],
+          [
+            -6.429204,
+            53.39063
+          ],
+          [
+            -6.428982,
+            53.390592
+          ],
+          [
+            -6.428519,
+            53.390514
+          ],
+          [
+            -6.427572,
+            53.390338
+          ],
+          [
+            -6.425735,
+            53.389956
+          ],
+          [
+            -6.419683,
+            53.388886
+          ],
+          [
+            -6.418136,
+            53.388569
+          ],
+          [
+            -6.416924,
+            53.388329
+          ],
+          [
+            -6.41608,
+            53.388166
+          ],
+          [
+            -6.414135,
+            53.387801
+          ],
+          [
+            -6.41209,
+            53.387409
+          ],
+          [
+            -6.409997,
+            53.387042
+          ],
+          [
+            -6.409951,
+            53.387123
+          ],
+          [
+            -6.409933,
+            53.387154
+          ],
+          [
+            -6.409879,
+            53.387257
+          ],
+          [
+            -6.40972,
+            53.387226
+          ],
+          [
+            -6.408504,
+            53.387011
+          ],
+          [
+            -6.407439,
+            53.386802
+          ],
+          [
+            -6.406352,
+            53.386606
+          ],
+          [
+            -6.405332,
+            53.386409
+          ],
+          [
+            -6.404418,
+            53.386238
+          ],
+          [
+            -6.403825,
+            53.387242
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.403879,
+        53.387151,
+        -6.403825,
+        53.387242
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 10.7,
+            "duration": 0.9,
+            "steps": [
+              {
+                "distance": 10.7,
+                "duration": 0.9,
+                "type": 11,
+                "instruction": "Head south on Lohunda Dale",
+                "name": "Lohunda Dale",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Lohunda Dale, on the right",
+                "name": "-",
+                "way_points": [
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
+        ],
+        "way_points": [
+          0,
+          1
+        ],
+        "summary": {
+          "distance": 10.7,
+          "duration": 0.9
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.403825,
+            53.387242
+          ],
+          [
+            -6.403879,
+            53.387151
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.43986,
+        53.386238,
+        -6.403879,
+        53.39589
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 3092.7,
+            "duration": 299.1,
+            "steps": [
+              {
+                "distance": 107.7,
+                "duration": 8.6,
+                "type": 11,
+                "instruction": "Head south on Lohunda Dale",
+                "name": "Lohunda Dale",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 379.5,
+                "duration": 54.6,
+                "type": 1,
+                "instruction": "Turn right onto Lohunda Road",
+                "name": "Lohunda Road",
+                "way_points": [
+                  1,
+                  7
+                ]
+              },
+              {
+                "distance": 25.1,
+                "duration": 2.3,
+                "type": 0,
+                "instruction": "Turn left onto Shelerin Road, L3016",
+                "name": "Shelerin Road, L3016",
+                "way_points": [
+                  7,
+                  10
+                ]
+              },
+              {
+                "distance": 1474.1,
+                "duration": 116.7,
+                "type": 1,
+                "instruction": "Turn right onto Ongar Distributor Road, L3016",
+                "name": "Ongar Distributor Road, L3016",
+                "way_points": [
+                  10,
+                  23
+                ]
+              },
+              {
+                "distance": 585.9,
+                "duration": 52.3,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 3rd exit onto Ongar Distributor Road",
+                "name": "Ongar Distributor Road",
+                "exit_number": 3,
+                "way_points": [
+                  23,
+                  44
+                ]
+              },
+              {
+                "distance": 399.3,
+                "duration": 43.7,
+                "type": 7,
+                "instruction": "Enter the roundabout and take the 3rd exit",
+                "name": "-",
+                "exit_number": 3,
+                "way_points": [
+                  44,
+                  74
+                ]
+              },
+              {
+                "distance": 37.7,
+                "duration": 5.4,
+                "type": 0,
+                "instruction": "Turn left onto Ongar Square",
+                "name": "Ongar Square",
+                "way_points": [
+                  74,
+                  77
+                ]
+              },
+              {
+                "distance": 81.2,
+                "duration": 14.6,
+                "type": 0,
+                "instruction": "Turn left onto Main Street",
+                "name": "Main Street",
+                "way_points": [
+                  77,
+                  81
+                ]
+              },
+              {
+                "distance": 2.3,
+                "duration": 0.8,
+                "type": 1,
+                "instruction": "Turn right onto North Street",
+                "name": "North Street",
+                "way_points": [
+                  81,
+                  82
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at North Street, on the left",
+                "name": "-",
+                "way_points": [
+                  82,
+                  82
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                74,
+                0
+              ],
+              [
+                74,
+                82,
+                32
+              ]
+            ],
+            "summary": [
+              {
+                "value": 0,
+                "distance": 2971.5,
+                "amount": 96.08
+              },
+              {
+                "value": 32,
+                "distance": 121.2,
+                "amount": 3.92
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          82
+        ],
+        "summary": {
+          "distance": 3092.7,
+          "duration": 299.1
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.403879,
+            53.387151
+          ],
+          [
+            -6.404418,
+            53.386238
+          ],
+          [
+            -6.405332,
+            53.386409
+          ],
+          [
+            -6.406352,
+            53.386606
+          ],
+          [
+            -6.407439,
+            53.386802
+          ],
+          [
+            -6.408504,
+            53.387011
+          ],
+          [
+            -6.40972,
+            53.387226
+          ],
+          [
+            -6.409879,
+            53.387257
+          ],
+          [
+            -6.409933,
+            53.387154
+          ],
+          [
+            -6.409951,
+            53.387123
+          ],
+          [
+            -6.409997,
+            53.387042
+          ],
+          [
+            -6.41209,
+            53.387409
+          ],
+          [
+            -6.414135,
+            53.387801
+          ],
+          [
+            -6.41608,
+            53.388166
+          ],
+          [
+            -6.416924,
+            53.388329
+          ],
+          [
+            -6.418136,
+            53.388569
+          ],
+          [
+            -6.419683,
+            53.388886
+          ],
+          [
+            -6.425735,
+            53.389956
+          ],
+          [
+            -6.427572,
+            53.390338
+          ],
+          [
+            -6.428519,
+            53.390514
+          ],
+          [
+            -6.428982,
+            53.390592
+          ],
+          [
+            -6.429204,
+            53.39063
+          ],
+          [
+            -6.430813,
+            53.390876
+          ],
+          [
+            -6.43124,
+            53.390932
+          ],
+          [
+            -6.431292,
+            53.390812
+          ],
+          [
+            -6.431392,
+            53.390738
+          ],
+          [
+            -6.431511,
+            53.390695
+          ],
+          [
+            -6.431623,
+            53.390682
+          ],
+          [
+            -6.431636,
+            53.390678
+          ],
+          [
+            -6.431788,
+            53.390686
+          ],
+          [
+            -6.431924,
+            53.390725
+          ],
+          [
+            -6.432021,
+            53.390782
+          ],
+          [
+            -6.432093,
+            53.390874
+          ],
+          [
+            -6.432104,
+            53.39094
+          ],
+          [
+            -6.432081,
+            53.391019
+          ],
+          [
+            -6.43303,
+            53.391141
+          ],
+          [
+            -6.434605,
+            53.391276
+          ],
+          [
+            -6.435334,
+            53.391358
+          ],
+          [
+            -6.436062,
+            53.391483
+          ],
+          [
+            -6.43661,
+            53.391601
+          ],
+          [
+            -6.438658,
+            53.392086
+          ],
+          [
+            -6.438734,
+            53.392105
+          ],
+          [
+            -6.438834,
+            53.392116
+          ],
+          [
+            -6.439093,
+            53.392127
+          ],
+          [
+            -6.439146,
+            53.392126
+          ],
+          [
+            -6.439193,
+            53.392103
+          ],
+          [
+            -6.439247,
+            53.392085
+          ],
+          [
+            -6.439331,
+            53.392073
+          ],
+          [
+            -6.439417,
+            53.392075
+          ],
+          [
+            -6.439499,
+            53.392091
+          ],
+          [
+            -6.43957,
+            53.392121
+          ],
+          [
+            -6.439627,
+            53.392164
+          ],
+          [
+            -6.439659,
+            53.392215
+          ],
+          [
+            -6.439663,
+            53.392274
+          ],
+          [
+            -6.439635,
+            53.392331
+          ],
+          [
+            -6.439578,
+            53.39238
+          ],
+          [
+            -6.439497,
+            53.392414
+          ],
+          [
+            -6.439428,
+            53.392429
+          ],
+          [
+            -6.439348,
+            53.392481
+          ],
+          [
+            -6.439281,
+            53.392541
+          ],
+          [
+            -6.439111,
+            53.392679
+          ],
+          [
+            -6.43908,
+            53.392746
+          ],
+          [
+            -6.438973,
+            53.392985
+          ],
+          [
+            -6.438822,
+            53.393729
+          ],
+          [
+            -6.438798,
+            53.393865
+          ],
+          [
+            -6.438792,
+            53.393908
+          ],
+          [
+            -6.438825,
+            53.394065
+          ],
+          [
+            -6.438852,
+            53.394142
+          ],
+          [
+            -6.439029,
+            53.394458
+          ],
+          [
+            -6.439047,
+            53.394494
+          ],
+          [
+            -6.439192,
+            53.394749
+          ],
+          [
+            -6.439205,
+            53.394817
+          ],
+          [
+            -6.439171,
+            53.394854
+          ],
+          [
+            -6.438906,
+            53.395041
+          ],
+          [
+            -6.438771,
+            53.39514
+          ],
+          [
+            -6.438988,
+            53.395241
+          ],
+          [
+            -6.438995,
+            53.395308
+          ],
+          [
+            -6.438917,
+            53.395406
+          ],
+          [
+            -6.439516,
+            53.395702
+          ],
+          [
+            -6.439528,
+            53.395708
+          ],
+          [
+            -6.439681,
+            53.395784
+          ],
+          [
+            -6.43986,
+            53.395872
+          ],
+          [
+            -6.439842,
+            53.39589
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "bbox": [
+        -6.43986,
+        53.395814,
+        -6.439741,
+        53.39589
+      ],
+      "type": "Feature",
+      "properties": {
+        "segments": [
+          {
+            "distance": 12.6,
+            "duration": 2.7,
+            "steps": [
+              {
+                "distance": 2.3,
+                "duration": 0.8,
+                "type": 11,
+                "instruction": "Head southwest on North Street",
+                "name": "North Street",
+                "way_points": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "distance": 10.2,
+                "duration": 1.8,
+                "type": 0,
+                "instruction": "Turn left onto Main Street",
+                "name": "Main Street",
+                "way_points": [
+                  1,
+                  2
+                ]
+              },
+              {
+                "distance": 0,
+                "duration": 0,
+                "type": 10,
+                "instruction": "Arrive at Main Street, on the right",
+                "name": "-",
+                "way_points": [
+                  2,
+                  2
+                ]
+              }
+            ]
+          }
+        ],
+        "extras": {
+          "roadaccessrestrictions": {
+            "values": [
+              [
+                0,
+                2,
+                32
+              ]
+            ],
+            "summary": [
+              {
+                "value": 32,
+                "distance": 12.6,
+                "amount": 100
+              }
+            ]
+          }
+        },
+        "warnings": [
+          {
+            "code": 1,
+            "message": "There may be restrictions on some roads"
+          }
+        ],
+        "way_points": [
+          0,
+          2
+        ],
+        "summary": {
+          "distance": 12.6,
+          "duration": 2.7
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -6.439842,
+            53.39589
+          ],
+          [
+            -6.43986,
+            53.395872
+          ],
+          [
+            -6.439741,
+            53.395814
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
