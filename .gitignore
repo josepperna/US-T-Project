@@ -68,7 +68,7 @@ instance/
 # Scrapy stuff:
 .scrapy
 gpx*
-
+geojson*
 # Sphinx documentation
 docs/_build/
 

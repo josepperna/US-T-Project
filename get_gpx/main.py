@@ -2,8 +2,9 @@ import requests
 import csv
 import os
 import multiprocessing
+import json
 
-SERVER_IP = "34.141.156.153:8080"
+SERVER_IP = "34.90.173.101:8080"
 
 def get_gpx(lat1, long1, lat2, long2, i, bike_id):
 
@@ -13,13 +14,13 @@ def get_gpx(lat1, long1, lat2, long2, i, bike_id):
         'Accept': 'application/json, application/geo+json, application/gpx+xml, img/png; charset=utf-8',
         'Content-Type': 'application/json; charset=utf-8'
     }
-    r = requests.post('http://{}/ors/v2/directions/driving-car/gpx'.format(SERVER_IP), json=body, headers=headers)
+    r = requests.post('http://{}/ors/v2/directions/driving-car/geojson'.format(SERVER_IP), json=body, headers=headers)
 
     if r.status_code != 200:
         return
     else:
-        with open("gpx/route_b{}_{}.gpx".format(bike_id, i), "w") as f:
-            f.write(str(r.content))
+        with open("geojson/route_b{}_{}.geojson".format(bike_id, i), "w") as f:
+            f.write(json.dumps(r.json()))
 
 
 def process_bike(filename):
